@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-17 23:08 (Berlin)",
+  "updated_at": "2026-06-17 23:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 4,
+    "position": 5,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -26,51 +26,51 @@
     },
     {
       "position": 2,
-      "domain": "till-freitag.com",
-      "url": "https://till-freitag.com/blog/serponado",
-      "title": "Serponado – Was ist das? Der SEO-Contest 2026 erklärt"
-    },
-    {
-      "position": 3,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
+      "position": 3,
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+    },
+    {
       "position": 4,
+      "domain": "m.youtube.com",
+      "url": "https://m.youtube.com/shorts/ar2XttBlA8k",
+      "title": "Was ist Serponado SEO? Lena Solé erklärt die Methode von Position One"
+    },
+    {
+      "position": 5,
       "domain": "www.optimerch.de",
       "url": "https://www.optimerch.de/serponado/",
       "title": "Serponado wirbelt die Google SERPs durcheinander"
     },
     {
-      "position": 5,
+      "position": 6,
       "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOor4c12oorYWqdbCENT7O-5NM2v-7z-PWffD5y2pa77-He3b-qcT",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoruA5SK1baUMifchMtghk5ijGHEfh4ofPQTu0Oeix76IDNXbFSp",
       "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
-      "position": 6,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/shorts/6hOLJrKDnAw",
-      "title": "Serponado – Mallorca Schlager 2026 von Lena Solé"
-    },
-    {
       "position": 7,
-      "domain": "seobuddha.de",
-      "url": "https://seobuddha.de/serponado/",
-      "title": "Serponado"
-    },
-    {
-      "position": 8,
       "domain": "www.semotion.de",
       "url": "https://www.semotion.de/serponado/",
       "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird - Semotion"
     },
     {
+      "position": 8,
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+    },
+    {
       "position": 9,
-      "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-ist-der-serponado-effekt/?srsltid=AfmBOoqffqJ47Xu1dpgJIHE-Fq2UbQYRrozu1F7-ZIawKBSWMwdQVtRK",
-      "title": "Was ist der Serponado-Effekt? - kexDESIGN Webagentur"
+      "domain": "seobuddha.de",
+      "url": "https://seobuddha.de/serponado/",
+      "title": "Serponado"
     }
   ],
   "history": [
@@ -5237,6 +5237,20 @@
         "seobuddha.de": 7,
         "www.semotion.de": 8,
         "kexdesign.com": 9
+      }
+    },
+    {
+      "ts": "2026-06-17 23:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.seo-kueche.de": 2,
+        "www.dockmedia.de": 3,
+        "m.youtube.com": 4,
+        "www.optimerch.de": 5,
+        "feelgoodcamper.de": 6,
+        "www.semotion.de": 7,
+        "www.position-one.de": 8,
+        "seobuddha.de": 9
       }
     }
   ]
