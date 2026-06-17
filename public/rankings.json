@@ -1,11 +1,11 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-17 18:38 (Berlin)",
+  "updated_at": "2026-06-17 19:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 2,
+    "position": 4,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": true
+    "stale": false
   },
   "top3_moments": [
     {
@@ -20,63 +20,57 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
     },
     {
       "position": 2,
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "Serponado 2026: Warum Google gerade verrücktspielt - Semotion"
+    },
+    {
+      "position": 3,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
-      "position": 3,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
-    },
-    {
       "position": 4,
-      "domain": "m.youtube.com",
-      "url": "https://m.youtube.com/hashtag/serponado",
-      "title": "Serponado"
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
     },
     {
       "position": 5,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/shorts/KC_SOm_ZJUI",
-      "title": "Der Serponado ist da! 🌪️ (Die Wahrheit)"
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOorKkAK-YwR7ePhTlwyY93yLbF7Q8adMq5zCjPUzHyQpLAWmLwQH",
+      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
       "position": 6,
-      "domain": "locseo.eu",
-      "url": "https://locseo.eu/serponado-geschichte",
-      "title": "Serponado Geschichte – Entstehung, Contest 2026 & Akte"
+      "domain": "m.youtube.com",
+      "url": "https://m.youtube.com/shorts/ar2XttBlA8k",
+      "title": "Was ist Serponado SEO? Lena Solé erklärt die Methode von Position One"
     },
     {
       "position": 7,
-      "domain": "www.sagemedia.de",
-      "url": "https://www.sagemedia.de/glossar/serponado/",
-      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion - sagemedia"
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
       "position": 8,
-      "domain": "locseo.eu",
-      "url": "https://locseo.eu/serponado-bedeutung",
-      "title": "Serponado Bedeutung – Wortart, Definition & Semantik"
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
       "position": 9,
-      "domain": "www.info8.de",
-      "url": "https://www.info8.de/serponado-definition-bedeutung/",
-      "title": "Serponado: Definition, Herkunft und Bedeutung einfach erklärt - info8"
-    },
-    {
-      "position": 10,
-      "domain": "www.eiswuerfelmaschine24.de",
-      "url": "https://www.eiswuerfelmaschine24.de/serponado",
-      "title": "Serponado: Die evolutionäre Symbiose im modernen SEO"
+      "domain": "seobuddha.de",
+      "url": "https://seobuddha.de/serponado/",
+      "title": "Serponado"
     }
   ],
   "history": [
@@ -5116,6 +5110,20 @@
         "www.sagemedia.de": 7,
         "www.info8.de": 9,
         "www.eiswuerfelmaschine24.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-17 19:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.semotion.de": 2,
+        "www.seo-kueche.de": 3,
+        "www.optimerch.de": 4,
+        "feelgoodcamper.de": 5,
+        "m.youtube.com": 6,
+        "www.dockmedia.de": 7,
+        "www.position-one.de": 8,
+        "seobuddha.de": 9
       }
     }
   ]
