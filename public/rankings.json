@@ -1,11 +1,11 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-19 00:08 (Berlin)",
+  "updated_at": "2026-06-19 00:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": false
+    "stale": true
   },
   "top3_moments": [
     {
@@ -28,39 +28,39 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
       "position": 2,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
-    },
-    {
-      "position": 3,
       "domain": "www.dockmedia.de",
       "url": "https://www.dockmedia.de/serponado.html",
       "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
+      "position": 3,
+      "domain": "www.oev-experience.de",
+      "url": "https://www.oev-experience.de/serponado.html",
+      "title": "Serponado: Das digitale Sichtbarkeitsphänomen"
+    },
+    {
       "position": 4,
-      "domain": "www.arise-onlinemarketing.de",
-      "url": "https://www.arise-onlinemarketing.de/serponado/",
-      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
+      "domain": "www.amazingh.de",
+      "url": "https://www.amazingh.de/serponado/",
+      "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
     },
     {
       "position": 5,
-      "domain": "till-freitag.com",
-      "url": "https://till-freitag.com/blog/serponado",
-      "title": "Serponado – Was ist das? Der SEO-Contest 2026 erklärt"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
       "position": 6,
-      "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOooruDTzob1JcKsb2jSO6My4mkLJSZ02Bm_IrCn0358vjjHfUDR5",
-      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
+      "domain": "www.probandtastisch.de",
+      "url": "https://www.probandtastisch.de/serponado",
+      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
     },
     {
       "position": 7,
@@ -70,15 +70,21 @@
     },
     {
       "position": 8,
-      "domain": "m.youtube.com",
-      "url": "https://m.youtube.com/shorts/ar2XttBlA8k",
-      "title": "Was ist Serponado SEO? Lena Solé erklärt die Methode von Position One"
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
     },
     {
       "position": 9,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado | Der stürmische SEO-Contest 2026 in den SERPs"
+      "domain": "techbehemoths.com",
+      "url": "https://techbehemoths.com/company/serponado",
+      "title": "Serponado Company Profile"
+    },
+    {
+      "position": 10,
+      "domain": "kexdesign.com",
+      "url": "https://kexdesign.com/was-ist-der-serponado-effekt/?srsltid=AfmBOoqmzjcdhkUhOc7RVxVhfcmFh5h26bR1okyua9qQWL3MvONJUzGr",
+      "title": "Was ist der Serponado-Effekt? - kexDESIGN Webagentur"
     }
   ],
   "history": [
@@ -5956,6 +5962,21 @@
         "www.seo-kueche.de": 7,
         "m.youtube.com": 8,
         "netzhelfer.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-19 00:38 (Berlin)",
+      "positions": {
+        "www.position-one.de": 1,
+        "www.dockmedia.de": 2,
+        "www.oev-experience.de": 3,
+        "www.amazingh.de": 4,
+        "contunda.de": 5,
+        "www.probandtastisch.de": 6,
+        "www.seo-kueche.de": 7,
+        "taismo.de": 8,
+        "techbehemoths.com": 9,
+        "kexdesign.com": 10
       }
     }
   ]
