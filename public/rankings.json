@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-18 02:08 (Berlin)",
+  "updated_at": "2026-06-18 02:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 5,
+    "position": 7,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -44,33 +44,33 @@
     },
     {
       "position": 5,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
-    },
-    {
-      "position": 6,
-      "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOooerAbalQDclyXEb50J4wMLNShN3DCHHoVrMlkN6IbOg3Z9NvJP",
-      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
-    },
-    {
-      "position": 7,
       "domain": "www.semotion.de",
       "url": "https://www.semotion.de/serponado/",
       "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird - Semotion"
     },
     {
+      "position": 6,
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoqnelnlqmhZY7ACIU4GfuNpSix4FTdCgK1ULfvtbgWBB5TA36pB",
+      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
+    },
+    {
+      "position": 7,
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
+    },
+    {
       "position": 8,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+      "domain": "www.websedit.de",
+      "url": "https://www.websedit.de/serponado",
+      "title": "Serponado Anonymous - Die Selbsthilfegruppe"
     },
     {
       "position": 9,
-      "domain": "seobuddha.de",
-      "url": "https://seobuddha.de/serponado/",
-      "title": "Serponado"
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     }
   ],
   "history": [
@@ -5320,6 +5320,20 @@
         "www.semotion.de": 7,
         "www.position-one.de": 8,
         "seobuddha.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-18 02:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.dockmedia.de": 2,
+        "www.seo-kueche.de": 3,
+        "m.youtube.com": 4,
+        "www.semotion.de": 5,
+        "feelgoodcamper.de": 6,
+        "www.optimerch.de": 7,
+        "www.websedit.de": 8,
+        "www.position-one.de": 9
       }
     }
   ]
