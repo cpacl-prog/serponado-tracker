@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-18 07:08 (Berlin)",
+  "updated_at": "2026-06-18 07:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 5,
+    "position": 7,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -26,39 +26,39 @@
     },
     {
       "position": 2,
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+    },
+    {
+      "position": 3,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
-      "position": 3,
+      "position": 4,
       "domain": "till-freitag.com",
       "url": "https://till-freitag.com/blog/serponado",
       "title": "Serponado – Was ist das? Der SEO-Contest 2026 erklärt"
     },
     {
-      "position": 4,
+      "position": 5,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/shorts/6hOLJrKDnAw",
       "title": "Serponado – Mallorca Schlager 2026 von Lena Solé"
     },
     {
-      "position": 5,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
-    },
-    {
       "position": 6,
       "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoosiMPokKWWJd4EuK3DFyrhVBYTD3Xef1Hz0a_em63OSdYW1OvB",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoottXQTuRq03qRIJ64X9DdrG3BdWptVmZ2INHhljq5NRgl6U9xS",
       "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
       "position": 7,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
     },
     {
       "position": 8,
@@ -5460,6 +5460,20 @@
         "www.optimerch.de": 5,
         "feelgoodcamper.de": 6,
         "www.dockmedia.de": 7,
+        "www.arise-onlinemarketing.de": 8,
+        "www.semotion.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-18 07:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.dockmedia.de": 2,
+        "www.seo-kueche.de": 3,
+        "till-freitag.com": 4,
+        "www.youtube.com": 5,
+        "feelgoodcamper.de": 6,
+        "www.optimerch.de": 7,
         "www.arise-onlinemarketing.de": 8,
         "www.semotion.de": 9
       }
