@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-18 02:38 (Berlin)",
+  "updated_at": "2026-06-18 03:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 7,
@@ -32,15 +32,15 @@
     },
     {
       "position": 3,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
-    },
-    {
-      "position": 4,
       "domain": "m.youtube.com",
       "url": "https://m.youtube.com/shorts/ar2XttBlA8k",
       "title": "Was ist Serponado SEO? Lena Solé erklärt die Methode von Position One"
+    },
+    {
+      "position": 4,
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
       "position": 5,
@@ -51,7 +51,7 @@
     {
       "position": 6,
       "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoqnelnlqmhZY7ACIU4GfuNpSix4FTdCgK1ULfvtbgWBB5TA36pB",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoojsitJhnUyRMqX3QiTTiJXcayiQkrkkjJge-5yHxBl0_Ja_yPx",
       "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
@@ -62,15 +62,15 @@
     },
     {
       "position": 8,
-      "domain": "www.websedit.de",
-      "url": "https://www.websedit.de/serponado",
-      "title": "Serponado Anonymous - Die Selbsthilfegruppe"
-    },
-    {
-      "position": 9,
       "domain": "www.position-one.de",
       "url": "https://www.position-one.de/serponado.html",
       "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+    },
+    {
+      "position": 9,
+      "domain": "www.websedit.de",
+      "url": "https://www.websedit.de/serponado",
+      "title": "Serponado Anonymous - Die Selbsthilfegruppe"
     }
   ],
   "history": [
@@ -5334,6 +5334,20 @@
         "www.optimerch.de": 7,
         "www.websedit.de": 8,
         "www.position-one.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-18 03:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.dockmedia.de": 2,
+        "m.youtube.com": 3,
+        "www.seo-kueche.de": 4,
+        "www.semotion.de": 5,
+        "feelgoodcamper.de": 6,
+        "www.optimerch.de": 7,
+        "www.position-one.de": 8,
+        "www.websedit.de": 9
       }
     }
   ]
