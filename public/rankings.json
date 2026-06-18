@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-18 18:38 (Berlin)",
+  "updated_at": "2026-06-18 19:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -48,15 +48,15 @@
     },
     {
       "position": 5,
-      "domain": "till-freitag.com",
-      "url": "https://till-freitag.com/blog/serponado",
-      "title": "Serponado – Was ist das? Der SEO-Contest 2026 erklärt"
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoquQE3TTg8nh_n1rSZZeRaGHDcRulq9dxGyIDjjMQXXMLiTh15d",
+      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
       "position": 6,
-      "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOooQVANMs-jEpq5JgA4YRkEMXowG1mnwGYY3EfJuBQnNJH0xz3Xl",
-      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
+      "domain": "till-freitag.com",
+      "url": "https://till-freitag.com/blog/serponado",
+      "title": "Serponado – Was ist das? Der SEO-Contest 2026 erklärt"
     },
     {
       "position": 7,
@@ -75,6 +75,12 @@
       "domain": "netzhelfer.de",
       "url": "https://netzhelfer.de/serponado/",
       "title": "Serponado | Der stürmische SEO-Contest 2026 in den SERPs"
+    },
+    {
+      "position": 10,
+      "domain": "www.websedit.de",
+      "url": "https://www.websedit.de/serponado",
+      "title": "Serponado Anonymous - Die Selbsthilfegruppe"
     }
   ],
   "history": [
@@ -5794,6 +5800,21 @@
         "www.seo-kueche.de": 7,
         "m.youtube.com": 8,
         "netzhelfer.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-18 19:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "www.dockmedia.de": 3,
+        "www.arise-onlinemarketing.de": 4,
+        "feelgoodcamper.de": 5,
+        "till-freitag.com": 6,
+        "www.seo-kueche.de": 7,
+        "m.youtube.com": 8,
+        "netzhelfer.de": 9,
+        "www.websedit.de": 10
       }
     }
   ]
