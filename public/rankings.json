@@ -1,13 +1,17 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-18 09:08 (Berlin)",
+  "updated_at": "2026-06-18 09:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 5,
+    "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": true
+    "stale": false
   },
   "top3_moments": [
+    {
+      "date": "2026-06-18",
+      "position": 1
+    },
     {
       "date": "2026-06-17",
       "position": 1
@@ -20,63 +24,63 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
     },
     {
       "position": 2,
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
+    },
+    {
+      "position": 3,
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+    },
+    {
+      "position": 4,
+      "domain": "www.arise-onlinemarketing.de",
+      "url": "https://www.arise-onlinemarketing.de/serponado/",
+      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
+    },
+    {
+      "position": 5,
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOorhZ3K6KdjX2cAh2aKxOQKqlMFhfh0istnjqpQnlLqcT0gWy1Xp",
+      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
+    },
+    {
+      "position": 6,
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado | Der stürmische SEO-Contest 2026 in den SERPs"
+    },
+    {
+      "position": 7,
+      "domain": "m.youtube.com",
+      "url": "https://m.youtube.com/shorts/ar2XttBlA8k",
+      "title": "Was ist Serponado SEO? Lena Solé erklärt die Methode von Position One"
+    },
+    {
+      "position": 8,
+      "domain": "www.websedit.de",
+      "url": "https://www.websedit.de/serponado",
+      "title": "Serponado Anonymous - Die Selbsthilfegruppe"
+    },
+    {
+      "position": 9,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
-      "position": 3,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
-    },
-    {
-      "position": 4,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
-    },
-    {
-      "position": 5,
-      "domain": "m.youtube.com",
-      "url": "https://m.youtube.com/hashtag/serponado",
-      "title": "Serponado"
-    },
-    {
-      "position": 6,
-      "domain": "locseo.eu",
-      "url": "https://locseo.eu/serponado-bedeutung",
-      "title": "Serponado Bedeutung – Wortart, Definition & Semantik"
-    },
-    {
-      "position": 7,
-      "domain": "techbehemoths.com",
-      "url": "https://techbehemoths.com/company/serponado",
-      "title": "Serponado Company Profile"
-    },
-    {
-      "position": 8,
-      "domain": "www.sagemedia.de",
-      "url": "https://www.sagemedia.de/glossar/serponado/",
-      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion - sagemedia"
-    },
-    {
-      "position": 9,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/shorts/KC_SOm_ZJUI",
-      "title": "Der Serponado ist da! 🌪️ (Die Wahrheit)"
-    },
-    {
       "position": 10,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=7NhUXd_ggoM",
-      "title": "Serponado – 3 Minuten Frei (Official Audio)"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird - Semotion"
     }
   ],
   "history": [
@@ -5524,6 +5528,21 @@
         "techbehemoths.com": 7,
         "www.sagemedia.de": 8,
         "www.youtube.com": 10
+      }
+    },
+    {
+      "ts": "2026-06-18 09:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.dockmedia.de": 3,
+        "www.arise-onlinemarketing.de": 4,
+        "feelgoodcamper.de": 5,
+        "netzhelfer.de": 6,
+        "m.youtube.com": 7,
+        "www.websedit.de": 8,
+        "www.seo-kueche.de": 9,
+        "www.semotion.de": 10
       }
     }
   ]
