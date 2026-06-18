@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-18 04:08 (Berlin)",
+  "updated_at": "2026-06-18 04:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 4,
+    "position": 7,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -26,9 +26,9 @@
     },
     {
       "position": 2,
-      "domain": "till-freitag.com",
-      "url": "https://till-freitag.com/blog/serponado",
-      "title": "Serponado – Was ist das? Der SEO-Contest 2026 erklärt"
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
       "position": 3,
@@ -38,38 +38,38 @@
     },
     {
       "position": 4,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
+      "domain": "till-freitag.com",
+      "url": "https://till-freitag.com/blog/serponado",
+      "title": "Serponado – Was ist das? Der SEO-Contest 2026 erklärt"
     },
     {
       "position": 5,
-      "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoq3qlCaLKd4rJCAc5dNIbiC6navl9399ugYYENb6ZLxl2GyDRHH",
-      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
-    },
-    {
-      "position": 6,
-      "domain": "www.websedit.de",
-      "url": "https://www.websedit.de/serponado",
-      "title": "Serponado Anonymous - Die Selbsthilfegruppe"
-    },
-    {
-      "position": 7,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/shorts/6hOLJrKDnAw",
       "title": "Serponado – Mallorca Schlager 2026 von Lena Solé"
     },
     {
+      "position": 6,
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoqYJ8VXXo6e4mgAZLKOy0fG0BZc7WePNlGyTOIAlVlwpweEs67M",
+      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
+    },
+    {
+      "position": 7,
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
+    },
+    {
       "position": 8,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+      "domain": "www.arise-onlinemarketing.de",
+      "url": "https://www.arise-onlinemarketing.de/serponado/",
+      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
     },
     {
       "position": 9,
       "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-ist-der-serponado-effekt/?srsltid=AfmBOor_l0STqMN_x39Nsw-wZzXTYNBOeNjYaPnfFUIKjQEk0kTGVug0",
+      "url": "https://kexdesign.com/was-ist-der-serponado-effekt/?srsltid=AfmBOopM4TfLUD1SbIabDMghhEQ7_fNPqBcAlGj1Fz7oI1Mbo_FtJrjb",
       "title": "Was ist der Serponado-Effekt? - kexDESIGN Webagentur"
     }
   ],
@@ -5375,6 +5375,20 @@
         "www.websedit.de": 6,
         "www.youtube.com": 7,
         "www.dockmedia.de": 8,
+        "kexdesign.com": 9
+      }
+    },
+    {
+      "ts": "2026-06-18 04:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.dockmedia.de": 2,
+        "www.seo-kueche.de": 3,
+        "till-freitag.com": 4,
+        "www.youtube.com": 5,
+        "feelgoodcamper.de": 6,
+        "www.optimerch.de": 7,
+        "www.arise-onlinemarketing.de": 8,
         "kexdesign.com": 9
       }
     }
