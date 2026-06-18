@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-18 20:08 (Berlin)",
+  "updated_at": "2026-06-18 20:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -55,7 +55,7 @@
     {
       "position": 6,
       "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoosGGi8Xni6zakHlDzU_M6eb0KcondtDNj23-3fOfBM7vNDWHNU",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOorTCGvG54ImFiWYszpVBHzUsz8-QjvTW-QrwHFQUVerTrvZIpl9",
       "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
@@ -75,6 +75,12 @@
       "domain": "netzhelfer.de",
       "url": "https://netzhelfer.de/serponado/",
       "title": "Serponado | Der stürmische SEO-Contest 2026 in den SERPs"
+    },
+    {
+      "position": 10,
+      "domain": "www.websedit.de",
+      "url": "https://www.websedit.de/serponado",
+      "title": "Serponado Anonymous - Die Selbsthilfegruppe"
     }
   ],
   "history": [
@@ -5837,6 +5843,21 @@
         "m.youtube.com": 7,
         "www.arise-onlinemarketing.de": 8,
         "netzhelfer.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-18 20:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "www.dockmedia.de": 3,
+        "www.seo-kueche.de": 4,
+        "till-freitag.com": 5,
+        "feelgoodcamper.de": 6,
+        "m.youtube.com": 7,
+        "www.arise-onlinemarketing.de": 8,
+        "netzhelfer.de": 9,
+        "www.websedit.de": 10
       }
     }
   ]
