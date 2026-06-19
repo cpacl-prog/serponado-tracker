@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-19 11:08 (Berlin)",
+  "updated_at": "2026-06-19 11:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": null,
@@ -23,9 +23,9 @@
     },
     {
       "position": 3,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
       "position": 4,
@@ -35,9 +35,9 @@
     },
     {
       "position": 5,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
+      "domain": "kexdesign.com",
+      "url": "https://kexdesign.com/was-ist-serponado-und-wie-funktioniert-er-fuer-business-starterinnen/?srsltid=AfmBOoq7JCNFigrhDbFj-7h-to1ADRp9x8NhJ-BhDY39ZeWdEQp4vxku",
+      "title": "Was ist Serponado und wie funktioniert er für Business ..."
     },
     {
       "position": 6,
@@ -47,27 +47,27 @@
     },
     {
       "position": 7,
-      "domain": "techbehemoths.com",
-      "url": "https://techbehemoths.com/company/serponado",
-      "title": "Serponado Company Profile"
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=7NhUXd_ggoM",
+      "title": "Serponado – 3 Minuten Frei (Official Audio)"
     },
     {
       "position": 8,
-      "domain": "locseo.eu",
-      "url": "https://locseo.eu/serponado-bedeutung",
-      "title": "Serponado Bedeutung – Wortart, Definition & Semantik"
+      "domain": "serponado.club",
+      "url": "https://serponado.club/",
+      "title": "Serponado Club: Luxusbekleidung & Accessoires"
     },
     {
       "position": 9,
       "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/@serponado_band",
-      "title": "Serponado"
+      "url": "https://www.youtube.com/channel/UCaRw7gup2lVrQE73UEadSwQ",
+      "title": "SERPonado"
     },
     {
       "position": 10,
       "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/shorts/KC_SOm_ZJUI",
-      "title": "Der Serponado ist da! 🌪️ (Die Wahrheit)"
+      "url": "https://www.youtube.com/watch?v=3KjN31V1fEs",
+      "title": "Serponado – Scheinwerfer von nebenan (Official Audio)"
     }
   ],
   "history": [
@@ -165,6 +165,19 @@
         "techbehemoths.com": 7,
         "locseo.eu": 8,
         "www.youtube.com": 10
+      }
+    },
+    {
+      "ts": "2026-06-19 11:38 (Berlin)",
+      "positions": {
+        "www.semotion.de": 1,
+        "www.position-one.de": 2,
+        "www.dockmedia.de": 3,
+        "www.probandtastisch.de": 4,
+        "kexdesign.com": 5,
+        "www.sagemedia.de": 6,
+        "www.youtube.com": 10,
+        "serponado.club": 8
       }
     }
   ]
