@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-19 18:38 (Berlin)",
+  "updated_at": "2026-06-19 19:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -28,9 +28,9 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
       "position": 2,
@@ -40,51 +40,51 @@
     },
     {
       "position": 3,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+      "domain": "www.probandtastisch.de",
+      "url": "https://www.probandtastisch.de/serponado",
+      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
     },
     {
       "position": 4,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+      "domain": "www.auf-den-berg.de",
+      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
+      "title": "Auf den Serponado"
     },
     {
       "position": 5,
-      "domain": "www.amazingh.de",
-      "url": "https://www.amazingh.de/serponado/",
-      "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
-    },
-    {
-      "position": 6,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
-    },
-    {
-      "position": 7,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
-    },
-    {
-      "position": 8,
       "domain": "taismo.de",
       "url": "https://taismo.de/seo-magazin/serponado/",
       "title": "Don Serponado und der SEO Contest 2026"
     },
     {
+      "position": 6,
+      "domain": "www.sagemedia.de",
+      "url": "https://www.sagemedia.de/glossar/serponado/",
+      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion - sagemedia"
+    },
+    {
+      "position": 7,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/shorts/KC_SOm_ZJUI",
+      "title": "Der Serponado ist da!  (Die Wahrheit)"
+    },
+    {
+      "position": 8,
+      "domain": "locseo.eu",
+      "url": "https://locseo.eu/serponado-geschichte",
+      "title": "Serponado Geschichte – Entstehung, Contest 2026 & Akte"
+    },
+    {
       "position": 9,
-      "domain": "techbehemoths.com",
-      "url": "https://techbehemoths.com/company/serponado",
-      "title": "Serponado Company Profile"
+      "domain": "m.youtube.com",
+      "url": "https://m.youtube.com/@serponado_band",
+      "title": "Serponado"
     },
     {
       "position": 10,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+      "domain": "techbehemoths.com",
+      "url": "https://techbehemoths.com/company/serponado",
+      "title": "Serponado Company Profile"
     }
   ],
   "history": [
@@ -6499,6 +6499,21 @@
         "taismo.de": 8,
         "techbehemoths.com": 9,
         "www.probandtastisch.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-19 19:08 (Berlin)",
+      "positions": {
+        "www.seo-kueche.de": 1,
+        "www.semotion.de": 2,
+        "www.probandtastisch.de": 3,
+        "www.auf-den-berg.de": 4,
+        "taismo.de": 5,
+        "www.sagemedia.de": 6,
+        "www.youtube.com": 7,
+        "locseo.eu": 8,
+        "m.youtube.com": 9,
+        "techbehemoths.com": 10
       }
     }
   ]
