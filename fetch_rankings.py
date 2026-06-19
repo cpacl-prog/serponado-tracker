@@ -40,21 +40,7 @@ CONFIGS = {
 }
 
 
-HISTORY_WINDOW = 3   # letzte N Messungen für den Vergleich
-OWN_URL_BONUS  = 10  # Bonus wenn optimerch.de/serponado/ im Ergebnis vorkommt
-
-if os.path.exists(OUTPUT):
-    try:
-        with open(OUTPUT, 'r', encoding='utf-8') as f:
-            existing_data = json.load(f)
-            history       = existing_data.get('history', [])
-            prev_rankings = existing_data.get('rankings', [])
-    except (json.JSONDecodeError, IOError):
-        pass
-
-# ── API-Helfer ────────────────────────────────────────────────────────────────
-
-def fetch_once(run_num):
+def fetch_once(payload, run_num):
     try:
         resp = requests.post(
             'https://api.dataforseo.com/v3/serp/google/organic/live/advanced',
@@ -99,15 +85,9 @@ def overlap_score(result, history_entries):
     return score
 
 
-all_runs = []
-for run_num in range(1, CONSENSUS_RUNS + 1):
-    result = fetch_once(run_num)
-    if result is not None:
-        score = overlap_score(result, prev_rankings)
-        all_runs.append((score, run_num, result))
-        print(f"  Run {run_num}/{CONSENSUS_RUNS}: {len(result)} Ergebnisse | Übereinstimmung mit Vorherigem: {score}/10")
-    if run_num < CONSENSUS_RUNS:
-        time.sleep(3)
+def fetch_and_save(device_name, config, now):
+    output  = config['output']
+    payload = config['payload']
 
     existing_data = {}
     history       = []
@@ -133,7 +113,9 @@ for run_num in range(1, CONSENSUS_RUNS + 1):
         if run_num < CONSENSUS_RUNS:
             time.sleep(3)
 
-print(f"  → Gewählt: Run {best_run_num} (Score {best_score}/10)")
+    if not all_runs:
+        print(f"❌ [{device_name}] Alle Abfragen fehlgeschlagen.", file=sys.stderr)
+        return False
 
     all_runs.sort(key=lambda x: x[0], reverse=True)
     best_score, best_run_num, rankings = all_runs[0]
@@ -191,9 +173,23 @@ print(f"  → Gewählt: Run {best_run_num} (Score {best_score}/10)")
         'history':      history,
     }
 
-stale_note = ' (zuletzt gesehen)' if own_url_data['stale'] else ''
-print(
-    f"✅ {len(rankings)} Ergebnisse gespeichert (Run {best_run_num}, Score {best_score}/10). "
-    f"{OWN_DOMAIN}: Position {own_position} | "
-    f"/serponado/: Position {own_url_data['position']}{stale_note}"
-)
+    os.makedirs(os.path.dirname(output), exist_ok=True)
+    with open(output, 'w', encoding='utf-8') as f:
+        json.dump(output_data, f, ensure_ascii=False, indent=2)
+
+    stale_note = ' (zuletzt gesehen)' if own_url_data['stale'] else ''
+    print(
+        f"✅ [{device_name}] {len(rankings)} Ergebnisse gespeichert (Run {best_run_num}, Score {best_score}). "
+        f"{OWN_DOMAIN}: Position {own_position} | "
+        f"/serponado/: Position {own_url_data['position']}{stale_note}"
+    )
+    return True
+
+
+now = datetime.now(ZoneInfo('Europe/Berlin')).strftime('%Y-%m-%d %H:%M (Berlin)')
+
+ok_mobile  = fetch_and_save('mobile',  CONFIGS['mobile'],  now)
+ok_desktop = fetch_and_save('desktop', CONFIGS['desktop'], now)
+
+if not ok_mobile and not ok_desktop:
+    sys.exit(1)
