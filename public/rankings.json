@@ -1,11 +1,11 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-20 00:08 (Berlin)",
+  "updated_at": "2026-06-20 00:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": false
+    "stale": true
   },
   "top3_moments": [
     {
@@ -32,63 +32,63 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
-    },
-    {
-      "position": 2,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
-    },
-    {
-      "position": 3,
-      "domain": "www.arise-onlinemarketing.de",
-      "url": "https://www.arise-onlinemarketing.de/serponado/",
-      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
-    },
-    {
-      "position": 4,
-      "domain": "till-freitag.com",
-      "url": "https://till-freitag.com/blog/serponado",
-      "title": "Serponado – Was ist das? Der SEO-Contest 2026 erklärt"
-    },
-    {
-      "position": 5,
-      "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOopyDZ81IJGdxuyZRWR2UX7ftBMOLPAx8bKrpeHlpbpmggQEOOt9",
-      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
-    },
-    {
-      "position": 6,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
-    },
-    {
-      "position": 7,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/serponado/",
-      "title": "Serponado: SEO-Alarm in den Google SERPs"
-    },
-    {
-      "position": 8,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado | Der stürmische SEO-Contest 2026 in den SERPs"
-    },
-    {
-      "position": 9,
-      "domain": "m.youtube.com",
-      "url": "https://m.youtube.com/shorts/ar2XttBlA8k",
-      "title": "Was ist Serponado SEO? Lena Solé erklärt die Methode von Position One"
-    },
-    {
-      "position": 10,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+    },
+    {
+      "position": 2,
+      "domain": "www.probandtastisch.de",
+      "url": "https://www.probandtastisch.de/serponado",
+      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+    },
+    {
+      "position": 3,
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
+    },
+    {
+      "position": 4,
+      "domain": "www.sagemedia.de",
+      "url": "https://www.sagemedia.de/glossar/serponado/",
+      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion - sagemedia"
+    },
+    {
+      "position": 5,
+      "domain": "techbehemoths.com",
+      "url": "https://techbehemoths.com/company/serponado",
+      "title": "Serponado Company Profile"
+    },
+    {
+      "position": 6,
+      "domain": "locseo.eu",
+      "url": "https://locseo.eu/serponado-bedeutung",
+      "title": "Serponado Bedeutung – Wortart, Definition & Semantik"
+    },
+    {
+      "position": 7,
+      "domain": "www.auf-den-berg.de",
+      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
+      "title": "Auf den Serponado"
+    },
+    {
+      "position": 8,
+      "domain": "m.youtube.com",
+      "url": "https://m.youtube.com/@serponado_band",
+      "title": "Serponado"
+    },
+    {
+      "position": 9,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/shorts/KC_SOm_ZJUI",
+      "title": "Der Serponado ist da! 🌪️ (Die Wahrheit)"
+    },
+    {
+      "position": 10,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=HWFdOtw9UEs",
+      "title": "SERPONADO | Where Streetwear Meets Luxury"
     }
   ],
   "history": [
@@ -6665,6 +6665,20 @@
         "netzhelfer.de": 8,
         "m.youtube.com": 9,
         "www.seo-kueche.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-20 00:38 (Berlin)",
+      "positions": {
+        "www.seo-kueche.de": 1,
+        "www.probandtastisch.de": 2,
+        "taismo.de": 3,
+        "www.sagemedia.de": 4,
+        "techbehemoths.com": 5,
+        "locseo.eu": 6,
+        "www.auf-den-berg.de": 7,
+        "m.youtube.com": 8,
+        "www.youtube.com": 10
       }
     }
   ]
