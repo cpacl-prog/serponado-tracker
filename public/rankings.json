@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-19 16:38 (Berlin)",
+  "updated_at": "2026-06-19 17:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 1,
+    "position": 2,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -28,63 +28,57 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
-    },
-    {
-      "position": 2,
       "domain": "serponado.org",
       "url": "https://serponado.org/",
       "title": "Serponado"
     },
     {
+      "position": 2,
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
+    },
+    {
       "position": 3,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/shorts/ar2XttBlA8k",
+      "title": "Was ist Serponado SEO? Lena Solé erklärt die Methode von Position One"
+    },
+    {
+      "position": 4,
       "domain": "contunda.de",
       "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
       "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
-      "position": 4,
+      "position": 5,
       "domain": "till-freitag.com",
       "url": "https://till-freitag.com/blog/serponado",
       "title": "Serponado – Was ist das? Der SEO-Contest 2026 erklärt"
     },
     {
-      "position": 5,
+      "position": 6,
       "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOooAYexbFqp5m8UsrZzxllJIwmYk_GPwKH33rGJ6koY_fCB1Aqh3",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOorJ_rCd9O8Osp3rd7b5CX2d74cIoSaMxcvW1lWPNbiviRL1O8WW",
       "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
-      "position": 6,
+      "position": 7,
       "domain": "www.arise-onlinemarketing.de",
       "url": "https://www.arise-onlinemarketing.de/serponado/",
       "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
     },
     {
-      "position": 7,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado | Der stürmische SEO-Contest 2026 in den SERPs"
-    },
-    {
       "position": 8,
-      "domain": "m.youtube.com",
-      "url": "https://m.youtube.com/shorts/ar2XttBlA8k",
-      "title": "Was ist Serponado SEO? Lena Solé erklärt die Methode von Position One"
-    },
-    {
-      "position": 9,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
-      "position": 10,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/serponado/",
-      "title": "Serponado: SEO-Alarm in den Google SERPs"
+      "position": 9,
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado | Der stürmische SEO-Contest 2026 in den SERPs"
     }
   ],
   "history": [
@@ -6455,6 +6449,20 @@
         "m.youtube.com": 8,
         "www.seo-kueche.de": 9,
         "leadpeak.me": 10
+      }
+    },
+    {
+      "ts": "2026-06-19 17:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "www.youtube.com": 3,
+        "contunda.de": 4,
+        "till-freitag.com": 5,
+        "feelgoodcamper.de": 6,
+        "www.arise-onlinemarketing.de": 7,
+        "www.seo-kueche.de": 8,
+        "netzhelfer.de": 9
       }
     }
   ]
