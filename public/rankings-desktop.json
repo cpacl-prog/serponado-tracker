@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-19 08:38 (Berlin)",
+  "updated_at": "2026-06-19 09:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": null,
@@ -11,15 +11,15 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
       "position": 2,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird"
     },
     {
       "position": 3,
@@ -29,45 +29,45 @@
     },
     {
       "position": 4,
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+    },
+    {
+      "position": 5,
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
+    },
+    {
+      "position": 6,
       "domain": "www.probandtastisch.de",
       "url": "https://www.probandtastisch.de/serponado",
       "title": "Serponado: Was ist das? Definition, Symptome & Studie"
     },
     {
-      "position": 5,
-      "domain": "www.sagemedia.de",
-      "url": "https://www.sagemedia.de/glossar/serponado/",
-      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion"
-    },
-    {
-      "position": 6,
-      "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-ist-serponado-und-wie-funktioniert-er-fuer-business-starterinnen/?srsltid=AfmBOooEGTCF8UOnnBKq0GPTa8N2s1YuECnY2CwqzyajerLQxcw4ZRg4",
-      "title": "Was ist Serponado und wie funktioniert er für Business ..."
-    },
-    {
       "position": 7,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=7NhUXd_ggoM",
-      "title": "Serponado – 3 Minuten Frei (Official Audio)"
+      "domain": "www.amazingh.de",
+      "url": "https://www.amazingh.de/serponado/",
+      "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
     },
     {
       "position": 8,
-      "domain": "serponado.club",
-      "url": "https://serponado.club/",
-      "title": "Serponado Club: Luxusbekleidung & Accessoires"
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
     },
     {
       "position": 9,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/channel/UCaRw7gup2lVrQE73UEadSwQ",
-      "title": "SERPonado"
+      "domain": "techbehemoths.com",
+      "url": "https://techbehemoths.com/company/serponado",
+      "title": "Serponado Company Profile"
     },
     {
       "position": 10,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=3KjN31V1fEs",
-      "title": "Serponado – Scheinwerfer von nebenan (Official Audio)"
+      "domain": "kexdesign.com",
+      "url": "https://kexdesign.com/serponado-strategie-sichtbarkeit-entsteht/?srsltid=AfmBOoqy6LaeeFMgVGiTRehuRVyGTW062WyEK-HkVQ5y6AG8YUVoeg3-",
+      "title": "Die Serponado-Strategie – wie Sichtbarkeit wirklich entsteht"
     }
   ],
   "history": [
@@ -96,6 +96,21 @@
         "kexdesign.com": 6,
         "www.youtube.com": 10,
         "serponado.club": 8
+      }
+    },
+    {
+      "ts": "2026-06-19 09:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.semotion.de": 2,
+        "www.dockmedia.de": 3,
+        "www.seo-kueche.de": 4,
+        "serponado.org": 5,
+        "www.probandtastisch.de": 6,
+        "www.amazingh.de": 7,
+        "taismo.de": 8,
+        "techbehemoths.com": 9,
+        "kexdesign.com": 10
       }
     }
   ]
