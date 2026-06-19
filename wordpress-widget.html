@@ -34,6 +34,11 @@
   .sn-moment { display: inline-flex; align-items: center; gap: 6px; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 6px 12px; font-size: 0.8rem; color: #ccc !important; }
   .sn-moment .sn-medal { font-size: 1rem; }
   .sn-moment .sn-mdate { color: #666 !important; font-size: 0.75rem; margin-left: 2px; }
+  #sn-device-toggle { display: none; margin-bottom: 20px; }
+  .sn-toggle { display: flex; border: 1px solid rgba(255,255,255,0.12); border-radius: 10px; overflow: hidden; width: fit-content; }
+  .sn-toggle button { background: transparent; border: none; padding: 8px 22px; color: #888; cursor: pointer; font-size: 0.85rem; transition: background 0.2s, color 0.2s; font-family: inherit; }
+  .sn-toggle button.active { background: var(--optimerch-green); color: #000; font-weight: 700; }
+  .sn-toggle button:hover:not(.active) { background: rgba(255,255,255,0.07); color: #ccc; }
 </style>
 
 <section class="section-padding container">
@@ -41,7 +46,15 @@
         <div class="overline">SERPONADO · AKTUELLE SUCHERGEBNISSE BEI GOOGLE</div>
         <h2 class="section-title" id="leaderboard">Serponado <span>Suchergebnisse – Google Top 10</span></h2>
         <div id="serponado-wrap">
-            <p id="serponado-status">Lade Rankings...</p>
+            <div id="sn-device-toggle">
+                <div class="sn-toggle">
+                    <button id="sn-toggle-mobile" class="active">📱 Mobile</button>
+                    <button id="sn-toggle-desktop">🖥️ Desktop</button>
+                </div>
+            </div>
+            <div id="sn-content">
+                <p id="serponado-status">Lade Rankings...</p>
+            </div>
         </div>
     </div>
 </section>
@@ -64,6 +77,9 @@
     '#d35400','#f1c40f','#e91e63','#ff5722','#607d8b',
     '#00bcd4','#ff9800','#795548','#009688','#673ab7'
   ];
+
+  let currentDevice = 'mobile';
+  let activeCharts  = {};
 
   const faviconImg = new Image(14, 14);
   faviconImg.src = FAVICON_URL;
@@ -116,21 +132,34 @@
     return a.href.includes('optimerch.de/serponado') && !rel.includes('nofollow');
   }
 
+  function destroyCharts() {
+    Object.values(activeCharts).forEach(c => c.destroy());
+    activeCharts = {};
+  }
+
+  function getJsonUrl() {
+    const file = currentDevice === 'desktop' ? 'rankings-desktop.json' : 'rankings.json';
+    return `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/public/${file}?t=${Date.now()}`;
+  }
+
   function load() {
     const existing = document.getElementById(ATTR_ID);
     if (existing && !attributionValid()) {
-      document.getElementById('serponado-wrap').innerHTML =
+      document.getElementById('sn-content').innerHTML =
         `<p style="color:#888;font-size:0.9rem">Dieses Widget erfordert einen Dofollow-Link auf
          <a href="${ATTR_HREF}" style="color:var(--optimerch-green)">${ATTR_HREF}</a> –
          bitte die Nutzungsbedingungen einhalten.</p>`;
       return;
     }
-    const url = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/public/rankings.json?t=${Date.now()}`;
-    fetch(url)
+    fetch(getJsonUrl())
       .then(r => r.json())
-      .then(render)
+      .then(data => {
+        document.getElementById('sn-device-toggle').style.display = 'block';
+        render(data);
+      })
       .catch(() => {
-        document.getElementById('serponado-status').textContent = 'Rankings konnten nicht geladen werden.';
+        const status = document.getElementById('serponado-status');
+        if (status) status.textContent = 'Rankings konnten nicht geladen werden.';
       });
   }
 
@@ -226,12 +255,12 @@
         '<p style="font-size:0.85rem;color:#666">Noch zu wenig Daten.</p>';
       return;
     }
-    const chart = new Chart(document.getElementById(canvasId), {
+    activeCharts[canvasId] = new Chart(document.getElementById(canvasId), {
       type: 'line',
       data: { labels: entries.map(labelFn), datasets: buildDatasets(entries) },
       options: chartOptions()
     });
-    attachLegend(chart, document.getElementById(legendId));
+    attachLegend(activeCharts[canvasId], document.getElementById(legendId));
   }
 
   const DISCLAIMER = '<p style="font-size:0.75rem;color:#666;margin-top:8px">Daten via DataForSEO – Abweichungen zum tatsächlichen Google-Ranking möglich.</p>';
@@ -277,10 +306,11 @@
   }
 
   function render(data) {
-    const wrap = document.getElementById('serponado-wrap');
+    const content = document.getElementById('sn-content');
+    destroyCharts();
 
     if (!data.rankings || data.rankings.length === 0) {
-      wrap.innerHTML = '<p style="color:#888">Noch keine Rankings vorhanden.</p>';
+      content.innerHTML = '<p style="color:#888">Noch keine Rankings vorhanden.</p>';
       return;
     }
 
@@ -289,13 +319,14 @@
 
     buildColorMap(valid);
 
-    // own_url aus rankings[] ableiten wenn möglich, sonst gespeichertes Feld
     const ownEntry = (data.rankings || []).find(r =>
       r.domain && r.domain.includes(EIGENE_DOMAIN)
     );
     const ownData = ownEntry
       ? { position: ownEntry.position, url: ownEntry.url, title: ownEntry.title, stale: false }
       : (data.own_url || null);
+
+    const deviceLabel = currentDevice === 'desktop' ? '🖥️ Desktop' : '📱 Mobile';
 
     const rows = data.rankings.slice(0, MAX_ROWS).map(r => {
       const isOwn = r.domain && r.domain.includes(EIGENE_DOMAIN);
@@ -309,8 +340,8 @@
         </tr>`;
     }).join('');
 
-    wrap.innerHTML = `
-      <p class="lb-meta">🔍 Keyword: <strong>${data.keyword}</strong> &nbsp;|&nbsp; Übersicht der Top 10 Google-Positionen &nbsp;|&nbsp; Stand: ${data.updated_at}</p>
+    content.innerHTML = `
+      <p class="lb-meta">🔍 Keyword: <strong>${data.keyword}</strong> &nbsp;|&nbsp; ${deviceLabel} Top 10 &nbsp;|&nbsp; Stand: ${data.updated_at}</p>
 
       ${renderOwnUrl(ownData)}
 
@@ -333,6 +364,22 @@
 
     renderChart('sn-chart-hourly', 'sn-legend-hourly', hourly, h => h.ts.replace(' (Berlin)','').split(' ')[1]);
   }
+
+  document.getElementById('sn-toggle-mobile').addEventListener('click', function() {
+    if (currentDevice === 'mobile') return;
+    currentDevice = 'mobile';
+    this.classList.add('active');
+    document.getElementById('sn-toggle-desktop').classList.remove('active');
+    load();
+  });
+
+  document.getElementById('sn-toggle-desktop').addEventListener('click', function() {
+    if (currentDevice === 'desktop') return;
+    currentDevice = 'desktop';
+    this.classList.add('active');
+    document.getElementById('sn-toggle-mobile').classList.remove('active');
+    load();
+  });
 
   load();
   setInterval(load, REFRESH_MS);
