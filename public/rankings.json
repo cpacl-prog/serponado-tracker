@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-19 20:38 (Berlin)",
+  "updated_at": "2026-06-19 21:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -77,14 +77,14 @@
     {
       "position": 9,
       "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/serponado-strategie-sichtbarkeit-entsteht/?srsltid=AfmBOoqajDv8V49yb58o1b-ilBm46TS2fl0lPTzCRsGCteuoYtKPKxxC",
+      "url": "https://kexdesign.com/serponado-strategie-sichtbarkeit-entsteht/?srsltid=AfmBOoq71ALZ56VD_G9DDtPMT1VH_cUtp4urW4OZgO4mrupAO3aZ_Z4g",
       "title": "Die Serponado-Strategie – wie Sichtbarkeit wirklich entsteht"
     },
     {
       "position": 10,
-      "domain": "www.auf-den-berg.de",
-      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
-      "title": "Auf den Serponado"
+      "domain": "www.sagemedia.de",
+      "url": "https://www.sagemedia.de/glossar/serponado/",
+      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion - sagemedia"
     }
   ],
   "history": [
@@ -6557,6 +6557,21 @@
         "techbehemoths.com": 8,
         "kexdesign.com": 9,
         "www.auf-den-berg.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-19 21:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.dockmedia.de": 2,
+        "www.amazingh.de": 3,
+        "www.probandtastisch.de": 4,
+        "www.seo-kueche.de": 5,
+        "serponado.org": 6,
+        "taismo.de": 7,
+        "techbehemoths.com": 8,
+        "kexdesign.com": 9,
+        "www.sagemedia.de": 10
       }
     }
   ]
