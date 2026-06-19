@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-19 15:38 (Berlin)",
+  "updated_at": "2026-06-19 16:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -28,9 +28,9 @@
     },
     {
       "position": 3,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+      "domain": "www.probandtastisch.de",
+      "url": "https://www.probandtastisch.de/serponado",
+      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
     },
     {
       "position": 4,
@@ -40,21 +40,21 @@
     },
     {
       "position": 5,
+      "domain": "www.oev-experience.de",
+      "url": "https://www.oev-experience.de/serponado.html",
+      "title": "Serponado: Das Sichtbarkeitsphänomen - OEV Experience Hub"
+    },
+    {
+      "position": 6,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
-      "position": 6,
+      "position": 7,
       "domain": "www.amazingh.de",
       "url": "https://www.amazingh.de/serponado/",
       "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
-    },
-    {
-      "position": 7,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
     },
     {
       "position": 8,
@@ -70,9 +70,9 @@
     },
     {
       "position": 10,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+      "domain": "kexdesign.com",
+      "url": "https://kexdesign.com/was-ist-der-serponado-effekt/?srsltid=AfmBOoo98eklFkEuT-4iXzoF9DX-Nx1i8qkBYaIJ7FXdqArWg-uUeZ8a",
+      "title": "Was ist der Serponado-Effekt? - kexDESIGN Webagentur"
     }
   ],
   "history": [
@@ -299,6 +299,21 @@
         "taismo.de": 8,
         "techbehemoths.com": 9,
         "www.probandtastisch.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-19 16:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.semotion.de": 2,
+        "www.probandtastisch.de": 3,
+        "www.dockmedia.de": 4,
+        "www.oev-experience.de": 5,
+        "www.seo-kueche.de": 6,
+        "www.amazingh.de": 7,
+        "taismo.de": 8,
+        "techbehemoths.com": 9,
+        "kexdesign.com": 10
       }
     }
   ]
