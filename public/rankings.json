@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-19 07:39 (Berlin)",
+  "updated_at": "2026-06-19 08:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 2,
+    "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -28,15 +28,15 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
-    },
-    {
-      "position": 2,
       "domain": "www.optimerch.de",
       "url": "https://www.optimerch.de/serponado/",
       "title": "Serponado wirbelt die Google SERPs durcheinander"
+    },
+    {
+      "position": 2,
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
     },
     {
       "position": 3,
@@ -46,15 +46,15 @@
     },
     {
       "position": 4,
-      "domain": "till-freitag.com",
-      "url": "https://till-freitag.com/blog/serponado",
-      "title": "Serponado – Was ist das? Der SEO-Contest 2026 erklärt"
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoq6K1puxIbyHrirlvYIG8dyecHIlEVKT9LQ14YHlARnSUpfhDfW",
+      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
       "position": 5,
-      "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOorW5tSqCp7ikfAYnsFbnnfHGcT4-lSvFIF3OpsZH1rzuqcEqrc3",
-      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
+      "domain": "till-freitag.com",
+      "url": "https://till-freitag.com/blog/serponado",
+      "title": "Serponado – Was ist das? Der SEO-Contest 2026 erklärt"
     },
     {
       "position": 6,
@@ -82,9 +82,9 @@
     },
     {
       "position": 10,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird - Semotion"
     }
   ],
   "history": [
@@ -6181,6 +6181,21 @@
         "netzhelfer.de": 8,
         "m.youtube.com": 9,
         "www.dockmedia.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-19 08:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.arise-onlinemarketing.de": 3,
+        "feelgoodcamper.de": 4,
+        "till-freitag.com": 5,
+        "contunda.de": 6,
+        "www.seo-kueche.de": 7,
+        "netzhelfer.de": 8,
+        "m.youtube.com": 9,
+        "www.semotion.de": 10
       }
     }
   ]
