@@ -1,11 +1,11 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-19 13:08 (Berlin)",
+  "updated_at": "2026-06-19 13:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": false
+    "stale": true
   },
   "top3_moments": [
     {
@@ -16,63 +16,63 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
-    },
-    {
-      "position": 2,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
-    },
-    {
-      "position": 3,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
-    },
-    {
-      "position": 4,
       "domain": "www.semotion.de",
       "url": "https://www.semotion.de/serponado/",
       "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird"
     },
     {
+      "position": 2,
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+    },
+    {
+      "position": 3,
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+    },
+    {
+      "position": 4,
+      "domain": "www.oev-experience.de",
+      "url": "https://www.oev-experience.de/serponado.html",
+      "title": "Serponado: Das Sichtbarkeitsphänomen - OEV Experience Hub"
+    },
+    {
       "position": 5,
-      "domain": "www.arise-onlinemarketing.de",
-      "url": "https://www.arise-onlinemarketing.de/serponado/",
-      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
       "position": 6,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado | Der stürmische SEO-Contest 2026 in den ..."
-    },
-    {
-      "position": 7,
-      "domain": "www.werbeagentur.de",
-      "url": "https://www.werbeagentur.de/de/a/serponado",
-      "title": "Serponado"
-    },
-    {
-      "position": 8,
-      "domain": "www.websedit.de",
-      "url": "https://www.websedit.de/serponado",
-      "title": "Serponado Anonymous - Die Selbsthilfegruppe"
-    },
-    {
-      "position": 9,
-      "domain": "www.sortlist.de",
-      "url": "https://www.sortlist.de/agency/serponado",
-      "title": "Serponado, Bremen - Sortlist"
-    },
-    {
-      "position": 10,
       "domain": "taismo.de",
       "url": "https://taismo.de/seo-magazin/serponado/",
       "title": "Don Serponado und der SEO Contest 2026"
+    },
+    {
+      "position": 7,
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+    },
+    {
+      "position": 8,
+      "domain": "www.amazingh.de",
+      "url": "https://www.amazingh.de/serponado/",
+      "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
+    },
+    {
+      "position": 9,
+      "domain": "www.probandtastisch.de",
+      "url": "https://www.probandtastisch.de/serponado",
+      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+    },
+    {
+      "position": 10,
+      "domain": "techbehemoths.com",
+      "url": "https://techbehemoths.com/company/serponado",
+      "title": "Serponado Company Profile"
     }
   ],
   "history": [
@@ -224,6 +224,21 @@
         "www.websedit.de": 8,
         "www.sortlist.de": 9,
         "taismo.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-19 13:38 (Berlin)",
+      "positions": {
+        "www.semotion.de": 1,
+        "www.position-one.de": 2,
+        "www.dockmedia.de": 3,
+        "www.oev-experience.de": 4,
+        "contunda.de": 5,
+        "taismo.de": 6,
+        "www.seo-kueche.de": 7,
+        "www.amazingh.de": 8,
+        "www.probandtastisch.de": 9,
+        "techbehemoths.com": 10
       }
     }
   ]
