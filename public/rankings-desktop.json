@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-20 19:08 (Berlin)",
+  "updated_at": "2026-06-20 19:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -65,7 +65,7 @@
     {
       "position": 9,
       "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/serponado-strategie-sichtbarkeit-entsteht/?srsltid=AfmBOopPFiGLLMmb3QM2AMRaJwC_EMMNuVUgdrJhamHjoFamIH22j0Ig",
+      "url": "https://kexdesign.com/serponado-strategie-sichtbarkeit-entsteht/?srsltid=AfmBOoqlNduLx8oAwwBjI7GZNrf2ydFGSlgBYWv0GE4v2o12fBZI4TVv",
       "title": "Die Serponado-Strategie – wie Sichtbarkeit wirklich entsteht"
     },
     {
@@ -1113,6 +1113,21 @@
     },
     {
       "ts": "2026-06-20 19:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.dockmedia.de": 2,
+        "www.seo-kueche.de": 3,
+        "www.amazingh.de": 4,
+        "www.probandtastisch.de": 5,
+        "serponado.org": 6,
+        "taismo.de": 7,
+        "techbehemoths.com": 8,
+        "kexdesign.com": 9,
+        "www.auf-den-berg.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-20 19:38 (Berlin)",
       "positions": {
         "contunda.de": 1,
         "www.dockmedia.de": 2,
