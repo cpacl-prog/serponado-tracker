@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-20 21:08 (Berlin)",
+  "updated_at": "2026-06-20 21:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -1171,6 +1171,19 @@
     },
     {
       "ts": "2026-06-20 21:08 (Berlin)",
+      "positions": {
+        "www.seo-kueche.de": 1,
+        "www.probandtastisch.de": 2,
+        "taismo.de": 3,
+        "www.auf-den-berg.de": 4,
+        "www.sagemedia.de": 5,
+        "locseo.eu": 10,
+        "techbehemoths.com": 7,
+        "www.youtube.com": 9
+      }
+    },
+    {
+      "ts": "2026-06-20 21:38 (Berlin)",
       "positions": {
         "www.seo-kueche.de": 1,
         "www.probandtastisch.de": 2,
