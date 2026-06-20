@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-20 04:38 (Berlin)",
+  "updated_at": "2026-06-20 05:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -22,27 +22,27 @@
     },
     {
       "position": 2,
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird"
+    },
+    {
+      "position": 3,
       "domain": "www.dockmedia.de",
       "url": "https://www.dockmedia.de/serponado.html",
       "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
-      "position": 3,
+      "position": 4,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
-      "position": 4,
+      "position": 5,
       "domain": "www.amazingh.de",
       "url": "https://www.amazingh.de/serponado/",
       "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
-    },
-    {
-      "position": 5,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
     },
     {
       "position": 6,
@@ -52,27 +52,27 @@
     },
     {
       "position": 7,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
-    },
-    {
-      "position": 8,
       "domain": "techbehemoths.com",
       "url": "https://techbehemoths.com/company/serponado",
       "title": "Serponado Company Profile"
     },
     {
+      "position": 8,
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
+    },
+    {
       "position": 9,
-      "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/serponado-strategie-sichtbarkeit-entsteht/?srsltid=AfmBOoqxB6gc6xrOz8sg4tgNk8L40GKFY1Ier8pF0_81Y1y5Mb05e8pU",
-      "title": "Die Serponado-Strategie – wie Sichtbarkeit wirklich entsteht"
+      "domain": "www.probandtastisch.de",
+      "url": "https://www.probandtastisch.de/serponado",
+      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
     },
     {
       "position": 10,
-      "domain": "www.auf-den-berg.de",
-      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
-      "title": "Auf den Serponado"
+      "domain": "kexdesign.com",
+      "url": "https://kexdesign.com/serponado-strategie-sichtbarkeit-entsteht/?srsltid=AfmBOoqNUVPMUdtXryWoXPjHBbriObVI94x-mtbjzUV_M6zGB27NE1cY",
+      "title": "Die Serponado-Strategie – wie Sichtbarkeit wirklich entsteht"
     }
   ],
   "history": [
@@ -689,6 +689,21 @@
         "techbehemoths.com": 8,
         "kexdesign.com": 9,
         "www.auf-den-berg.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-20 05:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.semotion.de": 2,
+        "www.dockmedia.de": 3,
+        "www.seo-kueche.de": 4,
+        "www.amazingh.de": 5,
+        "serponado.org": 6,
+        "techbehemoths.com": 7,
+        "taismo.de": 8,
+        "www.probandtastisch.de": 9,
+        "kexdesign.com": 10
       }
     }
   ]
