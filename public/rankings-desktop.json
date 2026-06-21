@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-21 12:38 (Berlin)",
+  "updated_at": "2026-06-21 13:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -34,15 +34,15 @@
     },
     {
       "position": 4,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
-    },
-    {
-      "position": 5,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+    },
+    {
+      "position": 5,
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
       "position": 6,
@@ -65,7 +65,7 @@
     {
       "position": 9,
       "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOorUwfXBAMlxBjpfBRjvAmzNelUL9uMaI_oyX2FM5eBaPeGxX0I1",
+      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOoqR4rZwjWwLgpXyBD_eZu-gYI2ia0VTUuww75JmNBWOd6FebARL",
       "title": "Serponado: Der Sichtbarkeitskick für deine Website"
     },
     {
@@ -1635,6 +1635,21 @@
         "www.probandtastisch.de": 3,
         "www.dockmedia.de": 4,
         "www.seo-kueche.de": 5,
+        "taismo.de": 6,
+        "serponado.org": 7,
+        "techbehemoths.com": 8,
+        "kexdesign.com": 9,
+        "www.sagemedia.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-21 13:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.amazingh.de": 2,
+        "www.probandtastisch.de": 3,
+        "www.seo-kueche.de": 4,
+        "www.dockmedia.de": 5,
         "taismo.de": 6,
         "serponado.org": 7,
         "techbehemoths.com": 8,
