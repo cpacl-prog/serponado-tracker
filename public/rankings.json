@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-21 15:38 (Berlin)",
+  "updated_at": "2026-06-21 16:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -42,15 +42,15 @@
     },
     {
       "position": 2,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
       "position": 3,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
     },
     {
       "position": 4,
@@ -66,33 +66,15 @@
     },
     {
       "position": 6,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado: Der SEO-Contest 2026 in den Google-SERPs"
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoo3JBejc52Bz4u2NZTLl65LeyAHdrNLyx3jwZwc6ST7uz0MD9GF",
+      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
       "position": 7,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
-    },
-    {
-      "position": 8,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
-    },
-    {
-      "position": 9,
-      "domain": "seobuddha.de",
-      "url": "https://seobuddha.de/serponado/",
-      "title": "Serponado"
-    },
-    {
-      "position": 10,
-      "domain": "www.semtrix.de",
-      "url": "https://www.semtrix.de/serponado/",
-      "title": "Serponado - Die Jagd nach dem SERP-Tornado"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     }
   ],
   "history": [
@@ -7825,6 +7807,18 @@
         "taismo.de": 8,
         "seobuddha.de": 9,
         "www.semtrix.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-21 16:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "www.seo-kueche.de": 2,
+        "serponado.org": 3,
+        "www.arise-onlinemarketing.de": 4,
+        "leadpeak.me": 5,
+        "feelgoodcamper.de": 6,
+        "contunda.de": 7
       }
     }
   ]
