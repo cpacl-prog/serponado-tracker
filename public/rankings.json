@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-21 13:08 (Berlin)",
+  "updated_at": "2026-06-21 13:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -67,7 +67,7 @@
     {
       "position": 6,
       "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOorZiltNDBNtaw_bqfVlCiaQk8nXMqCb9gsKdrd57VkV70kOM2mS",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoosRXp62aeDytbXLnNo6dNI8knRTxB_V1-LQMEwVNsp-_sULDHC",
       "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
@@ -7733,6 +7733,19 @@
     },
     {
       "ts": "2026-06-21 13:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.seo-kueche.de": 3,
+        "www.arise-onlinemarketing.de": 4,
+        "leadpeak.me": 5,
+        "feelgoodcamper.de": 6,
+        "contunda.de": 7,
+        "till-freitag.com": 8
+      }
+    },
+    {
+      "ts": "2026-06-21 13:38 (Berlin)",
       "positions": {
         "www.optimerch.de": 1,
         "serponado.org": 2,
