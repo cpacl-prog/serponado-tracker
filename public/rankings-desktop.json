@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-21 20:08 (Berlin)",
+  "updated_at": "2026-06-21 20:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -65,7 +65,7 @@
     {
       "position": 9,
       "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOooUAix_la60erUIfEemi9WzhCfZ21cztrB7jvp_8VhBmPksZnbe",
+      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOoo11M91Q1L9z-zepP8I_vdNuzo5iYcEkhhGln38Ig5MN1MkIXWj",
       "title": "Serponado: Der Sichtbarkeitskick für deine Website"
     },
     {
@@ -1853,6 +1853,21 @@
     },
     {
       "ts": "2026-06-21 20:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.amazingh.de": 2,
+        "www.probandtastisch.de": 3,
+        "www.seo-kueche.de": 4,
+        "www.dockmedia.de": 5,
+        "taismo.de": 6,
+        "serponado.org": 7,
+        "techbehemoths.com": 8,
+        "kexdesign.com": 9,
+        "www.sagemedia.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-21 20:38 (Berlin)",
       "positions": {
         "contunda.de": 1,
         "www.amazingh.de": 2,
