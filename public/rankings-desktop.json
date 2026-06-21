@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-21 09:08 (Berlin)",
+  "updated_at": "2026-06-21 09:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -34,15 +34,15 @@
     },
     {
       "position": 4,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
-    },
-    {
-      "position": 5,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+    },
+    {
+      "position": 5,
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
       "position": 6,
@@ -65,8 +65,14 @@
     {
       "position": 9,
       "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOoqgv1bOX7x8X0AGhju9BB9_WDLXelBwuKjQTKoHJKQxyVh6gneg",
+      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOoqJhG03fzEgWBc8L9gtrGnPgIL49IA5YnjYwtAYLxRMIr7zyLXu",
       "title": "Serponado: Der Sichtbarkeitskick für deine Website"
+    },
+    {
+      "position": 10,
+      "domain": "www.sagemedia.de",
+      "url": "https://www.sagemedia.de/glossar/serponado/",
+      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion"
     }
   ],
   "history": [
@@ -1529,6 +1535,21 @@
         "serponado.org": 7,
         "techbehemoths.com": 8,
         "kexdesign.com": 9
+      }
+    },
+    {
+      "ts": "2026-06-21 09:38 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.amazingh.de": 2,
+        "www.probandtastisch.de": 3,
+        "www.seo-kueche.de": 4,
+        "www.dockmedia.de": 5,
+        "taismo.de": 6,
+        "serponado.org": 7,
+        "techbehemoths.com": 8,
+        "kexdesign.com": 9,
+        "www.sagemedia.de": 10
       }
     }
   ]
