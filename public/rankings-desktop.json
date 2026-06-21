@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-21 15:08 (Berlin)",
+  "updated_at": "2026-06-21 15:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -34,9 +34,9 @@
     },
     {
       "position": 4,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
       "position": 5,
@@ -58,21 +58,21 @@
     },
     {
       "position": 8,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
-    },
-    {
-      "position": 9,
       "domain": "techbehemoths.com",
       "url": "https://techbehemoths.com/company/serponado",
       "title": "Serponado Company Profile"
     },
     {
-      "position": 10,
+      "position": 9,
       "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOooztbhNxk_ZHvfG6J_vsDGBRJKq_jKQl68GaR-dhrxKUJM2GQbv",
+      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOoppe-EF0SWi4CrSaF13G1RYz9TaJzMP1OrbgyTGFB1H8ZOccZBg",
       "title": "Serponado: Der Sichtbarkeitskick für deine Website"
+    },
+    {
+      "position": 10,
+      "domain": "www.auf-den-berg.de",
+      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
+      "title": "Auf den Serponado"
     }
   ],
   "history": [
@@ -1715,6 +1715,21 @@
         "www.dockmedia.de": 8,
         "techbehemoths.com": 9,
         "kexdesign.com": 10
+      }
+    },
+    {
+      "ts": "2026-06-21 15:38 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.amazingh.de": 2,
+        "www.probandtastisch.de": 3,
+        "www.dockmedia.de": 4,
+        "www.seo-kueche.de": 5,
+        "taismo.de": 6,
+        "serponado.org": 7,
+        "techbehemoths.com": 8,
+        "kexdesign.com": 9,
+        "www.auf-den-berg.de": 10
       }
     }
   ]
