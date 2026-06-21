@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-21 11:38 (Berlin)",
+  "updated_at": "2026-06-21 12:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -54,21 +54,21 @@
     },
     {
       "position": 4,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
-    },
-    {
-      "position": 5,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
-    },
-    {
-      "position": 6,
       "domain": "www.dockmedia.de",
       "url": "https://www.dockmedia.de/serponado.html",
       "title": "Serponado: Der SERP-Tornado einfach erklärt"
+    },
+    {
+      "position": 5,
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
+    },
+    {
+      "position": 6,
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
       "position": 7,
@@ -78,20 +78,20 @@
     },
     {
       "position": 8,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
-    },
-    {
-      "position": 9,
       "domain": "techbehemoths.com",
       "url": "https://techbehemoths.com/company/serponado",
       "title": "Serponado Company Profile"
     },
     {
+      "position": 9,
+      "domain": "www.auf-den-berg.de",
+      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
+      "title": "Auf den Serponado"
+    },
+    {
       "position": 10,
       "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOorggksGNqArHbKc2K3Gn5nX3oOEBTZQ2wuf2x4CSC9nGST-SzPG",
+      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOoo3-BSoPX0XvBeJ2y4iJFXHB5PZIAru4_J6YCt16RNj7TMSzM85",
       "title": "Serponado: Der Sichtbarkeitskick für deine Website - kexDESIGN"
     }
   ],
@@ -7712,6 +7712,21 @@
         "serponado.org": 7,
         "taismo.de": 8,
         "techbehemoths.com": 9,
+        "kexdesign.com": 10
+      }
+    },
+    {
+      "ts": "2026-06-21 12:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.amazingh.de": 2,
+        "www.probandtastisch.de": 3,
+        "www.dockmedia.de": 4,
+        "taismo.de": 5,
+        "www.seo-kueche.de": 6,
+        "serponado.org": 7,
+        "techbehemoths.com": 8,
+        "www.auf-den-berg.de": 9,
         "kexdesign.com": 10
       }
     }
