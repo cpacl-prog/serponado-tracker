@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-21 03:38 (Berlin)",
+  "updated_at": "2026-06-21 04:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -34,9 +34,9 @@
     },
     {
       "position": 4,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
+      "domain": "www.amazingh.de",
+      "url": "https://www.amazingh.de/serponado/",
+      "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
     },
     {
       "position": 5,
@@ -46,26 +46,26 @@
     },
     {
       "position": 6,
-      "domain": "www.amazingh.de",
-      "url": "https://www.amazingh.de/serponado/",
-      "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
-    },
-    {
-      "position": 7,
-      "domain": "techbehemoths.com",
-      "url": "https://techbehemoths.com/company/serponado",
-      "title": "Serponado Company Profile"
-    },
-    {
-      "position": 8,
       "domain": "taismo.de",
       "url": "https://taismo.de/seo-magazin/serponado/",
       "title": "Don Serponado und der SEO Contest 2026"
     },
     {
+      "position": 7,
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
+    },
+    {
+      "position": 8,
+      "domain": "techbehemoths.com",
+      "url": "https://techbehemoths.com/company/serponado",
+      "title": "Serponado Company Profile"
+    },
+    {
       "position": 9,
       "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOoqQrC5hUO6yTBIUBUzfqyIAbPGN3ccDVTYO6XmwBz7dEVlb7Erh",
+      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOoqAJqv9ynUaUeI4cO93d27cMP25KKZUTnpdE7cBDhkbAiKCuzeX",
       "title": "Serponado: Der Sichtbarkeitskick für deine Website"
     },
     {
@@ -1369,6 +1369,21 @@
         "www.amazingh.de": 6,
         "techbehemoths.com": 7,
         "taismo.de": 8,
+        "kexdesign.com": 9,
+        "www.auf-den-berg.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-21 04:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.dockmedia.de": 2,
+        "www.seo-kueche.de": 3,
+        "www.amazingh.de": 4,
+        "www.probandtastisch.de": 5,
+        "taismo.de": 6,
+        "serponado.org": 7,
+        "techbehemoths.com": 8,
         "kexdesign.com": 9,
         "www.auf-den-berg.de": 10
       }
