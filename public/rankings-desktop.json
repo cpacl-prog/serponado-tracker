@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-21 01:38 (Berlin)",
+  "updated_at": "2026-06-21 02:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -46,15 +46,15 @@
     },
     {
       "position": 6,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
-    },
-    {
-      "position": 7,
       "domain": "serponado.org",
       "url": "https://serponado.org/",
       "title": "Serponado"
+    },
+    {
+      "position": 7,
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
     },
     {
       "position": 8,
@@ -65,8 +65,8 @@
     {
       "position": 9,
       "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOopTL8A_r8TpyEy3Q1QZYtALpSbOlKQmFVfE02Fs6G3c9ztLW7Qc",
-      "title": "Serponado: Der Sichtbarkeitskick für deine Website"
+      "url": "https://kexdesign.com/serponado-strategie-sichtbarkeit-entsteht/?srsltid=AfmBOooLxUGQBwuhdgSWfObPkStn3HEXdfYxsHsvT0xdzhsS99kAvBLt",
+      "title": "Die Serponado-Strategie – wie Sichtbarkeit wirklich entsteht"
     },
     {
       "position": 10,
@@ -1308,6 +1308,21 @@
         "www.probandtastisch.de": 5,
         "taismo.de": 6,
         "serponado.org": 7,
+        "techbehemoths.com": 8,
+        "kexdesign.com": 9,
+        "www.auf-den-berg.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-21 02:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.dockmedia.de": 2,
+        "www.seo-kueche.de": 3,
+        "www.amazingh.de": 4,
+        "www.probandtastisch.de": 5,
+        "serponado.org": 6,
+        "taismo.de": 7,
         "techbehemoths.com": 8,
         "kexdesign.com": 9,
         "www.auf-den-berg.de": 10
