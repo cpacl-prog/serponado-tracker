@@ -14,24 +14,35 @@ MAX_DISPLAY = 10
 MAX_HISTORY = 1440   # 30 Tage à 48 Halbstunden
 
 BASE_PARAMS = {
-    "keyword":                     KEYWORD,
-    "location_name":               "Germany",
-    "language_code":               "de",
-    "se_domain":                   "google.de",
-    "depth":                       10,
-    "browser_screen_width":        1920,
-    "browser_screen_height":       1080,
-    "browser_screen_scale_factor": 1,
+    "keyword":       KEYWORD,
+    "location_name": "Germany",
+    "language_code": "de",
+    "se_domain":     "google.de",
+    "depth":         10,
 }
 
 CONFIGS = {
     'mobile': {
         'output':  'public/rankings.json',
-        'payload': [{**BASE_PARAMS, 'device': 'mobile', 'os': 'android'}],
+        'payload': [{
+            **BASE_PARAMS,
+            'device':                      'mobile',
+            'os':                          'android',
+            'browser_screen_width':        412,
+            'browser_screen_height':       915,
+            'browser_screen_scale_factor': 2.625,
+        }],
     },
     'desktop': {
         'output':  'public/rankings-desktop.json',
-        'payload': [{**BASE_PARAMS, 'device': 'desktop', 'os': 'windows'}],
+        'payload': [{
+            **BASE_PARAMS,
+            'device':                      'desktop',
+            'os':                          'windows',
+            'browser_screen_width':        1920,
+            'browser_screen_height':       1080,
+            'browser_screen_scale_factor': 1,
+        }],
     },
 }
 
