@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-22 10:38 (Berlin)",
+  "updated_at": "2026-06-22 11:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -46,9 +46,9 @@
     },
     {
       "position": 6,
-      "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoow_5mEIVyXX2gdeOOdGqwNtmNz8NG290bcvNZW3mJxPma6e6si",
-      "title": "Serponado - SEO-Contest 2026"
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/serponado/",
+      "title": "Serponado: SEO-Alarm in den Google SERPs"
     },
     {
       "position": 7,
@@ -58,9 +58,9 @@
     },
     {
       "position": 8,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/serponado/",
-      "title": "Serponado: SEO-Alarm in den Google SERPs"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird"
     },
     {
       "position": 9,
@@ -70,9 +70,9 @@
     },
     {
       "position": 10,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird"
+      "domain": "de.trustpilot.com",
+      "url": "https://de.trustpilot.com/review/serponado.org",
+      "title": "Bewertungen zu Serponado"
     }
   ],
   "history": [
@@ -134,6 +134,21 @@
         "leadpeak.me": 8,
         "netzhelfer.de": 9,
         "www.semotion.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-22 11:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "contunda.de": 2,
+        "www.position-one.de": 3,
+        "www.bremen.de": 4,
+        "www.amazingh.de": 5,
+        "leadpeak.me": 6,
+        "www.arise-onlinemarketing.de": 7,
+        "www.semotion.de": 8,
+        "netzhelfer.de": 9,
+        "de.trustpilot.com": 10
       }
     }
   ]
