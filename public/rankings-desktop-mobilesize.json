@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-22 12:08 (Berlin)",
+  "updated_at": "2026-06-22 12:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -64,15 +64,15 @@
     },
     {
       "position": 9,
-      "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOop8rBv30z8aHc9CMDl6BNkz5aGDH38LWt9uP8vAOxJ4KkkqO5v-",
-      "title": "Serponado: Der Sichtbarkeitskick für deine Website"
+      "domain": "seobuddha.de",
+      "url": "https://seobuddha.de/serpnado/",
+      "title": "Serpnado – Meintest du Serponado?"
     },
     {
       "position": 10,
-      "domain": "www.sagemedia.de",
-      "url": "https://www.sagemedia.de/glossar/serponado/",
-      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion"
+      "domain": "kexdesign.com",
+      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOoqRBtS2MWxMoiSO9z0UJUTmviwHQmQPF2PVraMNQTyWNfaVUx3-",
+      "title": "Serponado: Der Sichtbarkeitskick für deine Website"
     }
   ],
   "history": [
@@ -179,6 +179,21 @@
         "serponado.org": 8,
         "kexdesign.com": 9,
         "www.sagemedia.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-22 12:38 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.position-one.de": 2,
+        "www.amazingh.de": 3,
+        "www.probandtastisch.de": 4,
+        "www.seo-kueche.de": 5,
+        "www.dockmedia.de": 6,
+        "taismo.de": 7,
+        "serponado.org": 8,
+        "seobuddha.de": 9,
+        "kexdesign.com": 10
       }
     }
   ]
