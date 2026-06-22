@@ -1,11 +1,11 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-22 17:08 (Berlin)",
+  "updated_at": "2026-06-22 17:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": false
+    "stale": true
   },
   "top3_moments": [
     {
@@ -20,9 +20,9 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
       "position": 2,
@@ -32,51 +32,51 @@
     },
     {
       "position": 3,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
-    },
-    {
-      "position": 4,
-      "domain": "www.bremen.de",
-      "url": "https://www.bremen.de/visitenkarte/serponado",
-      "title": "Serponado"
-    },
-    {
-      "position": 5,
       "domain": "www.amazingh.de",
       "url": "https://www.amazingh.de/serponado/",
       "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
     },
     {
+      "position": 4,
+      "domain": "www.probandtastisch.de",
+      "url": "https://www.probandtastisch.de/serponado",
+      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+    },
+    {
+      "position": 5,
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+    },
+    {
       "position": 6,
-      "domain": "www.sortlist.de",
-      "url": "https://www.sortlist.de/agency/serponado",
-      "title": "Serponado (+ Bewertungen) | Sortlist"
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
     },
     {
       "position": 7,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird"
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
       "position": 8,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/serponado/",
-      "title": "Serponado: SEO-Alarm in den Google SERPs"
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
     },
     {
       "position": 9,
-      "domain": "www.arise-onlinemarketing.de",
-      "url": "https://www.arise-onlinemarketing.de/serponado/",
-      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
+      "domain": "seobuddha.de",
+      "url": "https://seobuddha.de/serpnado/",
+      "title": "Serpnado – Meintest du Serponado?"
     },
     {
       "position": 10,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado: Der SEO-Contest 2026 in den Google-SERPs"
+      "domain": "kexdesign.com",
+      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOore5y87Dcw4QW146x4gdkKamF1DYc4gcWw89iar-O0mKviACV3F",
+      "title": "Serponado: Der Sichtbarkeitskick für deine Website"
     }
   ],
   "history": [
@@ -2492,6 +2492,21 @@
         "leadpeak.me": 8,
         "www.arise-onlinemarketing.de": 9,
         "netzhelfer.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-22 17:38 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.position-one.de": 2,
+        "www.amazingh.de": 3,
+        "www.probandtastisch.de": 4,
+        "www.seo-kueche.de": 5,
+        "taismo.de": 6,
+        "www.dockmedia.de": 7,
+        "serponado.org": 8,
+        "seobuddha.de": 9,
+        "kexdesign.com": 10
       }
     }
   ]
