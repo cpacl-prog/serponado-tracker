@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-22 05:38 (Berlin)",
+  "updated_at": "2026-06-22 06:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -48,51 +48,45 @@
     },
     {
       "position": 3,
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
+    },
+    {
+      "position": 4,
       "domain": "www.probandtastisch.de",
       "url": "https://www.probandtastisch.de/serponado",
       "title": "Serponado: Was ist das? Definition, Symptome & Studie"
     },
     {
-      "position": 4,
+      "position": 5,
       "domain": "www.position-one.de",
       "url": "https://www.position-one.de/serponado.html",
       "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
-      "position": 5,
+      "position": 6,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
-      "position": 6,
+      "position": 7,
       "domain": "www.dockmedia.de",
       "url": "https://www.dockmedia.de/serponado.html",
       "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
-      "position": 7,
+      "position": 8,
       "domain": "taismo.de",
       "url": "https://taismo.de/seo-magazin/serponado/",
       "title": "Don Serponado und der SEO Contest 2026"
     },
     {
-      "position": 8,
+      "position": 9,
       "domain": "serponado.org",
       "url": "https://serponado.org/",
       "title": "Serponado"
-    },
-    {
-      "position": 9,
-      "domain": "techbehemoths.com",
-      "url": "https://techbehemoths.com/company/serponado",
-      "title": "Serponado Company Profile"
-    },
-    {
-      "position": 10,
-      "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOopMU-VKeE6wm4Dln3w6zmyLKuyJxLlo5bq05DFkVh8ErYKyZ9GX",
-      "title": "Serponado: Der Sichtbarkeitskick für deine Website - kexDESIGN"
     }
   ],
   "history": [
@@ -8231,6 +8225,20 @@
         "serponado.org": 8,
         "techbehemoths.com": 9,
         "kexdesign.com": 10
+      }
+    },
+    {
+      "ts": "2026-06-22 06:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.amazingh.de": 2,
+        "www.bremen.de": 3,
+        "www.probandtastisch.de": 4,
+        "www.position-one.de": 5,
+        "www.seo-kueche.de": 6,
+        "www.dockmedia.de": 7,
+        "taismo.de": 8,
+        "serponado.org": 9
       }
     }
   ]
