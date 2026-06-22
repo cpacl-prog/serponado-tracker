@@ -1,13 +1,17 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-22 11:38 (Berlin)",
+  "updated_at": "2026-06-22 12:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 2,
+    "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": true
+    "stale": false
   },
   "top3_moments": [
+    {
+      "date": "2026-06-22",
+      "position": 1
+    },
     {
       "date": "2026-06-19",
       "position": 1
@@ -16,63 +20,63 @@
   "rankings": [
     {
       "position": 1,
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
+    },
+    {
+      "position": 2,
       "domain": "contunda.de",
       "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
       "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
-      "position": 2,
+      "position": 3,
       "domain": "www.position-one.de",
       "url": "https://www.position-one.de/serponado.html",
       "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
-      "position": 3,
+      "position": 4,
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
+    },
+    {
+      "position": 5,
       "domain": "www.amazingh.de",
       "url": "https://www.amazingh.de/serponado/",
       "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
     },
     {
-      "position": 4,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
-    },
-    {
-      "position": 5,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
-    },
-    {
       "position": 6,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoqrnR6HM2YNCiWh5RXGZFEuKTyc3qOFhSAT5NrLcE6If_8xUdDh",
+      "title": "Serponado - SEO-Contest 2026"
     },
     {
       "position": 7,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
+      "domain": "www.arise-onlinemarketing.de",
+      "url": "https://www.arise-onlinemarketing.de/serponado/",
+      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
     },
     {
       "position": 8,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/serponado/",
+      "title": "Serponado: SEO-Alarm in den Google SERPs"
     },
     {
       "position": 9,
-      "domain": "seobuddha.de",
-      "url": "https://seobuddha.de/serpnado/",
-      "title": "Serpnado – Meintest du Serponado?"
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Contest 2026 in den Google-SERPs"
     },
     {
       "position": 10,
-      "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOopPuVSCyjJJUoMmy27lrZcro-Njxu5sWkQhsz2Wxp2sS42tpsTW",
-      "title": "Serponado: Der Sichtbarkeitskick für deine Website"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird"
     }
   ],
   "history": [
@@ -2325,6 +2329,21 @@
         "serponado.org": 8,
         "seobuddha.de": 9,
         "kexdesign.com": 10
+      }
+    },
+    {
+      "ts": "2026-06-22 12:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "contunda.de": 2,
+        "www.position-one.de": 3,
+        "www.bremen.de": 4,
+        "www.amazingh.de": 5,
+        "feelgoodcamper.de": 6,
+        "www.arise-onlinemarketing.de": 7,
+        "leadpeak.me": 8,
+        "netzhelfer.de": 9,
+        "www.semotion.de": 10
       }
     }
   ]
