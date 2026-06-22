@@ -1,11 +1,11 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-22 21:08 (Berlin)",
+  "updated_at": "2026-06-22 21:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": true
+    "stale": false
   },
   "top3_moments": [
     {
@@ -40,63 +40,51 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
     },
     {
       "position": 2,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Contest 2026 in den Google-SERPs"
     },
     {
       "position": 3,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
     },
     {
       "position": 4,
-      "domain": "www.sagemedia.de",
-      "url": "https://www.sagemedia.de/glossar/serponado/",
-      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion - sagemedia"
+      "domain": "till-freitag.com",
+      "url": "https://till-freitag.com/blog/serponado",
+      "title": "Serponado – Was ist das? Der SEO-Contest 2026 erklärt"
     },
     {
       "position": 5,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOopWTF2CJZeuIKPtYX1Ga4SaazRifK50k1uDZUlWNTvBNkS9ANO_",
+      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
       "position": 6,
-      "domain": "locseo.eu",
-      "url": "https://locseo.eu/serponado-geschichte",
-      "title": "Serponado Geschichte – Entstehung, Contest 2026 & Akte"
+      "domain": "www.arise-onlinemarketing.de",
+      "url": "https://www.arise-onlinemarketing.de/serponado/",
+      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
     },
     {
       "position": 7,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/shorts/KC_SOm_ZJUI",
-      "title": "Der Serponado ist da! 🌪️ (Die Wahrheit)"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
       "position": 8,
-      "domain": "www.auf-den-berg.de",
-      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
-      "title": "Auf den Serponado"
-    },
-    {
-      "position": 9,
-      "domain": "seobuddha.de",
-      "url": "https://seobuddha.de/serpando/",
-      "title": "Serpando – Meintest du Serponado?"
-    },
-    {
-      "position": 10,
-      "domain": "techbehemoths.com",
-      "url": "https://techbehemoths.com/company/serponado",
-      "title": "Serponado Company Profile"
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     }
   ],
   "history": [
@@ -8672,6 +8660,19 @@
         "www.auf-den-berg.de": 8,
         "seobuddha.de": 9,
         "techbehemoths.com": 10
+      }
+    },
+    {
+      "ts": "2026-06-22 21:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "netzhelfer.de": 2,
+        "serponado.org": 3,
+        "till-freitag.com": 4,
+        "feelgoodcamper.de": 5,
+        "www.arise-onlinemarketing.de": 6,
+        "contunda.de": 7,
+        "www.seo-kueche.de": 8
       }
     }
   ]
