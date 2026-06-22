@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-22 09:08 (Berlin)",
+  "updated_at": "2026-06-22 09:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": null,
@@ -11,27 +11,27 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.amazingh.de",
-      "url": "https://www.amazingh.de/serponado/",
-      "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
-    },
-    {
-      "position": 2,
       "domain": "contunda.de",
       "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
       "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
+      "position": 2,
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+    },
+    {
       "position": 3,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+      "domain": "www.amazingh.de",
+      "url": "https://www.amazingh.de/serponado/",
+      "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
     },
     {
       "position": 4,
-      "domain": "www.sortlist.de",
-      "url": "https://www.sortlist.de/agency/serponado",
-      "title": "Serponado (+ Bewertungen) | Sortlist"
+      "domain": "www.probandtastisch.de",
+      "url": "https://www.probandtastisch.de/serponado",
+      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
     },
     {
       "position": 5,
@@ -41,15 +41,15 @@
     },
     {
       "position": 6,
-      "domain": "de.trustpilot.com",
-      "url": "https://de.trustpilot.com/review/serponado.org",
-      "title": "Bewertungen zu Serponado"
-    },
-    {
-      "position": 7,
       "domain": "www.dockmedia.de",
       "url": "https://www.dockmedia.de/serponado.html",
       "title": "Serponado: Der SERP-Tornado einfach erklärt"
+    },
+    {
+      "position": 7,
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
     },
     {
       "position": 8,
@@ -59,15 +59,15 @@
     },
     {
       "position": 9,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
+      "domain": "techbehemoths.com",
+      "url": "https://techbehemoths.com/company/serponado",
+      "title": "Serponado Company Profile"
     },
     {
       "position": 10,
-      "domain": "www.provenexpert.com",
-      "url": "https://www.provenexpert.com/de-de/serponado/",
-      "title": "Serponado Erfahrungen & Bewertungen"
+      "domain": "kexdesign.com",
+      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOorxvKXeMdcL3gQOsSMvHZz938KEmy72o7in3AAsOyHnOZdd6HgS",
+      "title": "Serponado: Der Sichtbarkeitskick für deine Website"
     }
   ],
   "history": [
@@ -84,6 +84,21 @@
         "serponado.org": 8,
         "taismo.de": 9,
         "www.provenexpert.com": 10
+      }
+    },
+    {
+      "ts": "2026-06-22 09:38 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.position-one.de": 2,
+        "www.amazingh.de": 3,
+        "www.probandtastisch.de": 4,
+        "www.seo-kueche.de": 5,
+        "www.dockmedia.de": 6,
+        "taismo.de": 7,
+        "serponado.org": 8,
+        "techbehemoths.com": 9,
+        "kexdesign.com": 10
       }
     }
   ]
