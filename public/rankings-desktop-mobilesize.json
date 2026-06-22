@@ -1,73 +1,78 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-22 10:08 (Berlin)",
+  "updated_at": "2026-06-22 10:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": null,
-    "title": "",
-    "stale": true
+    "position": 1,
+    "title": "Serponado wirbelt die Google SERPs durcheinander",
+    "stale": false
   },
-  "top3_moments": [],
+  "top3_moments": [
+    {
+      "date": "2026-06-22",
+      "position": 1
+    }
+  ],
   "rankings": [
     {
       "position": 1,
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
+    },
+    {
+      "position": 2,
       "domain": "contunda.de",
       "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
       "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
-      "position": 2,
-      "domain": "www.amazingh.de",
-      "url": "https://www.amazingh.de/serponado/",
-      "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
-    },
-    {
       "position": 3,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
-    },
-    {
-      "position": 4,
       "domain": "www.position-one.de",
       "url": "https://www.position-one.de/serponado.html",
       "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
-      "position": 5,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
-    },
-    {
-      "position": 6,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
-    },
-    {
-      "position": 7,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
-    },
-    {
-      "position": 8,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
+      "position": 4,
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
       "title": "Serponado"
     },
     {
+      "position": 5,
+      "domain": "www.amazingh.de",
+      "url": "https://www.amazingh.de/serponado/",
+      "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
+    },
+    {
+      "position": 6,
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoow_5mEIVyXX2gdeOOdGqwNtmNz8NG290bcvNZW3mJxPma6e6si",
+      "title": "Serponado - SEO-Contest 2026"
+    },
+    {
+      "position": 7,
+      "domain": "www.arise-onlinemarketing.de",
+      "url": "https://www.arise-onlinemarketing.de/serponado/",
+      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
+    },
+    {
+      "position": 8,
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/serponado/",
+      "title": "Serponado: SEO-Alarm in den Google SERPs"
+    },
+    {
       "position": 9,
-      "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOorBImFf2D1whfJ9of0oLnvhlYbKLiNvifC5jn2vLmWGqubPKFrf",
-      "title": "Serponado: Der Sichtbarkeitskick für deine Website"
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Contest 2026 in den Google-SERPs"
     },
     {
       "position": 10,
-      "domain": "www.sagemedia.de",
-      "url": "https://www.sagemedia.de/glossar/serponado/",
-      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird"
     }
   ],
   "history": [
@@ -114,6 +119,21 @@
         "serponado.org": 8,
         "kexdesign.com": 9,
         "www.sagemedia.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-22 10:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "contunda.de": 2,
+        "www.position-one.de": 3,
+        "www.bremen.de": 4,
+        "www.amazingh.de": 5,
+        "feelgoodcamper.de": 6,
+        "www.arise-onlinemarketing.de": 7,
+        "leadpeak.me": 8,
+        "netzhelfer.de": 9,
+        "www.semotion.de": 10
       }
     }
   ]
