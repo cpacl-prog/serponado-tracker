@@ -1,11 +1,11 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-22 23:08 (Berlin)",
+  "updated_at": "2026-06-22 23:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": true
+    "stale": false
   },
   "top3_moments": [
     {
@@ -20,63 +20,57 @@
   "rankings": [
     {
       "position": 1,
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
+    },
+    {
+      "position": 2,
       "domain": "www.position-one.de",
       "url": "https://www.position-one.de/serponado.html",
       "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
-      "position": 2,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
-    },
-    {
       "position": 3,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
       "position": 4,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
     },
     {
       "position": 5,
-      "domain": "www.auf-den-berg.de",
-      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
-      "title": "Auf den Serponado"
+      "domain": "www.amazingh.de",
+      "url": "https://www.amazingh.de/serponado/",
+      "title": "Serponado | Die Flucht aus dem Alltag - Amazingh"
     },
     {
       "position": 6,
-      "domain": "www.sagemedia.de",
-      "url": "https://www.sagemedia.de/glossar/serponado/",
-      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion"
+      "domain": "www.sortlist.de",
+      "url": "https://www.sortlist.de/agency/serponado",
+      "title": "Serponado (+ Bewertungen) | Sortlist"
     },
     {
       "position": 7,
-      "domain": "seobuddha.de",
-      "url": "https://seobuddha.de/serpnado/",
-      "title": "Serpnado – Meintest du Serponado?"
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Contest 2026 in den Google-SERPs"
     },
     {
       "position": 8,
-      "domain": "locseo.eu",
-      "url": "https://locseo.eu/serponado-geschichte",
-      "title": "Serponado Geschichte – Entstehung, Contest 2026 & Akte"
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/serponado/",
+      "title": "Serponado: SEO-Alarm in den Google SERPs"
     },
     {
       "position": 9,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/shorts/KC_SOm_ZJUI",
-      "title": "Der Serponado ist da! 🌪️ (Die Wahrheit)"
-    },
-    {
-      "position": 10,
-      "domain": "locseo.eu",
-      "url": "https://locseo.eu/serponado-bedeutung",
-      "title": "Serponado Bedeutung – Wortart, Definition & Semantik"
+      "domain": "www.arise-onlinemarketing.de",
+      "url": "https://www.arise-onlinemarketing.de/serponado/",
+      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
     }
   ],
   "history": [
@@ -2667,6 +2661,20 @@
         "seobuddha.de": 7,
         "locseo.eu": 10,
         "www.youtube.com": 9
+      }
+    },
+    {
+      "ts": "2026-06-22 23:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "www.position-one.de": 2,
+        "contunda.de": 3,
+        "www.bremen.de": 4,
+        "www.amazingh.de": 5,
+        "www.sortlist.de": 6,
+        "netzhelfer.de": 7,
+        "leadpeak.me": 8,
+        "www.arise-onlinemarketing.de": 9
       }
     }
   ]
