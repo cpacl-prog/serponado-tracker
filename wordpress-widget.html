@@ -14,6 +14,9 @@
   #serponado-wrap .own td { background: rgba(42,183,88,0.08) !important; }
   #serponado-wrap .own td:first-child,
   #serponado-wrap .own td:nth-child(2) { font-weight: 800; }
+  #serponado-wrap .sn-placeholder td { color: #444 !important; font-style: italic; }
+  #serponado-wrap .sn-placeholder td:first-child { color: #555 !important; }
+  #serponado-wrap .sn-placeholder td:nth-child(2) { color: #444 !important; }
   .sn-chart-wrap { background: var(--darker-bg); border: 1px solid #222; border-radius: 12px; padding: 24px; margin-bottom: 20px; }
   .sn-chart-wrap h3 { margin: 0 0 16px; font-size: 1rem; color: #fff !important; }
   .sn-legend { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 16px; }
@@ -343,17 +346,31 @@
   };
   const deviceLabel = deviceLabels[currentDevice] || '📱 Mobile';
 
-    const rows = data.rankings.slice(0, MAX_ROWS).map(r => {
-      const isOwn = r.domain && r.domain.includes(EIGENE_DOMAIN);
-      const medal = r.position === 1 ? '🥇' : r.position === 2 ? '🥈' : r.position === 3 ? '🥉' : '';
-      const title = (r.title || r.url).replace(/</g, '&lt;');
-      return `
-        <tr class="${isOwn ? 'own' : ''}">
-          <td>${medal} #${r.position}</td>
-          <td>${r.domain}${isOwn ? ' ⭐' : ''}</td>
-          <td style="max-width:320px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${title}</td>
-        </tr>`;
-    }).join('');
+    const posMap = {};
+    (data.rankings || []).forEach(r => { if (r.position) posMap[r.position] = r; });
+
+    const rows = [];
+    for (let pos = 1; pos <= MAX_ROWS; pos++) {
+      const r = posMap[pos];
+      if (r) {
+        const isOwn  = r.domain && r.domain.includes(EIGENE_DOMAIN);
+        const medal  = pos === 1 ? '🥇' : pos === 2 ? '🥈' : pos === 3 ? '🥉' : '';
+        const title  = (r.title || r.url).replace(/</g, '&lt;');
+        rows.push(`
+          <tr class="${isOwn ? 'own' : ''}">
+            <td>${medal} #${pos}</td>
+            <td>${r.domain}${isOwn ? ' ⭐' : ''}</td>
+            <td style="max-width:320px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${title}</td>
+          </tr>`);
+      } else {
+        rows.push(`
+          <tr class="sn-placeholder">
+            <td>#${pos}</td>
+            <td colspan="2">— Anzeige / Nicht-organisches Ergebnis</td>
+          </tr>`);
+      }
+    }
+    const rowsHtml = rows.join('');
 
     content.innerHTML = `
       <p class="lb-meta">🔍 Keyword: <strong>${data.keyword}</strong> &nbsp;|&nbsp; ${deviceLabel} Top 10 &nbsp;|&nbsp; Stand: ${data.updated_at}</p>
@@ -370,7 +387,7 @@
 
       <table>
         <thead><tr><th>Platz</th><th>Domain (Top 10)</th><th>Seite</th></tr></thead>
-        <tbody>${rows}</tbody>
+        <tbody>${rowsHtml}</tbody>
       </table>
 
       <p id="${ATTR_ID}" style="font-size:0.72rem;color:#555;margin-top:14px;text-align:right">
