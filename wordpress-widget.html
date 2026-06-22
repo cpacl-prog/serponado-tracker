@@ -17,33 +17,37 @@
   #serponado-wrap .sn-placeholder td { color: #444 !important; font-style: italic; }
   #serponado-wrap .sn-placeholder td:first-child { color: #555 !important; }
   #serponado-wrap .sn-placeholder td:nth-child(2) { color: #444 !important; }
+
+  /* === STATS TABLE (Position + Meilensteine) === */
+  .sn-stats-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-bottom: 24px; border: 1px solid #222; border-radius: 12px; }
+  .sn-stats-table { border-collapse: collapse; white-space: nowrap; min-width: 100%; }
+  .sn-stats-table th { background: rgba(255,255,255,0.03) !important; color: #666 !important; font-size: 0.72rem; padding: 8px 20px; text-align: center; font-weight: 700; border-bottom: 1px solid #222; text-transform: uppercase; letter-spacing: 0.05em; }
+  .sn-stats-table td { text-align: center; padding: 14px 20px; color: #ccc !important; }
+  .sn-stats-table th:first-child,
+  .sn-stats-table td:first-child { border-right: 1px solid #222; background: rgba(42,183,88,0.05) !important; min-width: 100px; }
+  .sn-stats-table th:first-child { color: var(--optimerch-green) !important; }
+  .sn-stats-pos { font-size: 2rem; font-weight: 900; color: var(--optimerch-green) !important; line-height: 1; display: block; }
+  .sn-stats-stale { font-size: 0.68rem; color: #555 !important; display: block; margin-top: 3px; }
+  .sn-stats-date { font-size: 0.8rem; color: #888 !important; display: block; }
+  .sn-stats-medal { font-size: 1.1rem; display: block; margin-bottom: 2px; }
+
+  /* === CHART === */
   .sn-chart-wrap { background: var(--darker-bg); border: 1px solid #222; border-radius: 12px; padding: 24px; margin-bottom: 20px; }
-  .sn-chart-wrap h3 { margin: 0 0 16px; font-size: 1rem; color: #fff !important; }
+  .sn-chart-wrap h3 { margin: 0 0 14px; font-size: 1rem; color: #fff !important; }
   .sn-legend { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 16px; }
   .sn-legend-item { display: inline-flex; align-items: center; gap: 5px; padding: 3px 10px 3px 7px; border-radius: 20px; border: 1px solid transparent; cursor: default; font-size: 0.75rem; color: #aaa !important; transition: color 0.15s, background 0.15s, border-color 0.15s; }
   .sn-legend-item:hover { color: #fff !important; }
   .sn-legend-dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
-  #serponado-status { color: #888 !important; font-size: 0.95rem; }
-  .sn-own-url { display: flex; align-items: center; gap: 16px; background: rgba(42,183,88,0.08); border: 1px solid rgba(42,183,88,0.3); border-radius: 12px; padding: 18px 22px; margin-bottom: 24px; }
-  .sn-own-url .sn-pos { font-size: 2.2rem; font-weight: 900; color: var(--optimerch-green) !important; line-height: 1; min-width: 60px; text-align: center; }
-  .sn-own-url .sn-pos span { display: block; font-size: 0.7rem; font-weight: 400; color: #888 !important; margin-top: 2px; }
-  .sn-own-url .sn-info { flex: 1; }
-  .sn-own-url .sn-info strong { display: block; color: #fff !important; font-size: 0.95rem; margin-bottom: 4px; }
-  .sn-own-url .sn-info a { color: #888 !important; font-size: 0.8rem; text-decoration: none; word-break: break-all; }
-  .sn-own-url .sn-info a:hover { color: var(--optimerch-green) !important; }
-  .sn-moments { margin-bottom: 24px; }
-  .sn-moments h4 { font-size: 0.85rem; color: #888 !important; margin: 0 0 10px; text-transform: uppercase; letter-spacing: 0.05em; }
-  .sn-moments-list { display: flex; flex-wrap: wrap; gap: 8px; }
-  .sn-moment { display: inline-flex; align-items: center; gap: 6px; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 6px 12px; font-size: 0.8rem; color: #ccc !important; }
-  .sn-moment .sn-medal { font-size: 1rem; }
-  .sn-moment .sn-mdate { color: #666 !important; font-size: 0.75rem; margin-left: 2px; }
-  #sn-device-toggle { display: none; margin-bottom: 20px; }
-  .sn-toggle { display: flex; flex-wrap: wrap; gap: 8px; }
-  .sn-toggle button { background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.12); border-radius: 10px; padding: 8px 18px; color: #888; cursor: pointer; font-size: 0.85rem; transition: background 0.2s, color 0.2s, border-color 0.2s; font-family: inherit; display: flex; flex-direction: column; align-items: center; gap: 2px; }
+
+  /* === TOGGLE (innerhalb des Chart-Bereichs) === */
+  .sn-toggle { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+  .sn-toggle button { background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.12); border-radius: 10px; padding: 7px 16px; color: #888; cursor: pointer; font-size: 0.82rem; transition: background 0.2s, color 0.2s, border-color 0.2s; font-family: inherit; display: flex; flex-direction: column; align-items: center; gap: 2px; }
   .sn-toggle button.active { background: var(--optimerch-green); color: #000; font-weight: 700; border-color: var(--optimerch-green); }
-  .sn-toggle button.active .sn-toggle-sub { color: rgba(0,0,0,0.6); }
+  .sn-toggle button.active .sn-toggle-sub { color: rgba(0,0,0,0.55); }
   .sn-toggle button:hover:not(.active) { background: rgba(255,255,255,0.07); color: #ccc; border-color: rgba(255,255,255,0.2); }
-  .sn-toggle-sub { font-size: 0.65rem; font-weight: 400; color: #555; letter-spacing: 0.03em; }
+  .sn-toggle-sub { font-size: 0.63rem; font-weight: 400; color: #555; letter-spacing: 0.03em; }
+
+  #serponado-status { color: #888 !important; font-size: 0.95rem; }
 </style>
 
 <section class="section-padding container">
@@ -51,14 +55,6 @@
         <div class="overline">SERPONADO · AKTUELLE SUCHERGEBNISSE BEI GOOGLE</div>
         <h2 class="section-title" id="leaderboard">Serponado <span>Suchergebnisse – Google Top 10</span></h2>
         <div id="serponado-wrap">
-            <div id="sn-device-toggle">
-                <div class="sn-toggle">
-                    <button id="sn-toggle-mobile" class="active">📱 Mobile<span class="sn-toggle-sub">412 × 915 px</span></button>
-                    <button id="sn-toggle-desktop">🖥️ Desktop<span class="sn-toggle-sub">1920 × 1080 px</span></button>
-                    <button id="sn-toggle-mobile-lg">📱 Mobile · Desktop-Screen<span class="sn-toggle-sub">1920 × 1080 px</span></button>
-                    <button id="sn-toggle-desktop-sm">🖥️ Desktop · Mobile-Screen<span class="sn-toggle-sub">412 × 915 px</span></button>
-                </div>
-            </div>
             <div id="sn-content">
                 <p id="serponado-status">Lade Rankings...</p>
             </div>
@@ -84,6 +80,20 @@
     '#d35400','#f1c40f','#e91e63','#ff5722','#607d8b',
     '#00bcd4','#ff9800','#795548','#009688','#673ab7'
   ];
+
+  const TOGGLE_DEFS = [
+    { id: 'sn-toggle-mobile',     device: 'mobile',      label: '📱 Mobile',                  sub: '412 × 915 px' },
+    { id: 'sn-toggle-desktop',    device: 'desktop',     label: '🖥️ Desktop',                sub: '1920 × 1080 px' },
+    { id: 'sn-toggle-mobile-lg',  device: 'mobile-lg',   label: '📱 Mobile · Desktop-Screen', sub: '1920 × 1080 px' },
+    { id: 'sn-toggle-desktop-sm', device: 'desktop-sm',  label: '🖥️ Desktop · Mobile-Screen', sub: '412 × 915 px' },
+  ];
+
+  const DEVICE_LABELS = {
+    'mobile':      '📱 Mobile (412×915)',
+    'desktop':     '🖥️ Desktop (1920×1080)',
+    'mobile-lg':   '📱 Mobile · Desktop-Screen (1920×1080)',
+    'desktop-sm':  '🖥️ Desktop · Mobile-Screen (412×915)',
+  };
 
   let currentDevice = 'mobile';
   let activeCharts  = {};
@@ -154,6 +164,53 @@
     return `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/public/${files[currentDevice] || 'rankings.json'}?t=${Date.now()}`;
   }
 
+  function renderToggle() {
+    return `<div class="sn-toggle">${TOGGLE_DEFS.map(d => `
+      <button id="${d.id}" class="${currentDevice === d.device ? 'active' : ''}">${d.label}<span class="sn-toggle-sub">${d.sub}</span></button>`
+    ).join('')}</div>`;
+  }
+
+  function attachToggleListeners() {
+    TOGGLE_DEFS.forEach(({ id: btnId, device }) => {
+      const btn = document.getElementById(btnId);
+      if (!btn) return;
+      btn.addEventListener('click', function() {
+        if (currentDevice === device) return;
+        currentDevice = device;
+        TOGGLE_DEFS.forEach(({ id }) => {
+          const b = document.getElementById(id);
+          if (b) b.classList.toggle('active', id === btnId);
+        });
+        load();
+      });
+    });
+  }
+
+  function renderStatsTable(ownData, moments) {
+    const pos      = ownData && ownData.position ? `#${ownData.position}` : '–';
+    const stale    = ownData && ownData.stale ? '<span class="sn-stats-stale">zuletzt gesehen</span>' : '';
+    const medal    = p => p === 1 ? '🥇' : p === 2 ? '🥈' : '🥉';
+    const fmtDate  = s => new Date(s + 'T00:00:00').toLocaleDateString('de-DE', { day: '2-digit', month: 'short', year: 'numeric' });
+
+    const thCols   = (moments || []).map(m =>
+      `<th><span class="sn-stats-medal">${medal(m.position)}</span>Platz #${m.position}</th>`
+    ).join('');
+    const tdCols   = (moments || []).map(m =>
+      `<td><span class="sn-stats-date">${fmtDate(m.date)}</span></td>`
+    ).join('');
+
+    return `
+      <div class="sn-stats-scroll">
+        <table class="sn-stats-table">
+          <thead><tr><th>Aktuell</th>${thCols}</tr></thead>
+          <tbody><tr>
+            <td><span class="sn-stats-pos">${pos}</span>${stale}</td>
+            ${tdCols}
+          </tr></tbody>
+        </table>
+      </div>`;
+  }
+
   function load() {
     const existing = document.getElementById(ATTR_ID);
     if (existing && !attributionValid()) {
@@ -165,10 +222,7 @@
     }
     fetch(getJsonUrl())
       .then(r => r.json())
-      .then(data => {
-        document.getElementById('sn-device-toggle').style.display = 'block';
-        render(data);
-      })
+      .then(render)
       .catch(() => {
         const status = document.getElementById('serponado-status');
         if (status) status.textContent = 'Rankings konnten nicht geladen werden.';
@@ -275,48 +329,6 @@
     attachLegend(activeCharts[canvasId], document.getElementById(legendId));
   }
 
-  const DISCLAIMER = '<p style="font-size:0.75rem;color:#666;margin-top:8px">Daten via DataForSEO – Abweichungen zum tatsächlichen Google-Ranking möglich.</p>';
-
-  function renderOwnUrl(own) {
-    if (!own) return '';
-    if (!own.position) return `
-      <div class="sn-own-url">
-        <div class="sn-pos">–<span>Platz</span></div>
-        <div class="sn-info">
-          <strong>optimerch.de/serponado/ – Aktuell nicht in den Top 100 erfasst</strong>
-          <a href="${own.url}" target="_blank" rel="nofollow">${own.url}</a>
-          ${DISCLAIMER}
-        </div>
-      </div>`;
-    const staleNote = own.stale
-      ? `<span style="font-size:0.75rem;font-weight:400;color:#888"> · zuletzt gesehen</span>`
-      : '';
-    return `
-      <div class="sn-own-url">
-        <div class="sn-pos">#${own.position}<span>Platz${staleNote}</span></div>
-        <div class="sn-info">
-          <strong>${own.title || 'optimerch.de/serponado/'}</strong>
-          <a href="${own.url}" target="_blank" rel="nofollow">${own.url}</a>
-          ${DISCLAIMER}
-        </div>
-      </div>`;
-  }
-
-  function renderTop3Moments(moments) {
-    if (!moments || moments.length === 0) return '';
-    const medal = p => p === 1 ? '🥇' : p === 2 ? '🥈' : '🥉';
-    const items = moments.map(m => {
-      const d = new Date(m.date + 'T00:00:00');
-      const label = d.toLocaleDateString('de-DE', { day: '2-digit', month: 'short', year: 'numeric' });
-      return `<span class="sn-moment"><span class="sn-medal">${medal(m.position)}</span> Platz #${m.position} <span class="sn-mdate">${label}</span></span>`;
-    }).join('');
-    return `
-      <div class="sn-moments">
-        <h4>Top-3-Momente</h4>
-        <div class="sn-moments-list">${items}</div>
-      </div>`;
-  }
-
   function render(data) {
     const content = document.getElementById('sn-content');
     destroyCharts();
@@ -331,20 +343,10 @@
 
     buildColorMap(valid);
 
-    const ownEntry = (data.rankings || []).find(r =>
-      r.domain && r.domain.includes(EIGENE_DOMAIN)
-    );
-    const ownData = ownEntry
+    const ownEntry = (data.rankings || []).find(r => r.domain && r.domain.includes(EIGENE_DOMAIN));
+    const ownData  = ownEntry
       ? { position: ownEntry.position, url: ownEntry.url, title: ownEntry.title, stale: false }
       : (data.own_url || null);
-
-    const deviceLabels = {
-    'mobile':     '📱 Mobile (412×915)',
-    'desktop':    '🖥️ Desktop (1920×1080)',
-    'mobile-lg':  '📱 Mobile · Desktop-Screen (1920×1080)',
-    'desktop-sm': '🖥️ Desktop · Mobile-Screen (412×915)',
-  };
-  const deviceLabel = deviceLabels[currentDevice] || '📱 Mobile';
 
     const posMap = {};
     (data.rankings || []).forEach(r => { if (r.position) posMap[r.position] = r; });
@@ -353,9 +355,9 @@
     for (let pos = 1; pos <= MAX_ROWS; pos++) {
       const r = posMap[pos];
       if (r) {
-        const isOwn  = r.domain && r.domain.includes(EIGENE_DOMAIN);
-        const medal  = pos === 1 ? '🥇' : pos === 2 ? '🥈' : pos === 3 ? '🥉' : '';
-        const title  = (r.title || r.url).replace(/</g, '&lt;');
+        const isOwn = r.domain && r.domain.includes(EIGENE_DOMAIN);
+        const medal = pos === 1 ? '🥇' : pos === 2 ? '🥈' : pos === 3 ? '🥉' : '';
+        const title = (r.title || r.url).replace(/</g, '&lt;');
         rows.push(`
           <tr class="${isOwn ? 'own' : ''}">
             <td>${medal} #${pos}</td>
@@ -370,50 +372,31 @@
           </tr>`);
       }
     }
-    const rowsHtml = rows.join('');
 
     content.innerHTML = `
-      <p class="lb-meta">🔍 Keyword: <strong>${data.keyword}</strong> &nbsp;|&nbsp; ${deviceLabel} Top 10 &nbsp;|&nbsp; Stand: ${data.updated_at}</p>
+      ${renderStatsTable(ownData, data.top3_moments)}
 
-      ${renderOwnUrl(ownData)}
-
-      ${renderTop3Moments(data.top3_moments)}
+      <p class="lb-meta">🔍 Keyword: <strong>${data.keyword}</strong> &nbsp;|&nbsp; ${DEVICE_LABELS[currentDevice] || ''} &nbsp;|&nbsp; Stand: ${data.updated_at}</p>
 
       <div class="sn-chart-wrap">
         <h3>⏱ Verlauf im 30-Minuten-Takt (letzte 24 Stunden)</h3>
+        ${renderToggle()}
         <canvas id="sn-chart-hourly" height="110"></canvas>
         <div class="sn-legend" id="sn-legend-hourly"></div>
       </div>
 
       <table>
         <thead><tr><th>Platz</th><th>Domain (Top 10)</th><th>Seite</th></tr></thead>
-        <tbody>${rowsHtml}</tbody>
+        <tbody>${rows.join('')}</tbody>
       </table>
 
       <p id="${ATTR_ID}" style="font-size:0.72rem;color:#555;margin-top:14px;text-align:right">
         Tracking powered by <a href="${ATTR_HREF}" rel="noopener" style="color:#666">Serponado-Tracker @ optimerch.de</a>
       </p>`;
 
+    attachToggleListeners();
     renderChart('sn-chart-hourly', 'sn-legend-hourly', hourly, h => h.ts.replace(' (Berlin)','').split(' ')[1]);
   }
-
-  const toggleMap = {
-    'sn-toggle-mobile':     'mobile',
-    'sn-toggle-desktop':    'desktop',
-    'sn-toggle-mobile-lg':  'mobile-lg',
-    'sn-toggle-desktop-sm': 'desktop-sm',
-  };
-
-  Object.entries(toggleMap).forEach(([btnId, device]) => {
-    document.getElementById(btnId).addEventListener('click', function() {
-      if (currentDevice === device) return;
-      currentDevice = device;
-      Object.keys(toggleMap).forEach(id => {
-        document.getElementById(id).classList.toggle('active', id === btnId);
-      });
-      load();
-    });
-  });
 
   load();
   setInterval(load, REFRESH_MS);
