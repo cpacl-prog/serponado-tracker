@@ -35,11 +35,11 @@
   .sn-moment .sn-medal { font-size: 1rem; }
   .sn-moment .sn-mdate { color: #666 !important; font-size: 0.75rem; margin-left: 2px; }
   #sn-device-toggle { display: none; margin-bottom: 20px; }
-  .sn-toggle { display: flex; border: 1px solid rgba(255,255,255,0.12); border-radius: 10px; overflow: hidden; width: fit-content; }
-  .sn-toggle button { background: transparent; border: none; padding: 8px 22px; color: #888; cursor: pointer; font-size: 0.85rem; transition: background 0.2s, color 0.2s; font-family: inherit; display: flex; flex-direction: column; align-items: center; gap: 2px; }
-  .sn-toggle button.active { background: var(--optimerch-green); color: #000; font-weight: 700; }
+  .sn-toggle { display: flex; flex-wrap: wrap; gap: 8px; }
+  .sn-toggle button { background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.12); border-radius: 10px; padding: 8px 18px; color: #888; cursor: pointer; font-size: 0.85rem; transition: background 0.2s, color 0.2s, border-color 0.2s; font-family: inherit; display: flex; flex-direction: column; align-items: center; gap: 2px; }
+  .sn-toggle button.active { background: var(--optimerch-green); color: #000; font-weight: 700; border-color: var(--optimerch-green); }
   .sn-toggle button.active .sn-toggle-sub { color: rgba(0,0,0,0.6); }
-  .sn-toggle button:hover:not(.active) { background: rgba(255,255,255,0.07); color: #ccc; }
+  .sn-toggle button:hover:not(.active) { background: rgba(255,255,255,0.07); color: #ccc; border-color: rgba(255,255,255,0.2); }
   .sn-toggle-sub { font-size: 0.65rem; font-weight: 400; color: #555; letter-spacing: 0.03em; }
 </style>
 
@@ -52,6 +52,8 @@
                 <div class="sn-toggle">
                     <button id="sn-toggle-mobile" class="active">📱 Mobile<span class="sn-toggle-sub">412 × 915 px</span></button>
                     <button id="sn-toggle-desktop">🖥️ Desktop<span class="sn-toggle-sub">1920 × 1080 px</span></button>
+                    <button id="sn-toggle-mobile-lg">📱 Mobile · Desktop-Screen<span class="sn-toggle-sub">1920 × 1080 px</span></button>
+                    <button id="sn-toggle-desktop-sm">🖥️ Desktop · Mobile-Screen<span class="sn-toggle-sub">412 × 915 px</span></button>
                 </div>
             </div>
             <div id="sn-content">
@@ -140,8 +142,13 @@
   }
 
   function getJsonUrl() {
-    const file = currentDevice === 'desktop' ? 'rankings-desktop.json' : 'rankings.json';
-    return `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/public/${file}?t=${Date.now()}`;
+    const files = {
+      'mobile':      'rankings.json',
+      'desktop':     'rankings-desktop.json',
+      'mobile-lg':   'rankings-mobile-desktopsize.json',
+      'desktop-sm':  'rankings-desktop-mobilesize.json',
+    };
+    return `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/public/${files[currentDevice] || 'rankings.json'}?t=${Date.now()}`;
   }
 
   function load() {
@@ -328,7 +335,13 @@
       ? { position: ownEntry.position, url: ownEntry.url, title: ownEntry.title, stale: false }
       : (data.own_url || null);
 
-    const deviceLabel = currentDevice === 'desktop' ? '🖥️ Desktop' : '📱 Mobile';
+    const deviceLabels = {
+    'mobile':     '📱 Mobile (412×915)',
+    'desktop':    '🖥️ Desktop (1920×1080)',
+    'mobile-lg':  '📱 Mobile · Desktop-Screen (1920×1080)',
+    'desktop-sm': '🖥️ Desktop · Mobile-Screen (412×915)',
+  };
+  const deviceLabel = deviceLabels[currentDevice] || '📱 Mobile';
 
     const rows = data.rankings.slice(0, MAX_ROWS).map(r => {
       const isOwn = r.domain && r.domain.includes(EIGENE_DOMAIN);
@@ -367,20 +380,22 @@
     renderChart('sn-chart-hourly', 'sn-legend-hourly', hourly, h => h.ts.replace(' (Berlin)','').split(' ')[1]);
   }
 
-  document.getElementById('sn-toggle-mobile').addEventListener('click', function() {
-    if (currentDevice === 'mobile') return;
-    currentDevice = 'mobile';
-    this.classList.add('active');
-    document.getElementById('sn-toggle-desktop').classList.remove('active');
-    load();
-  });
+  const toggleMap = {
+    'sn-toggle-mobile':     'mobile',
+    'sn-toggle-desktop':    'desktop',
+    'sn-toggle-mobile-lg':  'mobile-lg',
+    'sn-toggle-desktop-sm': 'desktop-sm',
+  };
 
-  document.getElementById('sn-toggle-desktop').addEventListener('click', function() {
-    if (currentDevice === 'desktop') return;
-    currentDevice = 'desktop';
-    this.classList.add('active');
-    document.getElementById('sn-toggle-mobile').classList.remove('active');
-    load();
+  Object.entries(toggleMap).forEach(([btnId, device]) => {
+    document.getElementById(btnId).addEventListener('click', function() {
+      if (currentDevice === device) return;
+      currentDevice = device;
+      Object.keys(toggleMap).forEach(id => {
+        document.getElementById(id).classList.toggle('active', id === btnId);
+      });
+      load();
+    });
   });
 
   load();

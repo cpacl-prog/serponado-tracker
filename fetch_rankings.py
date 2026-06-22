@@ -44,6 +44,28 @@ CONFIGS = {
             'browser_screen_scale_factor': 1,
         }],
     },
+    'mobile_desktopsize': {
+        'output':  'public/rankings-mobile-desktopsize.json',
+        'payload': [{
+            **BASE_PARAMS,
+            'device':                      'mobile',
+            'os':                          'android',
+            'browser_screen_width':        1920,
+            'browser_screen_height':       1080,
+            'browser_screen_scale_factor': 1,
+        }],
+    },
+    'desktop_mobilesize': {
+        'output':  'public/rankings-desktop-mobilesize.json',
+        'payload': [{
+            **BASE_PARAMS,
+            'device':                      'desktop',
+            'os':                          'windows',
+            'browser_screen_width':        412,
+            'browser_screen_height':       915,
+            'browser_screen_scale_factor': 2.625,
+        }],
+    },
 }
 
 
@@ -170,8 +192,12 @@ def fetch_and_save(device_name, config, now):
 
 now = datetime.now(ZoneInfo('Europe/Berlin')).strftime('%Y-%m-%d %H:%M (Berlin)')
 
-ok_mobile  = fetch_and_save('mobile',  CONFIGS['mobile'],  now)
-ok_desktop = fetch_and_save('desktop', CONFIGS['desktop'], now)
+results = [
+    fetch_and_save('mobile',            CONFIGS['mobile'],            now),
+    fetch_and_save('desktop',           CONFIGS['desktop'],           now),
+    fetch_and_save('mobile_desktopsize', CONFIGS['mobile_desktopsize'], now),
+    fetch_and_save('desktop_mobilesize', CONFIGS['desktop_mobilesize'], now),
+]
 
-if not ok_mobile and not ok_desktop:
+if not any(results):
     sys.exit(1)
