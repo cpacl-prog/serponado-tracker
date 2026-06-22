@@ -20,7 +20,7 @@
 
   /* === OVERVIEW TABLE (alle Geräte + Meilensteine) === */
   .sn-overview-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-bottom: 24px; border: 1px solid #222; border-radius: 12px; }
-  .sn-overview-table { border-collapse: collapse; white-space: nowrap; width: 100%; }
+  .sn-overview-table { border-collapse: collapse; table-layout: auto; }
   .sn-overview-table th { background: rgba(255,255,255,0.03) !important; color: #666 !important; font-size: 0.72rem; padding: 10px 18px; text-align: center; font-weight: 700; border-bottom: 1px solid #222; }
   .sn-overview-table td { text-align: center; padding: 12px 18px; color: #ccc !important; border-bottom: 1px solid #1a1a1a; }
   .sn-overview-table tr:last-child td { border-bottom: none; }
@@ -171,15 +171,15 @@
     return { position: own.position || null, stale: own.stale || false };
   }
 
-  /* ── Overview-Tabelle: alle Geräte + Meilensteine des aktiven Geräts ── */
+  /* ── Overview-Tabelle: alle Geräte + alle Meilensteine aller Geräte ── */
   function renderOverview(allData) {
     const medal   = p => p === 1 ? '🥇' : p === 2 ? '🥈' : '🥉';
     const fmtDate = s => new Date(s + 'T00:00:00').toLocaleDateString('de-DE', { day: '2-digit', month: 'short', year: 'numeric' });
 
-    /* Spalten-Header (je Gerät) */
+    /* Spalten-Header */
     const thCols = TOGGLE_DEFS.map(d => {
       const active = d.device === currentDevice ? ' active-col' : '';
-      return `<th class="${active}"><span class="sn-th-label">${d.label}</span><span class="sn-th-sub">${d.sub}</span></th>`;
+      return `<th class="${active}" style="white-space:nowrap"><span class="sn-th-label">${d.label}</span><span class="sn-th-sub">${d.sub}</span></th>`;
     }).join('');
 
     /* Positions-Zeile */
@@ -188,42 +188,49 @@
       const info   = getOwnPos(allData[d.device]);
       const posStr = info && info.position ? `#${info.position}` : '–';
       const stale  = info && info.stale ? '<span class="sn-pos-stale">zuletzt gesehen</span>' : '';
-      return `<td class="${active}"><span class="sn-pos-big">${posStr}</span>${stale}</td>`;
+      return `<td class="${active}" style="white-space:nowrap"><span class="sn-pos-big">${posStr}</span>${stale}</td>`;
     }).join('');
 
-    /* Meilensteine des aktiven Geräts */
-    const moments   = (allData[currentDevice] || {}).top3_moments || [];
-    const msCols    = TOGGLE_DEFS.map(d => {
-      const active = d.device === currentDevice ? ' active-col' : '';
-      return `<td class="${active}"></td>`;
-    }).join('');
+    /* Meilensteine: alle Geräte gleichzeitig – pro Medal-Position eine Zeile */
+    const posDates = {};
+    const allMedalPos = new Set();
+    TOGGLE_DEFS.forEach(({ device }) => {
+      posDates[device] = {};
+      const moments = (allData[device] || {}).top3_moments || [];
+      moments.forEach(m => {
+        if (!posDates[device][m.position]) posDates[device][m.position] = [];
+        posDates[device][m.position].push(m.date);
+        allMedalPos.add(m.position);
+      });
+    });
 
-    const msRows = moments.map(m => {
-      const cols = TOGGLE_DEFS.map(d => {
-        const active = d.device === currentDevice ? ' active-col' : '';
-        if (d.device !== currentDevice) return `<td class="${active}"></td>`;
-        return `<td class="${active}"><span class="sn-ms-date">${fmtDate(m.date)}</span></td>`;
+    const msRows = Array.from(allMedalPos).sort((a, b) => a - b).map(pos => {
+      const cols = TOGGLE_DEFS.map(({ device }) => {
+        const active = device === currentDevice ? ' active-col' : '';
+        const dates  = (posDates[device] || {})[pos] || [];
+        if (!dates.length) return `<td class="${active}" style="white-space:nowrap"><span class="sn-ms-none">–</span></td>`;
+        return `<td class="${active}" style="white-space:nowrap">${dates.map(d => `<span class="sn-ms-date">${fmtDate(d)}</span>`).join('<br>')}</td>`;
       }).join('');
       return `<tr>
-        <td class="sn-row-label"><span class="sn-ms-rowtitle">${medal(m.position)} Platz #${m.position}</span></td>
+        <td class="sn-row-label" style="white-space:nowrap">${medal(pos)} Platz #${pos}</td>
         ${cols}
       </tr>`;
     }).join('');
 
-    const hasMilestones = moments.length > 0;
+    const hasMilestones = allMedalPos.size > 0;
 
     return `
       <div class="sn-overview-scroll">
         <table class="sn-overview-table">
           <thead>
             <tr>
-              <th style="text-align:left;border-right:1px solid #222;min-width:90px"></th>
+              <th style="text-align:left;border-right:1px solid #222;white-space:nowrap"></th>
               ${thCols}
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td class="sn-row-label">Platzierung</td>
+              <td class="sn-row-label" style="white-space:nowrap">Platzierung</td>
               ${posCols}
             </tr>
             ${hasMilestones ? `<tr class="sn-sep-row"><td colspan="${TOGGLE_DEFS.length + 1}"></td></tr>${msRows}` : ''}
