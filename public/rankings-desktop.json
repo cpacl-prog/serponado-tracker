@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-22 18:38 (Berlin)",
+  "updated_at": "2026-06-22 19:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -57,14 +57,14 @@
     {
       "position": 7,
       "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=7NhUXd_ggoM",
-      "title": "Serponado – 3 Minuten Frei (Official Audio)"
+      "url": "https://www.youtube.com/channel/UCaRw7gup2lVrQE73UEadSwQ",
+      "title": "SERPonado"
     },
     {
       "position": 8,
       "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/channel/UCaRw7gup2lVrQE73UEadSwQ",
-      "title": "SERPonado"
+      "url": "https://www.youtube.com/watch?v=7NhUXd_ggoM",
+      "title": "Serponado – 3 Minuten Frei (Official Audio)"
     },
     {
       "position": 9,
@@ -2526,6 +2526,20 @@
     },
     {
       "ts": "2026-06-22 18:38 (Berlin)",
+      "positions": {
+        "www.position-one.de": 1,
+        "www.amazingh.de": 2,
+        "www.dockmedia.de": 3,
+        "serponado.org": 4,
+        "www.probandtastisch.de": 5,
+        "www.sagemedia.de": 6,
+        "www.youtube.com": 8,
+        "www.news24-7.de": 9,
+        "www.serponado.net": 10
+      }
+    },
+    {
+      "ts": "2026-06-22 19:08 (Berlin)",
       "positions": {
         "www.position-one.de": 1,
         "www.amazingh.de": 2,
