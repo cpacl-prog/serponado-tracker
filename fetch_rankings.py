@@ -15,7 +15,7 @@ MAX_HISTORY = 1440   # 30 Tage à 48 Halbstunden
 
 BASE_PARAMS = {
     "keyword":                     KEYWORD,
-    "location_name":               "Dortmund,North Rhine-Westphalia,Germany",
+    "location_name":               "Germany",
     "language_code":               "de",
     "se_domain":                   "google.de",
     "depth":                       10,
