@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-22 09:38 (Berlin)",
+  "updated_at": "2026-06-22 10:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -40,15 +40,15 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
       "position": 2,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
       "position": 3,
@@ -64,9 +64,9 @@
     },
     {
       "position": 5,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
       "position": 6,
@@ -76,21 +76,21 @@
     },
     {
       "position": 7,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
-    },
-    {
-      "position": 8,
-      "domain": "kexdesign.com",
-      "url": "https://kexdesign.com/was-passiert-wenn-seo-strategie-und-website-systeme-aufeinandertreffen/?srsltid=AfmBOopMG5tv-XPbaECB81AldXUr1G0xna2gKonrbKDSTDbmxRIy93Al",
-      "title": "Serponado: Der Sichtbarkeitskick für deine Website - kexDESIGN"
-    },
-    {
-      "position": 9,
       "domain": "taismo.de",
       "url": "https://taismo.de/seo-magazin/serponado/",
       "title": "Don Serponado und der SEO Contest 2026"
+    },
+    {
+      "position": 8,
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
+    },
+    {
+      "position": 9,
+      "domain": "techbehemoths.com",
+      "url": "https://techbehemoths.com/company/serponado",
+      "title": "Serponado Company Profile"
     }
   ],
   "history": [
@@ -8342,6 +8342,20 @@
         "www.position-one.de": 7,
         "kexdesign.com": 8,
         "taismo.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-22 10:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.position-one.de": 2,
+        "www.amazingh.de": 3,
+        "www.probandtastisch.de": 4,
+        "www.seo-kueche.de": 5,
+        "www.dockmedia.de": 6,
+        "taismo.de": 7,
+        "serponado.org": 8,
+        "techbehemoths.com": 9
       }
     }
   ]
