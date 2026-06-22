@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-22 16:38 (Berlin)",
+  "updated_at": "2026-06-22 17:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -58,21 +58,21 @@
     },
     {
       "position": 8,
-      "domain": "techbehemoths.com",
-      "url": "https://techbehemoths.com/company/serponado",
-      "title": "Serponado Company Profile"
-    },
-    {
-      "position": 9,
       "domain": "seobuddha.de",
       "url": "https://seobuddha.de/serpando/",
       "title": "Serpando – Meintest du Serponado?"
     },
     {
-      "position": 10,
+      "position": 9,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/shorts/KC_SOm_ZJUI",
-      "title": "Der Serponado ist da!  (Die Wahrheit)"
+      "title": "Der Serponado ist da! 🌪️ (Die Wahrheit)"
+    },
+    {
+      "position": 10,
+      "domain": "locseo.eu",
+      "url": "https://locseo.eu/serponado-geschichte",
+      "title": "Serponado Geschichte – Entstehung, Contest 2026 & Akte"
     }
   ],
   "history": [
@@ -309,6 +309,20 @@
         "techbehemoths.com": 8,
         "seobuddha.de": 9,
         "www.youtube.com": 10
+      }
+    },
+    {
+      "ts": "2026-06-22 17:08 (Berlin)",
+      "positions": {
+        "www.position-one.de": 1,
+        "www.seo-kueche.de": 2,
+        "taismo.de": 3,
+        "www.probandtastisch.de": 4,
+        "www.sagemedia.de": 5,
+        "www.auf-den-berg.de": 6,
+        "locseo.eu": 10,
+        "seobuddha.de": 8,
+        "www.youtube.com": 9
       }
     }
   ]
