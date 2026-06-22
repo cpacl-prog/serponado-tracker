@@ -36,9 +36,11 @@
   .sn-moment .sn-mdate { color: #666 !important; font-size: 0.75rem; margin-left: 2px; }
   #sn-device-toggle { display: none; margin-bottom: 20px; }
   .sn-toggle { display: flex; border: 1px solid rgba(255,255,255,0.12); border-radius: 10px; overflow: hidden; width: fit-content; }
-  .sn-toggle button { background: transparent; border: none; padding: 8px 22px; color: #888; cursor: pointer; font-size: 0.85rem; transition: background 0.2s, color 0.2s; font-family: inherit; }
+  .sn-toggle button { background: transparent; border: none; padding: 8px 22px; color: #888; cursor: pointer; font-size: 0.85rem; transition: background 0.2s, color 0.2s; font-family: inherit; display: flex; flex-direction: column; align-items: center; gap: 2px; }
   .sn-toggle button.active { background: var(--optimerch-green); color: #000; font-weight: 700; }
+  .sn-toggle button.active .sn-toggle-sub { color: rgba(0,0,0,0.6); }
   .sn-toggle button:hover:not(.active) { background: rgba(255,255,255,0.07); color: #ccc; }
+  .sn-toggle-sub { font-size: 0.65rem; font-weight: 400; color: #555; letter-spacing: 0.03em; }
 </style>
 
 <section class="section-padding container">
@@ -48,8 +50,8 @@
         <div id="serponado-wrap">
             <div id="sn-device-toggle">
                 <div class="sn-toggle">
-                    <button id="sn-toggle-mobile" class="active">📱 Mobile</button>
-                    <button id="sn-toggle-desktop">🖥️ Desktop</button>
+                    <button id="sn-toggle-mobile" class="active">📱 Mobile<span class="sn-toggle-sub">412 × 915 px</span></button>
+                    <button id="sn-toggle-desktop">🖥️ Desktop<span class="sn-toggle-sub">1920 × 1080 px</span></button>
                 </div>
             </div>
             <div id="sn-content">
