@@ -209,7 +209,8 @@
         const active = device === currentDevice ? ' active-col' : '';
         const dates  = (posDates[device] || {})[pos] || [];
         if (!dates.length) return `<td class="${active}" style="white-space:nowrap"><span class="sn-ms-none">–</span></td>`;
-        return `<td class="${active}" style="white-space:nowrap">${dates.map(d => `<span class="sn-ms-date">${fmtDate(d)}</span>`).join('<br>')}</td>`;
+        const datesHtml = dates.map(d => '<span class="sn-ms-date">' + fmtDate(d) + '</span>').join('<br>');
+        return `<td class="${active}" style="white-space:nowrap">${datesHtml}</td>`;
       }).join('');
       return `<tr>
         <td class="sn-row-label" style="white-space:nowrap">${medal(pos)} Platz #${pos}</td>
@@ -287,6 +288,9 @@
         return;
       }
       render(primary, allData);
+    }).catch(err => {
+      const s = document.getElementById('serponado-status');
+      if (s) s.textContent = 'Fehler: ' + err.message;
     });
   }
 
