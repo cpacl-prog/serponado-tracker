@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-23 16:38 (Berlin)",
+  "updated_at": "2026-06-23 17:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -16,15 +16,15 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
-    },
-    {
-      "position": 2,
       "domain": "contunda.de",
       "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
       "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+    },
+    {
+      "position": 2,
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
       "position": 3,
@@ -34,21 +34,21 @@
     },
     {
       "position": 4,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+      "domain": "www.amazingh.de",
+      "url": "https://www.amazingh.de/serponado/",
+      "title": "SERPonado | Tornado in SERPS | Was Sie jetzt tun sollten - Amazingh"
     },
     {
       "position": 5,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
-    },
-    {
-      "position": 6,
       "domain": "www.probandtastisch.de",
       "url": "https://www.probandtastisch.de/serponado",
       "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+    },
+    {
+      "position": 6,
+      "domain": "www.oev-experience.de",
+      "url": "https://www.oev-experience.de/serponado.html",
+      "title": "Serponado: Das digitale Sichtbarkeitsphänomen"
     },
     {
       "position": 7,
@@ -136,6 +136,20 @@
         "www.dockmedia.de": 4,
         "serponado.org": 5,
         "www.probandtastisch.de": 6,
+        "taismo.de": 7,
+        "de.trustpilot.com": 8,
+        "www.seo-kueche.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-23 17:08 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.dockmedia.de": 2,
+        "www.bremen.de": 3,
+        "www.amazingh.de": 4,
+        "www.probandtastisch.de": 5,
+        "www.oev-experience.de": 6,
         "taismo.de": 7,
         "de.trustpilot.com": 8,
         "www.seo-kueche.de": 9
