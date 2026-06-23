@@ -1,13 +1,17 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 01:08 (Berlin)",
+  "updated_at": "2026-06-24 01:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": true
+    "stale": false
   },
   "top3_moments": [
+    {
+      "date": "2026-06-24",
+      "position": 1
+    },
     {
       "date": "2026-06-23",
       "position": 1
@@ -44,63 +48,57 @@
   "rankings": [
     {
       "position": 1,
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
+    },
+    {
+      "position": 2,
       "domain": "www.position-one.de",
       "url": "https://www.position-one.de/serponado.html",
       "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
-      "position": 2,
+      "position": 3,
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
+    },
+    {
+      "position": 4,
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
+    },
+    {
+      "position": 5,
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+    },
+    {
+      "position": 6,
+      "domain": "www.sortlist.de",
+      "url": "https://www.sortlist.de/agency/serponado",
+      "title": "Serponado (+ Bewertungen) | Sortlist"
+    },
+    {
+      "position": 7,
       "domain": "www.semotion.de",
       "url": "https://www.semotion.de/serponado/",
       "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
     },
     {
-      "position": 3,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
-    },
-    {
-      "position": 4,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
-    },
-    {
-      "position": 5,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
-    },
-    {
-      "position": 6,
-      "domain": "www.sagemedia.de",
-      "url": "https://www.sagemedia.de/glossar/serponado/",
-      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion - sagemedia"
-    },
-    {
-      "position": 7,
-      "domain": "seobuddha.de",
-      "url": "https://seobuddha.de/serpando/",
-      "title": "Serpando – Meintest du Serponado?"
-    },
-    {
       "position": 8,
-      "domain": "www.auf-den-berg.de",
-      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
-      "title": "Auf den Serponado"
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/magazin/serponado/",
+      "title": "DER SERPONADO – Wappnet euch! Im Google-Kosmos zieht ein Sturm auf"
     },
     {
       "position": 9,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/shorts/KC_SOm_ZJUI",
-      "title": "Der Serponado ist da! 🌪️ (Die Wahrheit)"
-    },
-    {
-      "position": 10,
-      "domain": "locseo.eu",
-      "url": "https://locseo.eu/serponado-bedeutung",
-      "title": "Serponado Bedeutung – Wortart, Definition & Semantik"
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
     }
   ],
   "history": [
@@ -9524,6 +9522,20 @@
         "www.auf-den-berg.de": 8,
         "www.youtube.com": 9,
         "locseo.eu": 10
+      }
+    },
+    {
+      "ts": "2026-06-24 01:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "www.position-one.de": 2,
+        "www.bremen.de": 3,
+        "netzhelfer.de": 4,
+        "contunda.de": 5,
+        "www.sortlist.de": 6,
+        "www.semotion.de": 7,
+        "leadpeak.me": 8,
+        "www.dockmedia.de": 9
       }
     }
   ]
