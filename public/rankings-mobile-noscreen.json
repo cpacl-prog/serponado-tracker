@@ -1,11 +1,11 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-23 21:08 (Berlin)",
+  "updated_at": "2026-06-23 21:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": false
+    "stale": true
   },
   "top3_moments": [
     {
@@ -16,45 +16,57 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
       "position": 2,
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
+    },
+    {
+      "position": 3,
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
+    },
+    {
+      "position": 4,
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+    },
+    {
+      "position": 5,
       "domain": "serponado.org",
       "url": "https://serponado.org/",
       "title": "Serponado"
     },
     {
-      "position": 3,
-      "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoqYlZZ19ns18ImmGQ7YksaDxkR4NNj5IZJ512fOOAhR6jeQBH88",
-      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
-    },
-    {
-      "position": 4,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "DER SERPONADO – Wappnet euch! Im Google-Kosmos zieht ein Sturm auf"
-    },
-    {
-      "position": 5,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
-    },
-    {
       "position": 6,
-      "domain": "www.arise-onlinemarketing.de",
-      "url": "https://www.arise-onlinemarketing.de/serponado/",
-      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
+      "domain": "www.amazingh.de",
+      "url": "https://www.amazingh.de/serponado/",
+      "title": "SERPonado | Tornado in SERPS | Was Sie jetzt tun sollten - Amazingh"
     },
     {
       "position": 7,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
+      "domain": "www.probandtastisch.de",
+      "url": "https://www.probandtastisch.de/serponado",
+      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+    },
+    {
+      "position": 8,
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
+    },
+    {
+      "position": 9,
+      "domain": "de.trustpilot.com",
+      "url": "https://de.trustpilot.com/review/serponado.org",
+      "title": "Bewertungen zu Serponado"
     }
   ],
   "history": [
@@ -249,6 +261,20 @@
         "netzhelfer.de": 5,
         "www.arise-onlinemarketing.de": 6,
         "www.semotion.de": 7
+      }
+    },
+    {
+      "ts": "2026-06-23 21:38 (Berlin)",
+      "positions": {
+        "contunda.de": 1,
+        "www.bremen.de": 2,
+        "www.semotion.de": 3,
+        "www.dockmedia.de": 4,
+        "serponado.org": 5,
+        "www.amazingh.de": 6,
+        "www.probandtastisch.de": 7,
+        "taismo.de": 8,
+        "de.trustpilot.com": 9
       }
     }
   ]
