@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-23 15:38 (Berlin)",
+  "updated_at": "2026-06-23 15:42 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -16,9 +16,9 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.bremen.de",
-      "url": "https://www.bremen.de/visitenkarte/serponado",
-      "title": "Serponado"
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
       "position": 2,
@@ -28,21 +28,21 @@
     },
     {
       "position": 3,
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
+    },
+    {
+      "position": 4,
       "domain": "www.dockmedia.de",
       "url": "https://www.dockmedia.de/serponado.html",
       "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
-      "position": 4,
+      "position": 5,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
-    },
-    {
-      "position": 5,
-      "domain": "de.trustpilot.com",
-      "url": "https://de.trustpilot.com/review/serponado.org",
-      "title": "Bewertungen zu Serponado"
     },
     {
       "position": 6,
@@ -58,15 +58,15 @@
     },
     {
       "position": 8,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
+      "domain": "de.trustpilot.com",
+      "url": "https://de.trustpilot.com/review/serponado.org",
+      "title": "Bewertungen zu Serponado"
     },
     {
       "position": 9,
-      "domain": "www.amazingh.de",
-      "url": "https://www.amazingh.de/serponado/",
-      "title": "SERPonado | Tornado in SERPS | Was Sie jetzt tun sollten"
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
     }
   ],
   "history": [
@@ -963,6 +963,20 @@
         "taismo.de": 7,
         "serponado.org": 8,
         "www.amazingh.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-23 15:42 (Berlin)",
+      "positions": {
+        "www.position-one.de": 1,
+        "contunda.de": 2,
+        "www.bremen.de": 3,
+        "www.dockmedia.de": 4,
+        "www.seo-kueche.de": 5,
+        "www.probandtastisch.de": 6,
+        "taismo.de": 7,
+        "de.trustpilot.com": 8,
+        "serponado.org": 9
       }
     }
   ]
