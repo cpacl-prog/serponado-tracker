@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-23 05:38 (Berlin)",
+  "updated_at": "2026-06-23 06:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -20,9 +20,9 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
     },
     {
       "position": 2,
@@ -50,15 +50,15 @@
     },
     {
       "position": 6,
-      "domain": "de.trustpilot.com",
-      "url": "https://de.trustpilot.com/review/serponado.org",
-      "title": "Bewertungen zu Serponado"
-    },
-    {
-      "position": 7,
       "domain": "www.dockmedia.de",
       "url": "https://www.dockmedia.de/serponado.html",
       "title": "Serponado: Der SERP-Tornado einfach erklärt"
+    },
+    {
+      "position": 7,
+      "domain": "de.trustpilot.com",
+      "url": "https://de.trustpilot.com/review/serponado.org",
+      "title": "Bewertungen zu Serponado"
     },
     {
       "position": 8,
@@ -71,6 +71,12 @@
       "domain": "serponado.org",
       "url": "https://serponado.org/",
       "title": "Serponado"
+    },
+    {
+      "position": 10,
+      "domain": "feedbax.de",
+      "url": "https://feedbax.de/anbieter/serponado",
+      "title": "Serponado: Erfahrungen, 1 Bewertungen & mehr ✅"
     }
   ],
   "history": [
@@ -2844,6 +2850,21 @@
         "www.dockmedia.de": 7,
         "taismo.de": 8,
         "serponado.org": 9
+      }
+    },
+    {
+      "ts": "2026-06-23 06:08 (Berlin)",
+      "positions": {
+        "www.bremen.de": 1,
+        "www.amazingh.de": 2,
+        "contunda.de": 3,
+        "www.probandtastisch.de": 4,
+        "www.seo-kueche.de": 5,
+        "www.dockmedia.de": 6,
+        "de.trustpilot.com": 7,
+        "taismo.de": 8,
+        "serponado.org": 9,
+        "feedbax.de": 10
       }
     }
   ]
