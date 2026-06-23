@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 00:08 (Berlin)",
+  "updated_at": "2026-06-24 00:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": null,
@@ -29,15 +29,15 @@
     },
     {
       "position": 4,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
-    },
-    {
-      "position": 5,
       "domain": "www.dockmedia.de",
       "url": "https://www.dockmedia.de/serponado.html",
       "title": "Serponado: Der SERP-Tornado einfach erklärt"
+    },
+    {
+      "position": 5,
+      "domain": "www.oev-experience.de",
+      "url": "https://www.oev-experience.de/serponado.html",
+      "title": "Serponado: Das Sichtbarkeitsphänomen - OEV Experience Hub"
     },
     {
       "position": 6,
@@ -53,21 +53,15 @@
     },
     {
       "position": 8,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
-    },
-    {
-      "position": 9,
       "domain": "de.trustpilot.com",
       "url": "https://de.trustpilot.com/review/serponado.org",
       "title": "Bewertungen zu Serponado"
     },
     {
-      "position": 10,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
+      "position": 9,
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     }
   ],
   "history": [
@@ -352,6 +346,20 @@
         "www.seo-kueche.de": 8,
         "de.trustpilot.com": 9,
         "serponado.org": 10
+      }
+    },
+    {
+      "ts": "2026-06-24 00:38 (Berlin)",
+      "positions": {
+        "www.position-one.de": 1,
+        "contunda.de": 2,
+        "www.bremen.de": 3,
+        "www.dockmedia.de": 4,
+        "www.oev-experience.de": 5,
+        "www.probandtastisch.de": 6,
+        "taismo.de": 7,
+        "de.trustpilot.com": 8,
+        "www.seo-kueche.de": 9
       }
     }
   ]
