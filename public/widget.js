@@ -194,8 +194,13 @@
       results.forEach(function(item) { allData[item.device] = item.d; });
       const primary = allData[currentDevice];
       if (!primary) {
-        const s = document.getElementById('serponado-status');
-        if (s) s.textContent = 'Rankings konnten nicht geladen werden.';
+        const content = document.getElementById('sn-content');
+        if (content) {
+          destroyCharts();
+          content.innerHTML = renderOverview(allData) + renderToggle()
+            + '<p style="color:#888;margin-top:16px">Noch keine Daten für dieses Gerät vorhanden – bitte warte auf den nächsten Crawl.</p>';
+          attachToggleListeners();
+        }
         return;
       }
       render(primary, allData);
