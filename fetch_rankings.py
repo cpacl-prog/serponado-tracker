@@ -66,6 +66,22 @@ CONFIGS = {
             'browser_screen_scale_factor': 2.625,
         }],
     },
+    'mobile_noscreen': {
+        'output':  'public/rankings-mobile-noscreen.json',
+        'payload': [{
+            **BASE_PARAMS,
+            'device': 'mobile',
+            'os':     'android',
+        }],
+    },
+    'desktop_noscreen': {
+        'output':  'public/rankings-desktop-noscreen.json',
+        'payload': [{
+            **BASE_PARAMS,
+            'device': 'desktop',
+            'os':     'windows',
+        }],
+    },
 }
 
 
@@ -193,10 +209,12 @@ def fetch_and_save(device_name, config, now):
 now = datetime.now(ZoneInfo('Europe/Berlin')).strftime('%Y-%m-%d %H:%M (Berlin)')
 
 results = [
-    fetch_and_save('mobile',            CONFIGS['mobile'],            now),
-    fetch_and_save('desktop',           CONFIGS['desktop'],           now),
+    fetch_and_save('mobile',             CONFIGS['mobile'],             now),
+    fetch_and_save('desktop',            CONFIGS['desktop'],            now),
     fetch_and_save('mobile_desktopsize', CONFIGS['mobile_desktopsize'], now),
     fetch_and_save('desktop_mobilesize', CONFIGS['desktop_mobilesize'], now),
+    fetch_and_save('mobile_noscreen',    CONFIGS['mobile_noscreen'],    now),
+    fetch_and_save('desktop_noscreen',   CONFIGS['desktop_noscreen'],   now),
 ]
 
 if not any(results):

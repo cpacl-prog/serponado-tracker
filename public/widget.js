@@ -16,17 +16,21 @@
   ];
 
   const TOGGLE_DEFS = [
-    { id: 'sn-toggle-mobile',     device: 'mobile',      label: '📱 Mobile',                   sub: '412 × 915 px' },
-    { id: 'sn-toggle-desktop',    device: 'desktop',     label: '🖥️ Desktop',                 sub: '1920 × 1080 px' },
-    { id: 'sn-toggle-mobile-lg',  device: 'mobile-lg',   label: '📱 Mobile · Desktop-Screen',  sub: '1920 × 1080 px' },
-    { id: 'sn-toggle-desktop-sm', device: 'desktop-sm',  label: '🖥️ Desktop · Mobile-Screen',  sub: '412 × 915 px' },
+    { id: 'sn-toggle-mobile',            device: 'mobile',            label: '📱 Mobile',                   sub: '412 × 915 px' },
+    { id: 'sn-toggle-desktop',           device: 'desktop',           label: '🖥️ Desktop',                 sub: '1920 × 1080 px' },
+    { id: 'sn-toggle-mobile-lg',         device: 'mobile-lg',         label: '📱 Mobile · Desktop-Screen',  sub: '1920 × 1080 px' },
+    { id: 'sn-toggle-desktop-sm',        device: 'desktop-sm',        label: '🖥️ Desktop · Mobile-Screen',  sub: '412 × 915 px' },
+    { id: 'sn-toggle-mobile-noscreen',   device: 'mobile-noscreen',   label: '📱 Mobile · Kein Preset',     sub: 'Standard' },
+    { id: 'sn-toggle-desktop-noscreen',  device: 'desktop-noscreen',  label: '🖥️ Desktop · Kein Preset',   sub: 'Standard' },
   ];
 
   const JSON_FILES = {
-    'mobile':      'rankings.json',
-    'desktop':     'rankings-desktop.json',
-    'mobile-lg':   'rankings-mobile-desktopsize.json',
-    'desktop-sm':  'rankings-desktop-mobilesize.json',
+    'mobile':            'rankings.json',
+    'desktop':           'rankings-desktop.json',
+    'mobile-lg':         'rankings-mobile-desktopsize.json',
+    'desktop-sm':        'rankings-desktop-mobilesize.json',
+    'mobile-noscreen':   'rankings-mobile-noscreen.json',
+    'desktop-noscreen':  'rankings-desktop-noscreen.json',
   };
 
   let currentDevice = 'mobile';
