@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-23 17:38 (Berlin)",
+  "updated_at": "2026-06-23 18:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -26,27 +26,27 @@
     },
     {
       "position": 2,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
-    },
-    {
-      "position": 3,
       "domain": "taismo.de",
       "url": "https://taismo.de/seo-magazin/serponado/",
       "title": "Don Serponado und der SEO Contest 2026"
     },
     {
-      "position": 4,
+      "position": 3,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
-      "position": 5,
+      "position": 4,
       "domain": "www.probandtastisch.de",
       "url": "https://www.probandtastisch.de/serponado",
       "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+    },
+    {
+      "position": 5,
+      "domain": "www.auf-den-berg.de",
+      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
+      "title": "Auf den Serponado"
     },
     {
       "position": 6,
@@ -56,21 +56,21 @@
     },
     {
       "position": 7,
-      "domain": "www.auf-den-berg.de",
-      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
-      "title": "Auf den Serponado"
-    },
-    {
-      "position": 8,
       "domain": "seobuddha.de",
       "url": "https://seobuddha.de/serpnado/",
       "title": "Serpnado – Meintest du Serponado?"
     },
     {
-      "position": 9,
+      "position": 8,
       "domain": "locseo.eu",
       "url": "https://locseo.eu/serponado-geschichte",
       "title": "Serponado Geschichte – Entstehung, Contest 2026 & Akte"
+    },
+    {
+      "position": 9,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/shorts/KC_SOm_ZJUI",
+      "title": "Der Serponado ist da! 🌪️ (Die Wahrheit)"
     }
   ],
   "history": [
@@ -1065,6 +1065,20 @@
         "www.auf-den-berg.de": 7,
         "seobuddha.de": 8,
         "locseo.eu": 9
+      }
+    },
+    {
+      "ts": "2026-06-23 18:08 (Berlin)",
+      "positions": {
+        "www.position-one.de": 1,
+        "taismo.de": 2,
+        "www.seo-kueche.de": 3,
+        "www.probandtastisch.de": 4,
+        "www.auf-den-berg.de": 5,
+        "www.sagemedia.de": 6,
+        "seobuddha.de": 7,
+        "locseo.eu": 8,
+        "www.youtube.com": 9
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-23 17:38 (Berlin)",
+  "updated_at": "2026-06-23 18:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -40,7 +40,7 @@
       "position": 4,
       "domain": "www.semotion.de",
       "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado: Unterschreib, bevor das Netz dich überschreibt!"
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
     },
     {
       "position": 5,
@@ -3242,6 +3242,20 @@
     },
     {
       "ts": "2026-06-23 17:38 (Berlin)",
+      "positions": {
+        "www.position-one.de": 1,
+        "contunda.de": 2,
+        "www.bremen.de": 3,
+        "www.semotion.de": 4,
+        "www.dockmedia.de": 5,
+        "www.probandtastisch.de": 6,
+        "taismo.de": 7,
+        "www.seo-kueche.de": 8,
+        "de.trustpilot.com": 9
+      }
+    },
+    {
+      "ts": "2026-06-23 18:08 (Berlin)",
       "positions": {
         "www.position-one.de": 1,
         "contunda.de": 2,
