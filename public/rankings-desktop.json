@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-23 01:38 (Berlin)",
+  "updated_at": "2026-06-23 02:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -38,27 +38,27 @@
     },
     {
       "position": 4,
-      "domain": "www.bremen.de",
-      "url": "https://www.bremen.de/visitenkarte/serponado",
-      "title": "Serponado"
-    },
-    {
-      "position": 5,
       "domain": "www.probandtastisch.de",
       "url": "https://www.probandtastisch.de/serponado",
       "title": "Serponado: Was ist das? Definition, Symptome & Studie"
     },
     {
-      "position": 6,
+      "position": 5,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
-      "position": 7,
+      "position": 6,
       "domain": "de.trustpilot.com",
       "url": "https://de.trustpilot.com/review/serponado.org",
       "title": "Bewertungen zu Serponado"
+    },
+    {
+      "position": 7,
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
       "position": 8,
@@ -68,9 +68,15 @@
     },
     {
       "position": 9,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
+    },
+    {
+      "position": 10,
+      "domain": "feedbax.de",
+      "url": "https://feedbax.de/anbieter/serponado",
+      "title": "Serponado: Erfahrungen, 1 Bewertungen & mehr ✅"
     }
   ],
   "history": [
@@ -2731,6 +2737,21 @@
         "de.trustpilot.com": 7,
         "taismo.de": 8,
         "www.dockmedia.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-23 02:08 (Berlin)",
+      "positions": {
+        "www.position-one.de": 1,
+        "www.amazingh.de": 2,
+        "contunda.de": 3,
+        "www.probandtastisch.de": 4,
+        "www.seo-kueche.de": 5,
+        "de.trustpilot.com": 6,
+        "www.dockmedia.de": 7,
+        "taismo.de": 8,
+        "serponado.org": 9,
+        "feedbax.de": 10
       }
     }
   ]
