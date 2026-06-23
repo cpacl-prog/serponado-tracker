@@ -41,7 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/rankings.json public/rankings-desktop.json public/rankings-mobile-desktopsize.json public/rankings-desktop-mobilesize.json
+          git add public/rankings.json public/rankings-desktop.json public/rankings-mobile-desktopsize.json public/rankings-desktop-mobilesize.json public/rankings-mobile-noscreen.json public/rankings-desktop-noscreen.json
           git diff --staged --quiet || git commit -m "Update rankings $(date '+%Y-%m-%d %H:%M UTC')"
           git pull --rebase -X theirs origin main
           git push
