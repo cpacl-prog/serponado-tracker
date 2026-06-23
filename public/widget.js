@@ -325,7 +325,7 @@
 
     content.innerHTML =
       renderOverview(allData)
-      + '<p class="lb-meta">🔍 Keyword: <strong>' + data.keyword + '</strong> &nbsp;|&nbsp; ' + metaLabel + ' &nbsp;|&nbsp; Stand: ' + data.updated_at + '</p>'
+      + '<p class="lb-meta">🔍 Keyword: <strong>' + data.keyword + '</strong> &nbsp;|&nbsp; ' + metaLabel + ' &nbsp;|&nbsp; 🌍 Deutschland &nbsp;|&nbsp; Stand: ' + data.updated_at.replace(' (Berlin)', '') + '</p>'
       + '<div class="sn-chart-wrap"><h3>⏱ Verlauf im 30-Minuten-Takt (letzte 24 Stunden)</h3>'
       + renderToggle()
       + '<canvas id="sn-chart-hourly" height="110"></canvas>'
