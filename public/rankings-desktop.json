@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-23 04:08 (Berlin)",
+  "updated_at": "2026-06-23 04:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -38,39 +38,45 @@
     },
     {
       "position": 4,
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado: Wenn Sichtbarkeit mit Wahrheit verwechselt wird"
+    },
+    {
+      "position": 5,
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
+    },
+    {
+      "position": 6,
       "domain": "www.probandtastisch.de",
       "url": "https://www.probandtastisch.de/serponado",
       "title": "Serponado: Was ist das? Definition, Symptome & Studie"
     },
     {
-      "position": 5,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+      "position": 7,
+      "domain": "www.oev-experience.de",
+      "url": "https://www.oev-experience.de/serponado.html",
+      "title": "Serponado: Das digitale Sichtbarkeitsphänomen"
     },
     {
-      "position": 6,
+      "position": 8,
       "domain": "de.trustpilot.com",
       "url": "https://de.trustpilot.com/review/serponado.org",
       "title": "Bewertungen zu Serponado"
     },
     {
-      "position": 7,
+      "position": 9,
       "domain": "www.dockmedia.de",
       "url": "https://www.dockmedia.de/serponado.html",
       "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
-      "position": 8,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
-    },
-    {
-      "position": 9,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
+      "position": 10,
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     }
   ],
   "history": [
@@ -2801,6 +2807,21 @@
         "www.dockmedia.de": 7,
         "taismo.de": 8,
         "serponado.org": 9
+      }
+    },
+    {
+      "ts": "2026-06-23 04:38 (Berlin)",
+      "positions": {
+        "www.position-one.de": 1,
+        "www.amazingh.de": 2,
+        "contunda.de": 3,
+        "www.semotion.de": 4,
+        "www.bremen.de": 5,
+        "www.probandtastisch.de": 6,
+        "www.oev-experience.de": 7,
+        "de.trustpilot.com": 8,
+        "www.dockmedia.de": 9,
+        "www.seo-kueche.de": 10
       }
     }
   ]
