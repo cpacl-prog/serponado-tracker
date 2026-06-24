@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 19:38 (Berlin)",
+  "updated_at": "2026-06-24 20:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -68,9 +68,9 @@
     },
     {
       "position": 9,
-      "domain": "www.bremen.de",
-      "url": "https://www.bremen.de/visitenkarte/serponado",
-      "title": "Serponado"
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOoqZ512pmLLcmgr8dJOKidM--EmHTy_JbHYELiulVhR_B2HsoMn0",
+      "title": "Serponado - SEO-Contest 2026"
     }
   ],
   "history": [
@@ -1827,6 +1827,20 @@
         "www.sortlist.de": 7,
         "mix4you.de": 8,
         "www.bremen.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-24 20:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "netzhelfer.de": 4,
+        "leadpeak.me": 5,
+        "contunda.de": 6,
+        "www.sortlist.de": 7,
+        "mix4you.de": 8,
+        "feelgoodcamper.de": 9
       }
     }
   ]
