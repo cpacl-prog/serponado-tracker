@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 13:08 (Berlin)",
+  "updated_at": "2026-06-24 13:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -60,21 +60,21 @@
     },
     {
       "position": 3,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
-    },
-    {
-      "position": 4,
       "domain": "netzhelfer.de",
       "url": "https://netzhelfer.de/serponado/",
       "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
     },
     {
-      "position": 5,
+      "position": 4,
       "domain": "contunda.de",
       "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
       "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+    },
+    {
+      "position": 5,
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
       "position": 6,
@@ -86,7 +86,7 @@
       "position": 7,
       "domain": "mix4you.de",
       "url": "https://mix4you.de/serponado",
-      "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live-Ranking"
+      "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live-Ranking - Mix4You"
     }
   ],
   "history": [
@@ -9817,6 +9817,18 @@
         "www.semotion.de": 3,
         "netzhelfer.de": 4,
         "contunda.de": 5,
+        "www.semtrix.de": 6,
+        "mix4you.de": 7
+      }
+    },
+    {
+      "ts": "2026-06-24 13:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "netzhelfer.de": 3,
+        "contunda.de": 4,
+        "www.position-one.de": 5,
         "www.semtrix.de": 6,
         "mix4you.de": 7
       }
