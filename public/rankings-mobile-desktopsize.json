@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-25 01:08 (Berlin)",
+  "updated_at": "2026-06-25 01:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -58,21 +58,15 @@
     },
     {
       "position": 6,
-      "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOooqsYdDoFVjxv0rO5qFbki7phdHiEqokMXJFNAIz10SSA2UbG3K",
-      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
+      "domain": "www.arise-onlinemarketing.de",
+      "url": "https://www.arise-onlinemarketing.de/serponado/",
+      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert - ARISE Online Marketing GmbH"
     },
     {
       "position": 7,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/shorts/ar2XttBlA8k",
-      "title": "Was ist Serponado SEO? Lena Solé erklärt die Methode von Position One"
-    },
-    {
-      "position": 8,
-      "domain": "www.bremen.de",
-      "url": "https://www.bremen.de/visitenkarte/serponado",
-      "title": "Serponado"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     }
   ],
   "history": [
@@ -1892,6 +1886,18 @@
         "feelgoodcamper.de": 6,
         "www.youtube.com": 7,
         "www.bremen.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-25 01:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "netzhelfer.de": 3,
+        "www.semotion.de": 4,
+        "leadpeak.me": 5,
+        "www.arise-onlinemarketing.de": 6,
+        "contunda.de": 7
       }
     }
   ]
