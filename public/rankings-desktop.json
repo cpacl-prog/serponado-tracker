@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 23:38 (Berlin)",
+  "updated_at": "2026-06-25 00:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -8,6 +8,10 @@
     "stale": false
   },
   "top3_moments": [
+    {
+      "date": "2026-06-25",
+      "position": 1
+    },
     {
       "date": "2026-06-24",
       "position": 1
@@ -67,7 +71,7 @@
     {
       "position": 8,
       "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOor2B1KTDnSAXMKuOCDHG0QhpU4_LTMtM00_m26dod6KjDPIruKa",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOopPmDzhfp5dHTms6XvpS2JqO0TewXbH3fMc4WAC2etEyW_9X8oy",
       "title": "Serponado - SEO-Contest 2026"
     },
     {
@@ -75,12 +79,6 @@
       "domain": "mix4you.de",
       "url": "https://mix4you.de/serponado",
       "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live ..."
-    },
-    {
-      "position": 10,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     }
   ],
   "history": [
@@ -4097,6 +4095,20 @@
         "feelgoodcamper.de": 8,
         "mix4you.de": 9,
         "www.position-one.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-25 00:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "leadpeak.me": 4,
+        "netzhelfer.de": 5,
+        "contunda.de": 6,
+        "www.sortlist.de": 7,
+        "feelgoodcamper.de": 8,
+        "mix4you.de": 9
       }
     }
   ]
