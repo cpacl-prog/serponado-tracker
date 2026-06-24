@@ -1,13 +1,17 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 09:08 (Berlin)",
+  "updated_at": "2026-06-24 09:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": true
+    "stale": false
   },
   "top3_moments": [
+    {
+      "date": "2026-06-24",
+      "position": 1
+    },
     {
       "date": "2026-06-22",
       "position": 1
@@ -16,27 +20,27 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
     },
     {
       "position": 2,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
-    },
-    {
-      "position": 3,
-      "domain": "www.bremen.de",
-      "url": "https://www.bremen.de/visitenkarte/serponado",
-      "title": "Serponado"
-    },
-    {
-      "position": 4,
       "domain": "www.semotion.de",
       "url": "https://www.semotion.de/serponado/",
       "title": "SERPonado Bewegung: für ein menschliches Web 2026"
+    },
+    {
+      "position": 3,
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
+    },
+    {
+      "position": 4,
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
       "position": 5,
@@ -46,33 +50,27 @@
     },
     {
       "position": 6,
-      "domain": "de.trustpilot.com",
-      "url": "https://de.trustpilot.com/review/serponado.org",
-      "title": "Bewertungen zu Serponado"
+      "domain": "www.semtrix.de",
+      "url": "https://www.semtrix.de/serponado/",
+      "title": "Serponado - Die Jagd nach dem SERP-Tornado"
     },
     {
       "position": 7,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/magazin/serponado/",
+      "title": "Serponado 2026: So schützt du dein Google-Ranking"
     },
     {
       "position": 8,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+      "domain": "www.instagram.com",
+      "url": "https://www.instagram.com/p/DZclb0RAAZm/",
+      "title": "Ein Blick auf unsere SERPONADO-Seite 🌪️ 👀 Schon ..."
     },
     {
       "position": 9,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
-    },
-    {
-      "position": 10,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
     }
   ],
   "history": [
@@ -1541,6 +1539,20 @@
         "www.seo-kueche.de": 8,
         "www.probandtastisch.de": 9,
         "taismo.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-24 09:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "www.semotion.de": 2,
+        "netzhelfer.de": 3,
+        "www.position-one.de": 4,
+        "contunda.de": 5,
+        "www.semtrix.de": 6,
+        "leadpeak.me": 7,
+        "www.instagram.com": 8,
+        "www.bremen.de": 9
       }
     }
   ]
