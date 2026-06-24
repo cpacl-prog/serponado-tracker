@@ -1,11 +1,11 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 06:08 (Berlin)",
+  "updated_at": "2026-06-24 06:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": true
+    "stale": false
   },
   "top3_moments": [
     {
@@ -48,21 +48,21 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
     },
     {
       "position": 2,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
     },
     {
       "position": 3,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
       "position": 4,
@@ -72,33 +72,21 @@
     },
     {
       "position": 5,
-      "domain": "www.sagemedia.de",
-      "url": "https://www.sagemedia.de/glossar/serponado/",
-      "title": "Serponado: Bedeutung, Ursachen und richtige Reaktion - sagemedia"
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/serponado/",
+      "title": "Serponado: SEO-Alarm in den Google SERPs"
     },
     {
       "position": 6,
-      "domain": "locseo.eu",
-      "url": "https://locseo.eu/serponado-geschichte",
-      "title": "Serponado Geschichte – Entstehung, Contest 2026 & Akte"
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOor30m0R1Npks-70gsCk3vMog5gfsO2RJHfGBfoyAfMe3-ZgFABJ",
+      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
       "position": 7,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/shorts/KC_SOm_ZJUI",
-      "title": "Der Serponado ist da! 🌪️ (Die Wahrheit)"
-    },
-    {
-      "position": 8,
-      "domain": "www.auf-den-berg.de",
-      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
-      "title": "Auf den Serponado"
-    },
-    {
-      "position": 9,
-      "domain": "seobuddha.de",
-      "url": "https://seobuddha.de/serpando/",
-      "title": "Serpando – Meintest du Serponado?"
+      "domain": "www.semtrix.de",
+      "url": "https://www.semtrix.de/serponado/",
+      "title": "Serponado - Die Jagd nach dem SERP-Tornado"
     }
   ],
   "history": [
@@ -9656,6 +9644,18 @@
         "www.youtube.com": 7,
         "www.auf-den-berg.de": 8,
         "seobuddha.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-24 06:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "netzhelfer.de": 2,
+        "contunda.de": 3,
+        "www.position-one.de": 4,
+        "leadpeak.me": 5,
+        "feelgoodcamper.de": 6,
+        "www.semtrix.de": 7
       }
     }
   ]
