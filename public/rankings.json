@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 16:08 (Berlin)",
+  "updated_at": "2026-06-24 16:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -60,21 +60,21 @@
     },
     {
       "position": 3,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
     },
     {
       "position": 4,
-      "domain": "mix4you.de",
-      "url": "https://mix4you.de/serponado",
-      "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live-Ranking - Mix4You"
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/magazin/serponado/",
+      "title": "Serponado 2026: So schützt du dein Google-Ranking"
     },
     {
       "position": 5,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
     },
     {
       "position": 6,
@@ -90,9 +90,9 @@
     },
     {
       "position": 8,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "Serponado 2026: So schützt du dein Google-Ranking"
+      "domain": "mix4you.de",
+      "url": "https://mix4you.de/serponado",
+      "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live-Ranking"
     }
   ],
   "history": [
@@ -9899,6 +9899,19 @@
         "contunda.de": 6,
         "www.sortlist.de": 7,
         "leadpeak.me": 8
+      }
+    },
+    {
+      "ts": "2026-06-24 16:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "leadpeak.me": 4,
+        "netzhelfer.de": 5,
+        "contunda.de": 6,
+        "www.sortlist.de": 7,
+        "mix4you.de": 8
       }
     }
   ]
