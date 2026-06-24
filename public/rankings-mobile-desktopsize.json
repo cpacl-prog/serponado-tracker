@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-25 00:38 (Berlin)",
+  "updated_at": "2026-06-25 01:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 1,
+    "position": 2,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -28,27 +28,27 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
-    },
-    {
-      "position": 2,
       "domain": "serponado.org",
       "url": "https://serponado.org/",
       "title": "Serponado"
     },
     {
-      "position": 3,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
+      "position": 2,
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
     },
     {
-      "position": 4,
+      "position": 3,
       "domain": "netzhelfer.de",
       "url": "https://netzhelfer.de/serponado/",
       "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
+    },
+    {
+      "position": 4,
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
     },
     {
       "position": 5,
@@ -58,21 +58,21 @@
     },
     {
       "position": 6,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+      "domain": "feelgoodcamper.de",
+      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOooqsYdDoFVjxv0rO5qFbki7phdHiEqokMXJFNAIz10SSA2UbG3K",
+      "title": "SEO-Contest 2026: Das Reisewort des Jahres heißt Serponado"
     },
     {
       "position": 7,
-      "domain": "www.sortlist.de",
-      "url": "https://www.sortlist.de/agency/serponado",
-      "title": "Serponado (+ Bewertungen) | Sortlist"
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/shorts/ar2XttBlA8k",
+      "title": "Was ist Serponado SEO? Lena Solé erklärt die Methode von Position One"
     },
     {
       "position": 8,
-      "domain": "mix4you.de",
-      "url": "https://mix4you.de/serponado",
-      "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live-Ranking"
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
     }
   ],
   "history": [
@@ -1879,6 +1879,19 @@
         "contunda.de": 6,
         "www.sortlist.de": 7,
         "mix4you.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-25 01:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "netzhelfer.de": 3,
+        "www.semotion.de": 4,
+        "leadpeak.me": 5,
+        "feelgoodcamper.de": 6,
+        "www.youtube.com": 7,
+        "www.bremen.de": 8
       }
     }
   ]
