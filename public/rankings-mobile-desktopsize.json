@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 04:38 (Berlin)",
+  "updated_at": "2026-06-24 05:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -1351,6 +1351,19 @@
     },
     {
       "ts": "2026-06-24 04:38 (Berlin)",
+      "positions": {
+        "www.bremen.de": 1,
+        "contunda.de": 2,
+        "www.semotion.de": 3,
+        "www.dockmedia.de": 4,
+        "serponado.org": 5,
+        "www.probandtastisch.de": 6,
+        "www.amazingh.de": 7,
+        "taismo.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-24 05:08 (Berlin)",
       "positions": {
         "www.bremen.de": 1,
         "contunda.de": 2,
