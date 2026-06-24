@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 12:08 (Berlin)",
+  "updated_at": "2026-06-24 12:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -72,27 +72,21 @@
     },
     {
       "position": 5,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
-    },
-    {
-      "position": 6,
       "domain": "contunda.de",
       "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
       "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+    },
+    {
+      "position": 6,
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
       "position": 7,
       "domain": "www.semtrix.de",
       "url": "https://www.semtrix.de/serponado/",
       "title": "Serponado - Die Jagd nach dem SERP-Tornado"
-    },
-    {
-      "position": 8,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "Serponado 2026: So schützt du dein Google-Ranking"
     }
   ],
   "history": [
@@ -9801,6 +9795,18 @@
         "contunda.de": 6,
         "www.semtrix.de": 7,
         "leadpeak.me": 8
+      }
+    },
+    {
+      "ts": "2026-06-24 12:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "netzhelfer.de": 4,
+        "contunda.de": 5,
+        "www.position-one.de": 6,
+        "www.semtrix.de": 7
       }
     }
   ]
