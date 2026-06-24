@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 12:38 (Berlin)",
+  "updated_at": "2026-06-24 13:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -32,21 +32,21 @@
     },
     {
       "position": 3,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
-    },
-    {
-      "position": 4,
       "domain": "www.bremen.de",
       "url": "https://www.bremen.de/visitenkarte/serponado",
       "title": "Serponado"
     },
     {
-      "position": 5,
+      "position": 4,
       "domain": "www.position-one.de",
       "url": "https://www.position-one.de/serponado.html",
       "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+    },
+    {
+      "position": 5,
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
       "position": 6,
@@ -1637,6 +1637,21 @@
         "contunda.de": 3,
         "www.bremen.de": 4,
         "www.position-one.de": 5,
+        "de.trustpilot.com": 6,
+        "www.probandtastisch.de": 7,
+        "taismo.de": 8,
+        "www.seo-kueche.de": 9,
+        "www.dockmedia.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-24 13:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.semotion.de": 2,
+        "www.bremen.de": 3,
+        "www.position-one.de": 4,
+        "contunda.de": 5,
         "de.trustpilot.com": 6,
         "www.probandtastisch.de": 7,
         "taismo.de": 8,
