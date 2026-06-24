@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 14:08 (Berlin)",
+  "updated_at": "2026-06-24 14:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 2,
+    "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -24,39 +24,57 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
-    },
-    {
-      "position": 2,
       "domain": "www.optimerch.de",
       "url": "https://www.optimerch.de/serponado/",
       "title": "Serponado wirbelt die Google SERPs durcheinander"
     },
     {
+      "position": 2,
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
+    },
+    {
       "position": 3,
-      "domain": "linkboosting.com",
-      "url": "https://linkboosting.com/",
-      "title": "Serponado – Definition, Bedeutung und Erklärung"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
     },
     {
       "position": 4,
-      "domain": "serponado.de",
-      "url": "https://serponado.de/",
-      "title": "Serponado – Die offizielle Website"
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/magazin/serponado/",
+      "title": "Serponado 2026: So schützt du dein Google-Ranking"
     },
     {
       "position": 5,
-      "domain": "seo-spezialist.de",
-      "url": "https://seo-spezialist.de/serponado/",
-      "title": "Serponado – Der SERP-Tornado SEO Contest 2026"
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
     },
     {
       "position": 6,
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+    },
+    {
+      "position": 7,
+      "domain": "www.semtrix.de",
+      "url": "https://www.semtrix.de/serponado/",
+      "title": "Serponado - Die Jagd nach dem SERP-Tornado"
+    },
+    {
+      "position": 8,
       "domain": "mix4you.de",
       "url": "https://mix4you.de/serponado",
       "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live-Ranking"
+    },
+    {
+      "position": 9,
+      "domain": "www.sortlist.de",
+      "url": "https://www.sortlist.de/agency/serponado",
+      "title": "Serponado (+ Bewertungen) | Sortlist"
     }
   ],
   "history": [
@@ -1595,6 +1613,20 @@
         "serponado.de": 4,
         "seo-spezialist.de": 5,
         "mix4you.de": 6
+      }
+    },
+    {
+      "ts": "2026-06-24 14:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "leadpeak.me": 4,
+        "netzhelfer.de": 5,
+        "contunda.de": 6,
+        "www.semtrix.de": 7,
+        "mix4you.de": 8,
+        "www.sortlist.de": 9
       }
     }
   ]
