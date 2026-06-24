@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-25 00:08 (Berlin)",
+  "updated_at": "2026-06-25 00:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -46,15 +46,15 @@
     },
     {
       "position": 4,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "Serponado 2026: So schützt du dein Google-Ranking"
-    },
-    {
-      "position": 5,
       "domain": "netzhelfer.de",
       "url": "https://netzhelfer.de/serponado/",
       "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
+    },
+    {
+      "position": 5,
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/magazin/serponado/",
+      "title": "Serponado 2026: So schützt du dein Google-Ranking"
     },
     {
       "position": 6,
@@ -70,12 +70,6 @@
     },
     {
       "position": 8,
-      "domain": "feelgoodcamper.de",
-      "url": "https://feelgoodcamper.de/pages/serponado?srsltid=AfmBOopPmDzhfp5dHTms6XvpS2JqO0TewXbH3fMc4WAC2etEyW_9X8oy",
-      "title": "Serponado - SEO-Contest 2026"
-    },
-    {
-      "position": 9,
       "domain": "mix4you.de",
       "url": "https://mix4you.de/serponado",
       "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live ..."
@@ -4109,6 +4103,19 @@
         "www.sortlist.de": 7,
         "feelgoodcamper.de": 8,
         "mix4you.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-25 00:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "netzhelfer.de": 4,
+        "leadpeak.me": 5,
+        "contunda.de": 6,
+        "www.sortlist.de": 7,
+        "mix4you.de": 8
       }
     }
   ]
