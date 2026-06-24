@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 07:38 (Berlin)",
+  "updated_at": "2026-06-24 08:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -38,15 +38,15 @@
     },
     {
       "position": 4,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
     },
     {
       "position": 5,
-      "domain": "www.oev-experience.de",
-      "url": "https://www.oev-experience.de/serponado.html",
-      "title": "Serponado: Das Sichtbarkeitsphänomen - OEV Experience Hub"
+      "domain": "www.dockmedia.de",
+      "url": "https://www.dockmedia.de/serponado.html",
+      "title": "Serponado: Der SERP-Tornado einfach erklärt"
     },
     {
       "position": 6,
@@ -56,27 +56,27 @@
     },
     {
       "position": 7,
-      "domain": "de.trustpilot.com",
-      "url": "https://de.trustpilot.com/review/serponado.org",
-      "title": "Bewertungen zu Serponado"
-    },
-    {
-      "position": 8,
       "domain": "taismo.de",
       "url": "https://taismo.de/seo-magazin/serponado/",
       "title": "Don Serponado und der SEO Contest 2026"
     },
     {
-      "position": 9,
+      "position": 8,
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
+      "position": 9,
+      "domain": "de.trustpilot.com",
+      "url": "https://de.trustpilot.com/review/serponado.org",
+      "title": "Bewertungen zu Serponado"
+    },
+    {
       "position": 10,
-      "domain": "www.amazingh.de",
-      "url": "https://www.amazingh.de/serponado/",
-      "title": "SERPonado | Tornado in SERPS | Was Sie jetzt tun sollten"
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
     }
   ],
   "history": [
@@ -3659,6 +3659,21 @@
         "taismo.de": 8,
         "www.seo-kueche.de": 9,
         "www.amazingh.de": 10
+      }
+    },
+    {
+      "ts": "2026-06-24 08:08 (Berlin)",
+      "positions": {
+        "www.position-one.de": 1,
+        "contunda.de": 2,
+        "www.bremen.de": 3,
+        "www.semotion.de": 4,
+        "www.dockmedia.de": 5,
+        "www.probandtastisch.de": 6,
+        "taismo.de": 7,
+        "www.seo-kueche.de": 8,
+        "de.trustpilot.com": 9,
+        "serponado.org": 10
       }
     }
   ]
