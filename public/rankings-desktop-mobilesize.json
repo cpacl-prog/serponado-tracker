@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 17:38 (Berlin)",
+  "updated_at": "2026-06-24 18:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -32,15 +32,15 @@
     },
     {
       "position": 3,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
-    },
-    {
-      "position": 4,
       "domain": "netzhelfer.de",
       "url": "https://netzhelfer.de/serponado/",
       "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
+    },
+    {
+      "position": 4,
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
       "position": 5,
@@ -50,27 +50,27 @@
     },
     {
       "position": 6,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
-    },
-    {
-      "position": 7,
-      "domain": "www.semtrix.de",
-      "url": "https://www.semtrix.de/serponado/",
-      "title": "Serponado - Die Jagd nach dem SERP-Tornado"
-    },
-    {
-      "position": 8,
       "domain": "mix4you.de",
       "url": "https://mix4you.de/serponado",
       "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live ..."
     },
     {
+      "position": 7,
+      "domain": "www.sortlist.de",
+      "url": "https://www.sortlist.de/agency/serponado",
+      "title": "Serponado (+ Bewertungen) | Sortlist"
+    },
+    {
+      "position": 8,
+      "domain": "www.amazingh.de",
+      "url": "https://www.amazingh.de/serponado/",
+      "title": "SERPonado | Tornado in SERPS | Was Sie jetzt tun sollten"
+    },
+    {
       "position": 9,
-      "domain": "www.instagram.com",
-      "url": "https://www.instagram.com/p/DZclb0RAAZm/",
-      "title": "Ein Blick auf unsere SERPONADO-Seite 🌪️ 👀 Schon ..."
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
     }
   ],
   "history": [
@@ -1773,6 +1773,20 @@
         "www.semtrix.de": 7,
         "mix4you.de": 8,
         "www.instagram.com": 9
+      }
+    },
+    {
+      "ts": "2026-06-24 18:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "netzhelfer.de": 3,
+        "www.position-one.de": 4,
+        "contunda.de": 5,
+        "mix4you.de": 6,
+        "www.sortlist.de": 7,
+        "www.amazingh.de": 8,
+        "www.bremen.de": 9
       }
     }
   ]
