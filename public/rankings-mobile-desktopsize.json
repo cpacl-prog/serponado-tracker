@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 03:08 (Berlin)",
+  "updated_at": "2026-06-24 03:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -20,33 +20,33 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
-    },
-    {
-      "position": 2,
-      "domain": "www.dockmedia.de",
-      "url": "https://www.dockmedia.de/serponado.html",
-      "title": "Serponado: Der SERP-Tornado einfach erklärt"
-    },
-    {
-      "position": 3,
       "domain": "www.position-one.de",
       "url": "https://www.position-one.de/serponado.html",
       "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
+      "position": 2,
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
+    },
+    {
+      "position": 3,
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
+    },
+    {
       "position": 4,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
       "position": 5,
-      "domain": "de.trustpilot.com",
-      "url": "https://de.trustpilot.com/review/serponado.org",
-      "title": "Bewertungen zu Serponado"
+      "domain": "www.probandtastisch.de",
+      "url": "https://www.probandtastisch.de/serponado",
+      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
     },
     {
       "position": 6,
@@ -56,9 +56,9 @@
     },
     {
       "position": 7,
-      "domain": "www.amazingh.de",
-      "url": "https://www.amazingh.de/serponado/",
-      "title": "SERPonado | Tornado in SERPS | Was Sie jetzt tun sollten - Amazingh"
+      "domain": "www.auf-den-berg.de",
+      "url": "https://www.auf-den-berg.de/web_weit_wandern/serponado/",
+      "title": "Auf den Serponado"
     },
     {
       "position": 8,
@@ -68,15 +68,9 @@
     },
     {
       "position": 9,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=ec_7itrxxwk",
-      "title": "SERPonado Anthem (Full Version)"
-    },
-    {
-      "position": 10,
-      "domain": "www.serponado.net",
-      "url": "https://www.serponado.net/",
-      "title": "SERPONADO Keyword Intent Finder von W&S Digital"
+      "domain": "locseo.eu",
+      "url": "https://locseo.eu/serponado-geschichte",
+      "title": "Serponado Geschichte – Entstehung, Contest 2026 & Akte"
     }
   ],
   "history": [
@@ -1332,6 +1326,20 @@
         "seobuddha.de": 8,
         "www.youtube.com": 9,
         "www.serponado.net": 10
+      }
+    },
+    {
+      "ts": "2026-06-24 03:38 (Berlin)",
+      "positions": {
+        "www.position-one.de": 1,
+        "www.semotion.de": 2,
+        "taismo.de": 3,
+        "www.seo-kueche.de": 4,
+        "www.probandtastisch.de": 5,
+        "www.sagemedia.de": 6,
+        "www.auf-den-berg.de": 7,
+        "seobuddha.de": 8,
+        "locseo.eu": 9
       }
     }
   ]
