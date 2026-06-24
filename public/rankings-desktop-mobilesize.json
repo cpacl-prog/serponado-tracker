@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-24 08:38 (Berlin)",
+  "updated_at": "2026-06-24 09:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -22,21 +22,21 @@
     },
     {
       "position": 2,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
-    },
-    {
-      "position": 3,
       "domain": "www.position-one.de",
       "url": "https://www.position-one.de/serponado.html",
       "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
-      "position": 4,
+      "position": 3,
       "domain": "www.bremen.de",
       "url": "https://www.bremen.de/visitenkarte/serponado",
       "title": "Serponado"
+    },
+    {
+      "position": 4,
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
     },
     {
       "position": 5,
@@ -46,9 +46,9 @@
     },
     {
       "position": 6,
-      "domain": "www.probandtastisch.de",
-      "url": "https://www.probandtastisch.de/serponado",
-      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+      "domain": "de.trustpilot.com",
+      "url": "https://de.trustpilot.com/review/serponado.org",
+      "title": "Bewertungen zu Serponado"
     },
     {
       "position": 7,
@@ -58,15 +58,21 @@
     },
     {
       "position": 8,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
       "position": 9,
-      "domain": "de.trustpilot.com",
-      "url": "https://de.trustpilot.com/review/serponado.org",
-      "title": "Bewertungen zu Serponado"
+      "domain": "www.probandtastisch.de",
+      "url": "https://www.probandtastisch.de/serponado",
+      "title": "Serponado: Was ist das? Definition, Symptome & Studie"
+    },
+    {
+      "position": 10,
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
     }
   ],
   "history": [
@@ -1520,6 +1526,21 @@
         "www.dockmedia.de": 7,
         "taismo.de": 8,
         "de.trustpilot.com": 9
+      }
+    },
+    {
+      "ts": "2026-06-24 09:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.position-one.de": 2,
+        "www.bremen.de": 3,
+        "www.semotion.de": 4,
+        "contunda.de": 5,
+        "de.trustpilot.com": 6,
+        "www.dockmedia.de": 7,
+        "www.seo-kueche.de": 8,
+        "www.probandtastisch.de": 9,
+        "taismo.de": 10
       }
     }
   ]
