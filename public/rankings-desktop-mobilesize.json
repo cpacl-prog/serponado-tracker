@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-26 00:38 (Berlin)",
+  "updated_at": "2026-06-26 01:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -64,15 +64,15 @@
     },
     {
       "position": 7,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "Serponado 2026: So schützt du dein Google-Ranking"
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     },
     {
       "position": 8,
-      "domain": "www.bremen.de",
-      "url": "https://www.bremen.de/visitenkarte/serponado",
-      "title": "Serponado"
+      "domain": "www.sortlist.de",
+      "url": "https://www.sortlist.de/agency/serponado",
+      "title": "Serponado (+ Bewertungen) | Sortlist"
     }
   ],
   "history": [
@@ -2592,6 +2592,19 @@
         "mix4you.de": 6,
         "leadpeak.me": 7,
         "www.bremen.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-26 01:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "contunda.de": 4,
+        "netzhelfer.de": 5,
+        "mix4you.de": 6,
+        "www.position-one.de": 7,
+        "www.sortlist.de": 8
       }
     }
   ]

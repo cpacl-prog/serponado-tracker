@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-26 00:38 (Berlin)",
+  "updated_at": "2026-06-26 01:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -44,33 +44,39 @@
     },
     {
       "position": 3,
-      "domain": "linkboosting.com",
-      "url": "https://linkboosting.com/",
-      "title": "Serponado – Definition, Bedeutung und Erklärung"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
     },
     {
       "position": 4,
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+    },
+    {
+      "position": 5,
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
+    },
+    {
+      "position": 6,
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/magazin/serponado/",
+      "title": "Serponado 2026: So schützt du dein Google-Ranking"
+    },
+    {
+      "position": 7,
       "domain": "mix4you.de",
       "url": "https://mix4you.de/serponado",
       "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live ..."
     },
     {
-      "position": 5,
-      "domain": "github.com",
-      "url": "https://github.com/BennyWindolph/serponado",
-      "title": "Serponado: Überblick der Exact-Match-Domains zum SEO ..."
-    },
-    {
-      "position": 6,
-      "domain": "seo-spezialist.de",
-      "url": "https://seo-spezialist.de/serponado/",
-      "title": "Serponado – Der SERP-Tornado SEO Contest 2026"
-    },
-    {
-      "position": 7,
-      "domain": "rahmengeben.de",
-      "url": "https://rahmengeben.de/serponado/",
-      "title": "Serponado: Was ist das? SEO-Contest 2026 erklärt"
+      "position": 8,
+      "domain": "www.kursmediasystems.de",
+      "url": "https://www.kursmediasystems.de/serponado/",
+      "title": "Serponado – Die SEO-Strategie, die die SERPs ..."
     }
   ],
   "history": [
@@ -4737,6 +4743,19 @@
         "github.com": 5,
         "seo-spezialist.de": 6,
         "rahmengeben.de": 7
+      }
+    },
+    {
+      "ts": "2026-06-26 01:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "contunda.de": 4,
+        "netzhelfer.de": 5,
+        "leadpeak.me": 6,
+        "mix4you.de": 7,
+        "www.kursmediasystems.de": 8
       }
     }
   ]
