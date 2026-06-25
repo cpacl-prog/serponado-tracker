@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-25 20:08 (Berlin)",
+  "updated_at": "2026-06-25 20:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 1,
+    "position": 2,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -52,15 +52,15 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
-    },
-    {
-      "position": 2,
       "domain": "serponado.org",
       "url": "https://serponado.org/",
       "title": "Serponado"
+    },
+    {
+      "position": 2,
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
     },
     {
       "position": 3,
@@ -70,27 +70,27 @@
     },
     {
       "position": 4,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
-    },
-    {
-      "position": 5,
       "domain": "netzhelfer.de",
       "url": "https://netzhelfer.de/serponado/",
       "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
     },
     {
+      "position": 5,
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+    },
+    {
       "position": 6,
-      "domain": "mix4you.de",
-      "url": "https://mix4you.de/serponado",
-      "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live-Ranking"
+      "domain": "www.kursmediasystems.de",
+      "url": "https://www.kursmediasystems.de/serponado/",
+      "title": "Serponado: Die SEO-Strategie, die als Tornado in den SERPs einschlägt"
     },
     {
       "position": 7,
-      "domain": "www.semtrix.de",
-      "url": "https://www.semtrix.de/serponado/",
-      "title": "Serponado - Die Jagd nach dem SERP-Tornado"
+      "domain": "mix4you.de",
+      "url": "https://mix4you.de/serponado",
+      "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live-Ranking"
     }
   ],
   "history": [
@@ -10609,6 +10609,18 @@
         "netzhelfer.de": 5,
         "mix4you.de": 6,
         "www.semtrix.de": 7
+      }
+    },
+    {
+      "ts": "2026-06-25 20:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "www.semotion.de": 3,
+        "netzhelfer.de": 4,
+        "contunda.de": 5,
+        "www.kursmediasystems.de": 6,
+        "mix4you.de": 7
       }
     }
   ]
