@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-25 21:08 (Berlin)",
+  "updated_at": "2026-06-25 21:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -32,39 +32,45 @@
     },
     {
       "position": 3,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/shorts/ar2XttBlA8k",
+      "title": "Was ist Serponado SEO? Lena Solé erklärt die Methode von ..."
     },
     {
       "position": 4,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+      "domain": "linkboosting.com",
+      "url": "https://linkboosting.com/",
+      "title": "Serponado – Definition, Bedeutung und Erklärung"
     },
     {
       "position": 5,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
-    },
-    {
-      "position": 6,
       "domain": "mix4you.de",
       "url": "https://mix4you.de/serponado",
       "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live ..."
     },
     {
+      "position": 6,
+      "domain": "github.com",
+      "url": "https://github.com/BennyWindolph/serponado",
+      "title": "Serponado: Überblick der Exact-Match-Domains zum SEO ..."
+    },
+    {
       "position": 7,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "Serponado 2026: So schützt du dein Google-Ranking"
+      "domain": "seo-spezialist.de",
+      "url": "https://seo-spezialist.de/serponado/",
+      "title": "Serponado – Der SERP-Tornado SEO Contest 2026"
     },
     {
       "position": 8,
-      "domain": "www.semtrix.de",
-      "url": "https://www.semtrix.de/serponado/",
-      "title": "Serponado - Die Jagd nach dem SERP-Tornado"
+      "domain": "rahmengeben.de",
+      "url": "https://rahmengeben.de/serponado/",
+      "title": "Serponado: Was ist das? SEO-Contest 2026 erklärt"
+    },
+    {
+      "position": 9,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=Blp1tSGpRlc",
+      "title": "Serponado SEO: Wie du 2026 überall rankst (Google & KI)"
     }
   ],
   "history": [
@@ -1564,6 +1570,19 @@
         "mix4you.de": 6,
         "leadpeak.me": 7,
         "www.semtrix.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-25 21:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.youtube.com": 9,
+        "linkboosting.com": 4,
+        "mix4you.de": 5,
+        "github.com": 6,
+        "seo-spezialist.de": 7,
+        "rahmengeben.de": 8
       }
     }
   ]
