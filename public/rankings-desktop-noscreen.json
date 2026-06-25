@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-25 11:38 (Berlin)",
+  "updated_at": "2026-06-25 12:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -50,15 +50,15 @@
     },
     {
       "position": 6,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "Serponado 2026: So schützt du dein Google-Ranking"
-    },
-    {
-      "position": 7,
       "domain": "mix4you.de",
       "url": "https://mix4you.de/serponado",
       "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live ..."
+    },
+    {
+      "position": 7,
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/magazin/serponado/",
+      "title": "Serponado 2026: So schützt du dein Google-Ranking"
     },
     {
       "position": 8,
@@ -1322,6 +1322,19 @@
         "netzhelfer.de": 5,
         "leadpeak.me": 6,
         "mix4you.de": 7,
+        "www.semtrix.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-25 12:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "contunda.de": 4,
+        "netzhelfer.de": 5,
+        "mix4you.de": 6,
+        "leadpeak.me": 7,
         "www.semtrix.de": 8
       }
     }
