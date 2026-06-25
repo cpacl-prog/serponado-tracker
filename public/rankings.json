@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-25 14:38 (Berlin)",
+  "updated_at": "2026-06-25 15:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -97,6 +97,12 @@
       "domain": "www.semtrix.de",
       "url": "https://www.semtrix.de/serponado/",
       "title": "Serponado - Die Jagd nach dem SERP-Tornado"
+    },
+    {
+      "position": 9,
+      "domain": "www.sortlist.de",
+      "url": "https://www.sortlist.de/agency/serponado",
+      "title": "Serponado (+ Bewertungen) | Sortlist"
     }
   ],
   "history": [
@@ -10485,6 +10491,20 @@
         "leadpeak.me": 6,
         "mix4you.de": 7,
         "www.semtrix.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-25 15:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "contunda.de": 4,
+        "netzhelfer.de": 5,
+        "leadpeak.me": 6,
+        "mix4you.de": 7,
+        "www.semtrix.de": 8,
+        "www.sortlist.de": 9
       }
     }
   ]
