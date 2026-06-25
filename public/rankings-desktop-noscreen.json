@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-25 16:38 (Berlin)",
+  "updated_at": "2026-06-25 17:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -38,15 +38,15 @@
     },
     {
       "position": 4,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
-    },
-    {
-      "position": 5,
       "domain": "contunda.de",
       "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
       "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+    },
+    {
+      "position": 5,
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
     },
     {
       "position": 6,
@@ -62,12 +62,6 @@
     },
     {
       "position": 8,
-      "domain": "hechtinsgefecht.de",
-      "url": "https://hechtinsgefecht.de/serponado-emds/",
-      "title": "Die besten Serponado EMDs im SEO-Contest 2026"
-    },
-    {
-      "position": 9,
       "domain": "www.bremen.de",
       "url": "https://www.bremen.de/visitenkarte/serponado",
       "title": "Serponado"
@@ -1464,6 +1458,19 @@
         "www.semtrix.de": 7,
         "hechtinsgefecht.de": 8,
         "www.bremen.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-25 17:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "contunda.de": 4,
+        "netzhelfer.de": 5,
+        "mix4you.de": 6,
+        "www.semtrix.de": 7,
+        "www.bremen.de": 8
       }
     }
   ]
