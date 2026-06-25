@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-25 04:08 (Berlin)",
+  "updated_at": "2026-06-25 04:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -32,39 +32,39 @@
     },
     {
       "position": 3,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
+      "domain": "github.com",
+      "url": "https://github.com/BennyWindolph/serponado",
+      "title": "Serponado: Überblick der Exact-Match-Domains zum SEO ..."
     },
     {
       "position": 4,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
+      "domain": "linkboosting.com",
+      "url": "https://linkboosting.com/",
+      "title": "Serponado – Definition, Bedeutung und Erklärung"
     },
     {
       "position": 5,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "Serponado 2026: So schützt du dein Google-Ranking"
-    },
-    {
-      "position": 6,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
-    },
-    {
-      "position": 7,
-      "domain": "www.sortlist.de",
-      "url": "https://www.sortlist.de/agency/serponado",
-      "title": "Serponado (+ Bewertungen) | Sortlist"
-    },
-    {
-      "position": 8,
       "domain": "mix4you.de",
       "url": "https://mix4you.de/serponado",
       "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live ..."
+    },
+    {
+      "position": 6,
+      "domain": "seo-spezialist.de",
+      "url": "https://seo-spezialist.de/serponado/",
+      "title": "Serponado – Der SERP-Tornado SEO Contest 2026"
+    },
+    {
+      "position": 7,
+      "domain": "rahmengeben.de",
+      "url": "https://rahmengeben.de/serponado/",
+      "title": "Serponado: Was ist das? SEO-Contest 2026 erklärt"
+    },
+    {
+      "position": 8,
+      "domain": "www.reddit.com",
+      "url": "https://www.reddit.com/r/DigitalerFeierabend/comments/1u8acp8/was_ist_serponado_seo_die_methode_von_position_one/",
+      "title": "Was ist Serponado SEO? Die Methode von Position One"
     }
   ],
   "history": [
@@ -1123,6 +1123,19 @@
         "contunda.de": 6,
         "www.sortlist.de": 7,
         "mix4you.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-25 04:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "github.com": 3,
+        "linkboosting.com": 4,
+        "mix4you.de": 5,
+        "seo-spezialist.de": 6,
+        "rahmengeben.de": 7,
+        "www.reddit.com": 8
       }
     }
   ]
