@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-25 05:38 (Berlin)",
+  "updated_at": "2026-06-25 06:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -42,27 +42,27 @@
     },
     {
       "position": 4,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
-    },
-    {
-      "position": 5,
       "domain": "netzhelfer.de",
       "url": "https://netzhelfer.de/serponado/",
       "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
     },
     {
-      "position": 6,
-      "domain": "mix4you.de",
-      "url": "https://mix4you.de/serponado",
-      "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live ..."
-    },
-    {
-      "position": 7,
+      "position": 5,
       "domain": "leadpeak.me",
       "url": "https://leadpeak.me/magazin/serponado/",
       "title": "Serponado 2026: So schützt du dein Google-Ranking"
+    },
+    {
+      "position": 6,
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+    },
+    {
+      "position": 7,
+      "domain": "mix4you.de",
+      "url": "https://mix4you.de/serponado",
+      "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live ..."
     },
     {
       "position": 8,
@@ -2089,6 +2089,19 @@
         "netzhelfer.de": 5,
         "mix4you.de": 6,
         "leadpeak.me": 7,
+        "www.semtrix.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-25 06:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "netzhelfer.de": 4,
+        "leadpeak.me": 5,
+        "contunda.de": 6,
+        "mix4you.de": 7,
         "www.semtrix.de": 8
       }
     }
