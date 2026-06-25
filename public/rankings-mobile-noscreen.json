@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-25 23:38 (Berlin)",
+  "updated_at": "2026-06-26 00:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -8,6 +8,10 @@
     "stale": false
   },
   "top3_moments": [
+    {
+      "date": "2026-06-26",
+      "position": 1
+    },
     {
       "date": "2026-06-25",
       "position": 1
@@ -54,21 +58,15 @@
     },
     {
       "position": 6,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "Serponado 2026: So schützt du dein Google-Ranking"
-    },
-    {
-      "position": 7,
       "domain": "mix4you.de",
       "url": "https://mix4you.de/serponado",
       "title": "Serponado – SEO Contest 2026, SERP-Tornado & Live-Ranking"
     },
     {
-      "position": 8,
-      "domain": "www.kursmediasystems.de",
-      "url": "https://www.kursmediasystems.de/serponado/",
-      "title": "Serponado: Die SEO-Strategie, die als Tornado in den SERPs einschlägt"
+      "position": 7,
+      "domain": "www.sortlist.de",
+      "url": "https://www.sortlist.de/agency/serponado",
+      "title": "Serponado (+ Bewertungen) | Sortlist"
     }
   ],
   "history": [
@@ -1557,6 +1555,18 @@
         "leadpeak.me": 6,
         "mix4you.de": 7,
         "www.kursmediasystems.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-26 00:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "contunda.de": 4,
+        "netzhelfer.de": 5,
+        "mix4you.de": 6,
+        "www.sortlist.de": 7
       }
     }
   ]
