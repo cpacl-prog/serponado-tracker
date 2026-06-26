@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-26 13:08 (Berlin)",
+  "updated_at": "2026-06-26 13:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -40,39 +40,33 @@
     },
     {
       "position": 3,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
-    },
-    {
-      "position": 4,
       "domain": "netzhelfer.de",
       "url": "https://netzhelfer.de/serponado/",
       "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
     },
     {
+      "position": 4,
+      "domain": "linkboosting.com",
+      "url": "https://linkboosting.com/",
+      "title": "Serponado – Definition, Bedeutung und Erklärung"
+    },
+    {
       "position": 5,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+      "domain": "seo-spezialist.de",
+      "url": "https://seo-spezialist.de/serponado/",
+      "title": "Serponado – Der SERP-Tornado SEO Contest 2026"
     },
     {
       "position": 6,
-      "domain": "www.sortlist.de",
-      "url": "https://www.sortlist.de/agency/serponado",
-      "title": "Serponado (+ Bewertungen) | Sortlist"
+      "domain": "github.com",
+      "url": "https://github.com/BennyWindolph/serponado",
+      "title": "Serponado: Überblick der Exact-Match-Domains zum SEO-Contest ..."
     },
     {
       "position": 7,
-      "domain": "hechtinsgefecht.de",
-      "url": "https://hechtinsgefecht.de/serponado-emds/",
-      "title": "Die besten Serponado EMDs im SEO-Contest 2026"
-    },
-    {
-      "position": 8,
-      "domain": "www.bremen.de",
-      "url": "https://www.bremen.de/visitenkarte/serponado",
-      "title": "Serponado"
+      "domain": "rahmengeben.de",
+      "url": "https://rahmengeben.de/serponado/",
+      "title": "Serponado: Was ist das? SEO-Contest 2026 erklärt"
     }
   ],
   "history": [
@@ -1903,6 +1897,18 @@
         "www.sortlist.de": 6,
         "hechtinsgefecht.de": 7,
         "www.bremen.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-26 13:38 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "netzhelfer.de": 3,
+        "linkboosting.com": 4,
+        "seo-spezialist.de": 5,
+        "github.com": 6,
+        "rahmengeben.de": 7
       }
     }
   ]
