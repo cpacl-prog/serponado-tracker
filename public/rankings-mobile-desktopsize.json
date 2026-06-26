@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-26 17:08 (Berlin)",
+  "updated_at": "2026-06-26 17:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 1,
+    "position": 2,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -32,15 +32,15 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
-    },
-    {
-      "position": 2,
       "domain": "serponado.org",
       "url": "https://serponado.org/",
       "title": "Serponado"
+    },
+    {
+      "position": 2,
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
     },
     {
       "position": 3,
@@ -50,33 +50,33 @@
     },
     {
       "position": 4,
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
+    },
+    {
+      "position": 5,
       "domain": "www.semotion.de",
       "url": "https://www.semotion.de/serponado/",
       "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
     },
     {
-      "position": 5,
+      "position": 6,
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/magazin/serponado/",
+      "title": "Serponado 2026: So schützt du dein Google-Ranking"
+    },
+    {
+      "position": 7,
       "domain": "contunda.de",
       "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
       "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
-      "position": 6,
+      "position": 8,
       "domain": "www.sortlist.de",
       "url": "https://www.sortlist.de/agency/serponado",
       "title": "Serponado (+ Bewertungen) | Sortlist"
-    },
-    {
-      "position": 7,
-      "domain": "hechtinsgefecht.de",
-      "url": "https://hechtinsgefecht.de/serponado-emds/",
-      "title": "Die besten Serponado EMDs im SEO-Contest 2026"
-    },
-    {
-      "position": 8,
-      "domain": "www.bremen.de",
-      "url": "https://www.bremen.de/visitenkarte/serponado",
-      "title": "Serponado"
     }
   ],
   "history": [
@@ -2895,6 +2895,19 @@
         "www.sortlist.de": 6,
         "hechtinsgefecht.de": 7,
         "www.bremen.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-26 17:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "netzhelfer.de": 3,
+        "taismo.de": 4,
+        "www.semotion.de": 5,
+        "leadpeak.me": 6,
+        "contunda.de": 7,
+        "www.sortlist.de": 8
       }
     }
   ]
