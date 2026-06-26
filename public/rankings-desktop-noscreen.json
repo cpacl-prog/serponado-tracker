@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-26 12:38 (Berlin)",
+  "updated_at": "2026-06-26 13:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 2,
+    "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -24,15 +24,15 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
-    },
-    {
-      "position": 2,
       "domain": "www.optimerch.de",
       "url": "https://www.optimerch.de/serponado/",
       "title": "Serponado wirbelt die Google SERPs durcheinander"
+    },
+    {
+      "position": 2,
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
     },
     {
       "position": 3,
@@ -54,21 +54,21 @@
     },
     {
       "position": 6,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "Serponado 2026: So schützt du dein Google-Ranking"
+      "domain": "mix4you.de",
+      "url": "https://mix4you.de/serponado",
+      "title": "Serponado 2026: SEO Challenge & Ranking-Tagebuch"
     },
     {
       "position": 7,
-      "domain": "www.kursmediasystems.de",
-      "url": "https://www.kursmediasystems.de/serponado/",
-      "title": "Serponado – Die SEO-Strategie, die die SERPs ..."
+      "domain": "www.sortlist.de",
+      "url": "https://www.sortlist.de/agency/serponado",
+      "title": "Serponado (+ Bewertungen) | Sortlist"
     },
     {
       "position": 8,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
     }
   ],
   "history": [
@@ -1975,6 +1975,19 @@
         "leadpeak.me": 6,
         "www.kursmediasystems.de": 7,
         "www.seo-kueche.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-26 13:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "netzhelfer.de": 4,
+        "contunda.de": 5,
+        "mix4you.de": 6,
+        "www.sortlist.de": 7,
+        "www.bremen.de": 8
       }
     }
   ]
