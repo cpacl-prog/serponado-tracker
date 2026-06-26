@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-26 13:38 (Berlin)",
+  "updated_at": "2026-06-26 14:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 1,
@@ -40,33 +40,39 @@
     },
     {
       "position": 3,
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
+    },
+    {
+      "position": 4,
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Don Serponado und der SEO Contest 2026"
+    },
+    {
+      "position": 5,
       "domain": "netzhelfer.de",
       "url": "https://netzhelfer.de/serponado/",
       "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
     },
     {
-      "position": 4,
-      "domain": "linkboosting.com",
-      "url": "https://linkboosting.com/",
-      "title": "Serponado – Definition, Bedeutung und Erklärung"
-    },
-    {
-      "position": 5,
-      "domain": "seo-spezialist.de",
-      "url": "https://seo-spezialist.de/serponado/",
-      "title": "Serponado – Der SERP-Tornado SEO Contest 2026"
-    },
-    {
       "position": 6,
-      "domain": "github.com",
-      "url": "https://github.com/BennyWindolph/serponado",
-      "title": "Serponado: Überblick der Exact-Match-Domains zum SEO-Contest ..."
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
       "position": 7,
-      "domain": "rahmengeben.de",
-      "url": "https://rahmengeben.de/serponado/",
-      "title": "Serponado: Was ist das? SEO-Contest 2026 erklärt"
+      "domain": "www.sortlist.de",
+      "url": "https://www.sortlist.de/agency/serponado",
+      "title": "Serponado (+ Bewertungen) | Sortlist"
+    },
+    {
+      "position": 8,
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
     }
   ],
   "history": [
@@ -1909,6 +1915,19 @@
         "seo-spezialist.de": 5,
         "github.com": 6,
         "rahmengeben.de": 7
+      }
+    },
+    {
+      "ts": "2026-06-26 14:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
+        "www.semotion.de": 3,
+        "taismo.de": 4,
+        "netzhelfer.de": 5,
+        "contunda.de": 6,
+        "www.sortlist.de": 7,
+        "www.bremen.de": 8
       }
     }
   ]
