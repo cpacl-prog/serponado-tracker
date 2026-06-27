@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-27 10:08 (Berlin)",
+  "updated_at": "2026-06-27 10:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -81,12 +81,6 @@
       "domain": "www.sortlist.de",
       "url": "https://www.sortlist.de/agency/serponado",
       "title": "Serponado (+ Bewertungen) | Sortlist"
-    },
-    {
-      "position": 9,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     }
   ],
   "history": [
@@ -5625,6 +5619,19 @@
         "www.semotion.de": 7,
         "www.sortlist.de": 8,
         "www.seo-kueche.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-27 10:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "netzhelfer.de": 3,
+        "taismo.de": 4,
+        "leadpeak.me": 5,
+        "contunda.de": 6,
+        "www.semotion.de": 7,
+        "www.sortlist.de": 8
       }
     }
   ]

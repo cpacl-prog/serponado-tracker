@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-27 10:08 (Berlin)",
+  "updated_at": "2026-06-27 10:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -56,9 +56,9 @@
     },
     {
       "position": 5,
-      "domain": "www.arise-onlinemarketing.de",
-      "url": "https://www.arise-onlinemarketing.de/serponado/",
-      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
     },
     {
       "position": 6,
@@ -68,9 +68,9 @@
     },
     {
       "position": 7,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "Serponado 2026: So schützt du dein Google-Ranking"
+      "domain": "www.sortlist.de",
+      "url": "https://www.sortlist.de/agency/serponado",
+      "title": "Serponado (+ Bewertungen) | Sortlist"
     },
     {
       "position": 8,
@@ -2450,6 +2450,19 @@
         "www.arise-onlinemarketing.de": 5,
         "contunda.de": 6,
         "leadpeak.me": 7,
+        "www.bremen.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-27 10:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "taismo.de": 3,
+        "netzhelfer.de": 4,
+        "www.semotion.de": 5,
+        "contunda.de": 6,
+        "www.sortlist.de": 7,
         "www.bremen.de": 8
       }
     }
