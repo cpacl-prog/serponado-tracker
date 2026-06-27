@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-27 23:08 (Berlin)",
+  "updated_at": "2026-06-27 23:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -11894,6 +11894,19 @@
     },
     {
       "ts": "2026-06-27 23:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "netzhelfer.de": 3,
+        "taismo.de": 4,
+        "www.arise-onlinemarketing.de": 5,
+        "leadpeak.me": 6,
+        "contunda.de": 7,
+        "www.seo-kueche.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-27 23:38 (Berlin)",
       "positions": {
         "serponado.org": 1,
         "www.optimerch.de": 2,
