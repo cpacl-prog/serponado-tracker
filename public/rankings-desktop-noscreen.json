@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-28 00:08 (Berlin)",
+  "updated_at": "2026-06-28 00:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -68,15 +68,15 @@
     },
     {
       "position": 7,
-      "domain": "www.sortlist.de",
-      "url": "https://www.sortlist.de/agency/serponado",
-      "title": "Serponado (+ Bewertungen) | Sortlist"
-    },
-    {
-      "position": 8,
       "domain": "www.bremen.de",
       "url": "https://www.bremen.de/visitenkarte/serponado",
       "title": "Serponado"
+    },
+    {
+      "position": 8,
+      "domain": "www.position-one.de",
+      "url": "https://www.position-one.de/serponado.html",
+      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
     }
   ],
   "history": [
@@ -2891,6 +2891,19 @@
         "www.semotion.de": 6,
         "www.sortlist.de": 7,
         "www.bremen.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-28 00:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "netzhelfer.de": 3,
+        "taismo.de": 4,
+        "contunda.de": 5,
+        "www.semotion.de": 6,
+        "www.bremen.de": 7,
+        "www.position-one.de": 8
       }
     }
   ]
