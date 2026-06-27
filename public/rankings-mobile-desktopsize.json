@@ -1,11 +1,11 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-27 12:08 (Berlin)",
+  "updated_at": "2026-06-27 12:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
-    "stale": true
+    "stale": false
   },
   "top3_moments": [
     {
@@ -42,15 +42,15 @@
     },
     {
       "position": 2,
-      "domain": "linkboosting.com",
-      "url": "https://linkboosting.com/",
-      "title": "Serponado – Definition, Bedeutung und Erklärung"
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
     },
     {
       "position": 3,
-      "domain": "github.com",
-      "url": "https://github.com/BennyWindolph/serponado",
-      "title": "Serponado: Überblick der Exact-Match-Domains zum SEO-Contest ..."
+      "domain": "linkboosting.com",
+      "url": "https://linkboosting.com/",
+      "title": "Serponado – Definition, Bedeutung und Erklärung"
     },
     {
       "position": 4,
@@ -60,9 +60,9 @@
     },
     {
       "position": 5,
-      "domain": "rahmengeben.de",
-      "url": "https://rahmengeben.de/serponado/",
-      "title": "Serponado: Was ist das? SEO-Contest 2026 erklärt"
+      "domain": "serponado.de",
+      "url": "https://serponado.de/",
+      "title": "Serponado – Die offizielle Website"
     },
     {
       "position": 6,
@@ -72,9 +72,15 @@
     },
     {
       "position": 7,
-      "domain": "www.reddit.com",
-      "url": "https://www.reddit.com/r/DigitalerFeierabend/comments/1u8acp8/was_ist_serponado_seo_die_methode_von_position_one/",
-      "title": "Was ist Serponado SEO? Die Methode von Position One"
+      "domain": "github.com",
+      "url": "https://github.com/BennyWindolph/serponado",
+      "title": "Serponado: Überblick der Exact-Match-Domains zum SEO-Contest ..."
+    },
+    {
+      "position": 8,
+      "domain": "serponado-tool.com",
+      "url": "https://serponado-tool.com/",
+      "title": "Serponado – Die AI-SEO-Suite, die über die SERPs fegt"
     }
   ],
   "history": [
@@ -3386,6 +3392,19 @@
         "rahmengeben.de": 5,
         "mix4you.de": 6,
         "www.reddit.com": 7
+      }
+    },
+    {
+      "ts": "2026-06-27 12:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "linkboosting.com": 3,
+        "seo-spezialist.de": 4,
+        "serponado.de": 5,
+        "mix4you.de": 6,
+        "github.com": 7,
+        "serponado-tool.com": 8
       }
     }
   ]
