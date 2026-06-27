@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-28 00:38 (Berlin)",
+  "updated_at": "2026-06-28 01:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -100,15 +100,15 @@
     },
     {
       "position": 7,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
-    },
-    {
-      "position": 8,
       "domain": "www.semotion.de",
       "url": "https://www.semotion.de/serponado/",
       "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
+    },
+    {
+      "position": 8,
+      "domain": "www.bremen.de",
+      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "title": "Serponado"
     }
   ],
   "history": [
@@ -11946,6 +11946,19 @@
         "contunda.de": 6,
         "www.seo-kueche.de": 7,
         "www.semotion.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-28 01:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "netzhelfer.de": 3,
+        "taismo.de": 4,
+        "www.arise-onlinemarketing.de": 5,
+        "contunda.de": 6,
+        "www.semotion.de": 7,
+        "www.bremen.de": 8
       }
     }
   ]
