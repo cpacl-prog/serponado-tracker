@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-27 16:38 (Berlin)",
+  "updated_at": "2026-06-27 17:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 2,
+    "position": 1,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -36,15 +36,15 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "serponado.org",
-      "url": "https://serponado.org/",
-      "title": "Serponado"
-    },
-    {
-      "position": 2,
       "domain": "www.optimerch.de",
       "url": "https://www.optimerch.de/serponado/",
       "title": "Serponado wirbelt die Google SERPs durcheinander"
+    },
+    {
+      "position": 2,
+      "domain": "serponado.org",
+      "url": "https://serponado.org/",
+      "title": "Serponado"
     },
     {
       "position": 3,
@@ -56,7 +56,7 @@
       "position": 4,
       "domain": "taismo.de",
       "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Don Serponado und der SEO Contest 2026"
+      "title": "Serponado: Der SEO Contest 2026"
     },
     {
       "position": 5,
@@ -3502,6 +3502,19 @@
       "positions": {
         "serponado.org": 1,
         "www.optimerch.de": 2,
+        "netzhelfer.de": 3,
+        "taismo.de": 4,
+        "contunda.de": 5,
+        "www.semotion.de": 6,
+        "www.sortlist.de": 7,
+        "www.bremen.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-27 17:08 (Berlin)",
+      "positions": {
+        "www.optimerch.de": 1,
+        "serponado.org": 2,
         "netzhelfer.de": 3,
         "taismo.de": 4,
         "contunda.de": 5,
