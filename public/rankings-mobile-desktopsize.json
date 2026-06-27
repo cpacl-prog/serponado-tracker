@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-27 07:38 (Berlin)",
+  "updated_at": "2026-06-27 08:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -48,39 +48,45 @@
     },
     {
       "position": 3,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
-    },
-    {
-      "position": 4,
       "domain": "taismo.de",
       "url": "https://taismo.de/seo-magazin/serponado/",
       "title": "Don Serponado und der SEO Contest 2026"
     },
     {
-      "position": 5,
-      "domain": "www.arise-onlinemarketing.de",
-      "url": "https://www.arise-onlinemarketing.de/serponado/",
-      "title": "Serponado | Das SEO-Unwetter, das Google erschüttert"
-    },
-    {
-      "position": 6,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
-    },
-    {
-      "position": 7,
+      "position": 4,
       "domain": "leadpeak.me",
       "url": "https://leadpeak.me/magazin/serponado/",
       "title": "Serponado 2026: So schützt du dein Google-Ranking"
     },
     {
+      "position": 5,
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
+    },
+    {
+      "position": 6,
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+    },
+    {
+      "position": 7,
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+    },
+    {
       "position": 8,
-      "domain": "www.bremen.de",
-      "url": "https://www.bremen.de/visitenkarte/serponado",
-      "title": "Serponado"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
+    },
+    {
+      "position": 9,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/shorts/ar2XttBlA8k",
+      "title": "Was ist Serponado SEO? Lena Solé erklärt die Methode von Position One"
     }
   ],
   "history": [
@@ -3276,6 +3282,20 @@
         "contunda.de": 6,
         "leadpeak.me": 7,
         "www.bremen.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-27 08:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "taismo.de": 3,
+        "leadpeak.me": 4,
+        "netzhelfer.de": 5,
+        "www.seo-kueche.de": 6,
+        "contunda.de": 7,
+        "www.semotion.de": 8,
+        "www.youtube.com": 9
       }
     }
   ]
