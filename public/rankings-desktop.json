@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-27 18:08 (Berlin)",
+  "updated_at": "2026-06-27 18:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -54,33 +54,33 @@
     },
     {
       "position": 4,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Serponado: Der SEO Contest 2026"
+      "domain": "linkboosting.com",
+      "url": "https://linkboosting.com/",
+      "title": "Serponado – Definition, Bedeutung und Erklärung"
     },
     {
       "position": 5,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+      "domain": "github.com",
+      "url": "https://github.com/BennyWindolph/serponado",
+      "title": "Serponado: Überblick der Exact-Match-Domains zum SEO ..."
     },
     {
       "position": 6,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
+      "domain": "seo-spezialist.de",
+      "url": "https://seo-spezialist.de/serponado/",
+      "title": "Serponado – Der SERP-Tornado SEO Contest 2026"
     },
     {
       "position": 7,
-      "domain": "www.sortlist.de",
-      "url": "https://www.sortlist.de/agency/serponado",
-      "title": "Serponado (+ Bewertungen) | Sortlist"
+      "domain": "rahmengeben.de",
+      "url": "https://rahmengeben.de/serponado/",
+      "title": "Serponado: Was ist das? SEO-Contest 2026 erklärt"
     },
     {
       "position": 8,
-      "domain": "www.bremen.de",
-      "url": "https://www.bremen.de/visitenkarte/serponado",
-      "title": "Serponado"
+      "domain": "mix4you.de",
+      "url": "https://mix4you.de/serponado",
+      "title": "Serponado 2026: SEO Challenge & Ranking-Tagebuch"
     }
   ],
   "history": [
@@ -5827,6 +5827,19 @@
         "www.semotion.de": 6,
         "www.sortlist.de": 7,
         "www.bremen.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-27 18:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "netzhelfer.de": 3,
+        "linkboosting.com": 4,
+        "github.com": 5,
+        "seo-spezialist.de": 6,
+        "rahmengeben.de": 7,
+        "mix4you.de": 8
       }
     }
   ]
