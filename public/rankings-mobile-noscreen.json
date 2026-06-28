@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-28 10:38 (Berlin)",
+  "updated_at": "2026-06-28 11:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -87,6 +87,12 @@
       "domain": "www.seo-kueche.de",
       "url": "https://www.seo-kueche.de/serponado/",
       "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
+    },
+    {
+      "position": 10,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=Blp1tSGpRlc",
+      "title": "Serponado SEO: Wie du 2026 überall rankst (Google & KI)"
     }
   ],
   "history": [
@@ -3070,6 +3076,21 @@
         "leadpeak.me": 7,
         "www.sortlist.de": 8,
         "www.seo-kueche.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-28 11:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "netzhelfer.de": 3,
+        "taismo.de": 4,
+        "www.semotion.de": 5,
+        "contunda.de": 6,
+        "leadpeak.me": 7,
+        "www.sortlist.de": 8,
+        "www.seo-kueche.de": 9,
+        "www.youtube.com": 10
       }
     }
   ]
