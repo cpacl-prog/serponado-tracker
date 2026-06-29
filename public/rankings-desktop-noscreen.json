@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-29 05:38 (Berlin)",
+  "updated_at": "2026-06-29 06:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -48,27 +48,39 @@
     },
     {
       "position": 3,
-      "domain": "linkboosting.com",
-      "url": "https://linkboosting.com/",
-      "title": "Serponado – Definition, Bedeutung und Erklärung"
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
     },
     {
       "position": 4,
-      "domain": "github.com",
-      "url": "https://github.com/BennyWindolph/serponado",
-      "title": "Serponado: Überblick der Exact-Match-Domains zum SEO ..."
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Serponado: Der SEO Contest 2026"
     },
     {
       "position": 5,
-      "domain": "seo-spezialist.de",
-      "url": "https://seo-spezialist.de/serponado/",
-      "title": "Serponado – Der SERP-Tornado SEO Contest 2026"
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/magazin/serponado/",
+      "title": "Serponado 2026: So schützt du dein Google-Ranking"
     },
     {
       "position": 6,
-      "domain": "mix4you.de",
-      "url": "https://mix4you.de/serponado",
-      "title": "Serponado 2026: SEO Challenge & Ranking-Tagebuch"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+    },
+    {
+      "position": 7,
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
+    },
+    {
+      "position": 8,
+      "domain": "www.sortlist.de",
+      "url": "https://www.sortlist.de/agency/serponado",
+      "title": "Serponado (+ Bewertungen) | Sortlist"
     }
   ],
   "history": [
@@ -3652,6 +3664,19 @@
         "github.com": 4,
         "seo-spezialist.de": 5,
         "mix4you.de": 6
+      }
+    },
+    {
+      "ts": "2026-06-29 06:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "netzhelfer.de": 3,
+        "taismo.de": 4,
+        "leadpeak.me": 5,
+        "contunda.de": 6,
+        "www.semotion.de": 7,
+        "www.sortlist.de": 8
       }
     }
   ]
