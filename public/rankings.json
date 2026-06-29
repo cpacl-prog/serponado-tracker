@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-29 18:08 (Berlin)",
+  "updated_at": "2026-06-29 18:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -86,27 +86,27 @@
     },
     {
       "position": 4,
-      "domain": "netzhelfer.de",
-      "url": "https://netzhelfer.de/serponado/",
-      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
-    },
-    {
-      "position": 5,
       "domain": "taismo.de",
       "url": "https://taismo.de/seo-magazin/serponado/",
       "title": "Serponado: Der SEO Contest 2026"
     },
     {
+      "position": 5,
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
+    },
+    {
       "position": 6,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+      "domain": "seobuddha.de",
+      "url": "https://seobuddha.de/serponado/",
+      "title": "Serponado"
     },
     {
       "position": 7,
-      "domain": "www.position-one.de",
-      "url": "https://www.position-one.de/serponado.html",
-      "title": "Serponado SEO-Strategie: Maximiere deine Klicks 2026"
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
       "position": 8,
@@ -13024,6 +13024,19 @@
         "taismo.de": 5,
         "contunda.de": 6,
         "www.position-one.de": 7,
+        "www.sortlist.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-29 18:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "www.semotion.de": 3,
+        "taismo.de": 4,
+        "netzhelfer.de": 5,
+        "seobuddha.de": 6,
+        "contunda.de": 7,
         "www.sortlist.de": 8
       }
     }
