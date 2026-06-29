@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-29 19:38 (Berlin)",
+  "updated_at": "2026-06-29 20:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -74,20 +74,20 @@
     },
     {
       "position": 6,
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/magazin/serponado/",
+      "title": "Serponado 2026: So schützt du dein Google-Ranking"
+    },
+    {
+      "position": 7,
       "domain": "contunda.de",
       "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
       "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     },
     {
-      "position": 7,
-      "domain": "www.sortlist.de",
-      "url": "https://www.sortlist.de/agency/serponado",
-      "title": "Serponado (+ Bewertungen) | Sortlist"
-    },
-    {
       "position": 8,
-      "domain": "www.bremen.de",
-      "url": "https://www.bremen.de/visitenkarte/serponado",
+      "domain": "seobuddha.de",
+      "url": "https://seobuddha.de/serponado/",
       "title": "Serponado"
     }
   ],
@@ -7091,6 +7091,19 @@
         "contunda.de": 6,
         "www.sortlist.de": 7,
         "www.bremen.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-29 20:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "www.semotion.de": 3,
+        "taismo.de": 4,
+        "netzhelfer.de": 5,
+        "leadpeak.me": 6,
+        "contunda.de": 7,
+        "seobuddha.de": 8
       }
     }
   ]
