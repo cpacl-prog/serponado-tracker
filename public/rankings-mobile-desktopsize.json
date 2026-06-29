@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-29 18:38 (Berlin)",
+  "updated_at": "2026-06-29 19:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -56,21 +56,21 @@
     },
     {
       "position": 3,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
-    },
-    {
-      "position": 4,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Serponado: Der SEO Contest 2026"
-    },
-    {
-      "position": 5,
       "domain": "netzhelfer.de",
       "url": "https://netzhelfer.de/serponado/",
       "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
+    },
+    {
+      "position": 4,
+      "domain": "seobuddha.de",
+      "url": "https://seobuddha.de/serponado/",
+      "title": "Serponado"
+    },
+    {
+      "position": 5,
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Serponado: Der SEO Contest 2026"
     },
     {
       "position": 6,
@@ -80,9 +80,9 @@
     },
     {
       "position": 7,
-      "domain": "www.sortlist.de",
-      "url": "https://www.sortlist.de/agency/serponado",
-      "title": "Serponado (+ Bewertungen) | Sortlist"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
     },
     {
       "position": 8,
@@ -4783,6 +4783,19 @@
         "netzhelfer.de": 5,
         "contunda.de": 6,
         "www.sortlist.de": 7,
+        "www.bremen.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-29 19:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "netzhelfer.de": 3,
+        "seobuddha.de": 4,
+        "taismo.de": 5,
+        "contunda.de": 6,
+        "www.semotion.de": 7,
         "www.bremen.de": 8
       }
     }

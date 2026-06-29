@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-29 18:38 (Berlin)",
+  "updated_at": "2026-06-29 19:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -89,12 +89,6 @@
       "domain": "www.semtrix.de",
       "url": "https://www.semtrix.de/serponado/",
       "title": "Serponado - Die Jagd nach dem SERP-Tornado"
-    },
-    {
-      "position": 9,
-      "domain": "www.seo-kueche.de",
-      "url": "https://www.seo-kueche.de/serponado/",
-      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     }
   ],
   "history": [
@@ -7071,6 +7065,19 @@
         "contunda.de": 7,
         "www.semtrix.de": 8,
         "www.seo-kueche.de": 9
+      }
+    },
+    {
+      "ts": "2026-06-29 19:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "www.semotion.de": 3,
+        "taismo.de": 4,
+        "netzhelfer.de": 5,
+        "leadpeak.me": 6,
+        "contunda.de": 7,
+        "www.semtrix.de": 8
       }
     }
   ]
