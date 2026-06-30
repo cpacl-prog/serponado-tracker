@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-30 12:08 (Berlin)",
+  "updated_at": "2026-06-30 12:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 1,
+    "position": 2,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -48,33 +48,33 @@
   "rankings": [
     {
       "position": 1,
-      "domain": "www.optimerch.de",
-      "url": "https://www.optimerch.de/serponado/",
-      "title": "Serponado wirbelt die Google SERPs durcheinander"
-    },
-    {
-      "position": 2,
       "domain": "serponado.org",
       "url": "https://serponado.org/",
       "title": "Serponado"
     },
     {
+      "position": 2,
+      "domain": "www.optimerch.de",
+      "url": "https://www.optimerch.de/serponado/",
+      "title": "Serponado wirbelt die Google SERPs durcheinander"
+    },
+    {
       "position": 3,
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Serponado: Der SEO Contest 2026"
+    },
+    {
+      "position": 4,
       "domain": "netzhelfer.de",
       "url": "https://netzhelfer.de/serponado/",
       "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
     },
     {
-      "position": 4,
+      "position": 5,
       "domain": "www.semotion.de",
       "url": "https://www.semotion.de/serponado/",
       "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
-    },
-    {
-      "position": 5,
-      "domain": "taismo.de",
-      "url": "https://taismo.de/seo-magazin/serponado/",
-      "title": "Serponado: Der SEO Contest 2026"
     },
     {
       "position": 6,
@@ -84,15 +84,15 @@
     },
     {
       "position": 7,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "Serponado 2026: So schützt du dein Google-Ranking"
-    },
-    {
-      "position": 8,
       "domain": "www.semtrix.de",
       "url": "https://www.semtrix.de/serponado/",
       "title": "Serponado - Die Jagd nach dem SERP-Tornado"
+    },
+    {
+      "position": 8,
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
     }
   ],
   "history": [
@@ -5245,6 +5245,19 @@
         "seobuddha.de": 6,
         "leadpeak.me": 7,
         "www.semtrix.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-30 12:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "taismo.de": 3,
+        "netzhelfer.de": 4,
+        "www.semotion.de": 5,
+        "seobuddha.de": 6,
+        "www.semtrix.de": 7,
+        "contunda.de": 8
       }
     }
   ]
