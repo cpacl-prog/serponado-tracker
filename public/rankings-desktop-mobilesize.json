@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-30 03:38 (Berlin)",
+  "updated_at": "2026-06-30 04:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -56,33 +56,39 @@
     },
     {
       "position": 3,
-      "domain": "linkboosting.com",
-      "url": "https://linkboosting.com/",
-      "title": "Serponado – Definition, Bedeutung und Erklärung"
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
     },
     {
       "position": 4,
-      "domain": "seo-spezialist.de",
-      "url": "https://seo-spezialist.de/serponado/",
-      "title": "Serponado – Der SERP-Tornado SEO Contest 2026"
+      "domain": "taismo.de",
+      "url": "https://taismo.de/seo-magazin/serponado/",
+      "title": "Serponado: Der SEO Contest 2026"
     },
     {
       "position": 5,
-      "domain": "mix4you.de",
-      "url": "https://mix4you.de/serponado",
-      "title": "Serponado 2026: SEO Challenge & Ranking-Tagebuch"
+      "domain": "netzhelfer.de",
+      "url": "https://netzhelfer.de/serponado/",
+      "title": "Serponado: Der SEO-Wirbelsturm in den Google-SERPs"
     },
     {
       "position": 6,
-      "domain": "github.com",
-      "url": "https://github.com/BennyWindolph/serponado",
-      "title": "Serponado: Überblick der Exact-Match-Domains zum SEO ..."
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/magazin/serponado/",
+      "title": "Serponado 2026: So schützt du dein Google-Ranking"
     },
     {
       "position": 7,
-      "domain": "de.linkedin.com",
-      "url": "https://de.linkedin.com/pulse/serponado-2026-wie-man-den-wildesten-seo-sturm-des-jahres-breitbach-zgzde",
-      "title": "Serponado 2026: Wie man den wildesten SEO-Sturm des ..."
+      "domain": "contunda.de",
+      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
+      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+    },
+    {
+      "position": 8,
+      "domain": "seobuddha.de",
+      "url": "https://seobuddha.de/serponado/",
+      "title": "Serponado"
     }
   ],
   "history": [
@@ -5155,6 +5161,19 @@
         "mix4you.de": 5,
         "github.com": 6,
         "de.linkedin.com": 7
+      }
+    },
+    {
+      "ts": "2026-06-30 04:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "www.semotion.de": 3,
+        "taismo.de": 4,
+        "netzhelfer.de": 5,
+        "leadpeak.me": 6,
+        "contunda.de": 7,
+        "seobuddha.de": 8
       }
     }
   ]
