@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-30 12:38 (Berlin)",
+  "updated_at": "2026-06-30 13:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -108,15 +108,15 @@
     },
     {
       "position": 7,
-      "domain": "leadpeak.me",
-      "url": "https://leadpeak.me/magazin/serponado/",
-      "title": "Serponado 2026: So schützt du dein Google-Ranking"
+      "domain": "www.seo-kueche.de",
+      "url": "https://www.seo-kueche.de/serponado/",
+      "title": "Serponado – Der SERP-Wirbelsturm einfach erklärt"
     },
     {
       "position": 8,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+      "domain": "www.kursmediasystems.de",
+      "url": "https://www.kursmediasystems.de/serponado/",
+      "title": "Serponado: Die SEO-Strategie, die als Tornado in den SERPs einschlägt"
     }
   ],
   "history": [
@@ -13511,6 +13511,19 @@
         "seobuddha.de": 6,
         "leadpeak.me": 7,
         "contunda.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-30 13:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "www.semotion.de": 3,
+        "taismo.de": 4,
+        "netzhelfer.de": 5,
+        "seobuddha.de": 6,
+        "www.seo-kueche.de": 7,
+        "www.kursmediasystems.de": 8
       }
     }
   ]
