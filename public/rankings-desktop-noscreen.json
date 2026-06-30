@@ -1,6 +1,6 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-30 13:08 (Berlin)",
+  "updated_at": "2026-06-30 13:38 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
     "position": 2,
@@ -54,7 +54,7 @@
       "position": 3,
       "domain": "www.semotion.de",
       "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026"
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026!"
     },
     {
       "position": 4,
@@ -70,15 +70,15 @@
     },
     {
       "position": 6,
-      "domain": "seobuddha.de",
-      "url": "https://seobuddha.de/serponado/",
-      "title": "Serponado"
+      "domain": "leadpeak.me",
+      "url": "https://leadpeak.me/magazin/serponado/",
+      "title": "Serponado 2026: So schützt du dein Google-Ranking"
     },
     {
       "position": 7,
-      "domain": "contunda.de",
-      "url": "https://contunda.de/blog/serponado-seo-tornado-google-serp/",
-      "title": "▷ Serponado: SEO-Tornado in den Google-SERPs"
+      "domain": "seobuddha.de",
+      "url": "https://seobuddha.de/serponado/",
+      "title": "Serponado"
     },
     {
       "position": 8,
@@ -4483,6 +4483,19 @@
         "netzhelfer.de": 5,
         "seobuddha.de": 6,
         "contunda.de": 7,
+        "www.semtrix.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-30 13:38 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "www.semotion.de": 3,
+        "taismo.de": 4,
+        "netzhelfer.de": 5,
+        "leadpeak.me": 6,
+        "seobuddha.de": 7,
         "www.semtrix.de": 8
       }
     }
