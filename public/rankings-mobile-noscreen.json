@@ -1,9 +1,9 @@
 {
   "keyword": "Serponado",
-  "updated_at": "2026-06-30 11:38 (Berlin)",
+  "updated_at": "2026-06-30 12:08 (Berlin)",
   "own_url": {
     "url": "https://www.optimerch.de/serponado/",
-    "position": 3,
+    "position": 2,
     "title": "Serponado wirbelt die Google SERPs durcheinander",
     "stale": false
   },
@@ -50,15 +50,15 @@
     },
     {
       "position": 2,
-      "domain": "www.semotion.de",
-      "url": "https://www.semotion.de/serponado/",
-      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
-    },
-    {
-      "position": 3,
       "domain": "www.optimerch.de",
       "url": "https://www.optimerch.de/serponado/",
       "title": "Serponado wirbelt die Google SERPs durcheinander"
+    },
+    {
+      "position": 3,
+      "domain": "www.semotion.de",
+      "url": "https://www.semotion.de/serponado/",
+      "title": "SERPonado Bewegung: für ein menschliches Web 2026 - Semotion"
     },
     {
       "position": 4,
@@ -4327,6 +4327,19 @@
         "serponado.org": 1,
         "www.semotion.de": 2,
         "www.optimerch.de": 3,
+        "taismo.de": 4,
+        "netzhelfer.de": 5,
+        "seobuddha.de": 6,
+        "leadpeak.me": 7,
+        "contunda.de": 8
+      }
+    },
+    {
+      "ts": "2026-06-30 12:08 (Berlin)",
+      "positions": {
+        "serponado.org": 1,
+        "www.optimerch.de": 2,
+        "www.semotion.de": 3,
         "taismo.de": 4,
         "netzhelfer.de": 5,
         "seobuddha.de": 6,
